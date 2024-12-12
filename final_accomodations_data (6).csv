@@ -1,0 +1,1905 @@
+accommodation_id,Sector,Property Reg Number,Account Name,Rating,Address City/Town,Address County,Eircode/Postal code,Latitude,Longitude,Owner(s) as it appears on Register,Total Units
+1,1,HHS04204,Druids Glen Hotel & Golf Resort,5.0,Newtownmountkennedy,5.0,A63 DW08,53.09163,-6.07879,Leila Ryan,144
+2,1,HHS01704,Glenview Hotel,4.0,Wicklow,4.0,A63 DC95,53.14226,-6.12708,John O'Farrell,72
+3,1,HHS04343,The Western Hotel,4.0,Galway city,4.0,H91 Y3FA,53.27641,-9.04788,Eugene Keville,43
+4,1,HHS04007,Hotel Isaacs,4.0,Cork,4.0,T23 F6EK,51.90159,-8.46809,Clement Gleeson,47
+5,1,HHS04011,Maldron Hotel Pearse Street,4.0,Dublin 2,4.0,D02 RK37,53.34328,-6.24411,Sean McKeon,126
+6,1,HHS04337,Clayton Whites Hotel,4.0,Wexford,4.0,Y35 C5PF,52.34035,-6.46405,Joe O'Brien,160
+7,1,HHS03855,Killeen House Hotel,4.0,Killarney,4.0,V93 WR04,52.07555,-9.57124,Patrick Eviston,27
+8,1,HHS01451,Ashford Castle Hotel,5.0,Cong,5.0,F31 CA48,53.53451,-9.28459,Lisa Toomey,83
+9,1,HHS04336,Raheen Woods Hotel,4.0,Athenry,4.0,H65 E443,53.30066,-8.76173,Lester McNamara,50
+10,1,HHS04236,Maldron Hotel Wexford,4.0,Wexford,4.0,Y35 E8KT,52.33748,-6.51422,Sean  McKeon,108
+11,1,HHS03676,Ardagh Hotel & Restaurant,4.0,Clifden,4.0,H71 X590,53.46882,10.01749,Stephane Bauvet,17
+12,1,HHS04282,Great National Ballykisteen Golf Hotel,4.0,Tipperary,4.0,E34 VK12,52.50213,-8.21678,Cyril  McMahon,40
+13,1,HHS03233,Gregans Castle Hotel,4.0,Ballyvaughan,4.0,H91 CF60,53.07678,-9.18426,Simon Haden,21
+14,1,HHS03492,Hylands Burren Hotel,4.0,Ballyvaughan,4.0,H91 EY00,53.11534,-9.1492,David Quinn,32
+15,1,HHS03987,Casey's of Baltimore Hotel,4.0,Baltimore,4.0,P81 YW66,51.48467,-9.36251,Dominic Casey,14
+16,1,HHS03357,Westlodge Hotel,4.0,Bantry,4.0,P75 N978,51.67254,-9.47483,Annette O'Donovan,77
+17,1,HHS04408,The Twelve,4.0,Barna,4.0,H91 Y3KA,53.25145,-9.15256,Fergus O'Halloran,47
+18,1,HHS03179,The Dunloe Hotel & Gardens,5.0,Beaufort,5.0,V93 E029,52.06128,-9.6283,Jason Clifford,102
+19,1,HHS34464,Glashaus Hotel,4.0,Dublin 24,4.0,D24 AT84,53.28785,-6.37402,John Dempsey,48
+20,1,HHS04409,Fitzwilton Hotel,4.0,Waterford,4.0,X91 RC9A,52.26338,-7.11968,Geoff Dawson,90
+21,1,HHS03425,"Castlecourt Hotel Spa, Leisure and Conference",4.0,Westport,4.0,F28 NX84,53.80116,-9.51899,Joe  Corcoran,161
+22,1,HHS04364,"Westport Plaza Hotel Spa, Leisure and Conference",4.0,Westport,4.0,F28 D297,53.80105,-9.51942,Michael  McLoughlin,87
+23,1,HHS03191,Newpark Hotel,4.0,Kilkenny,4.0,R95 KP63,52.66435,-7.25055,Niall Dunne,131
+24,1,HHS04311,Hilton Dublin,4.0,Dublin 2,4.0,D02 A893,53.33118,-6.25933,Paul Higgins,193
+25,1,HHS03977,"Citywest Hotel, Leisure & Events",4.0,Saggart,4.0,D24 PKF1,53.28595,-6.45005,Linda Lockhart,761
+26,1,HHS03991,Shamrock Lodge Hotel,4.0,Athlone,4.0,N37 CK73,53.42143,-7.95076,Alan McCaul,52
+27,1,HHS34430,White Sands Hotel,4.0,Dublin 13,4.0,D13 W7X2,53.4352,-6.1243,Mary Murphy,58
+28,1,HHS04179,"The College Green Hotel Dublin, Autograph Collection",5.0,Dublin 2,5.0,D02 HR67,53.34564,-6.25888,Joanne Dillon,191
+29,1,HHS01322,Arbutus Hotel,4.0,Killarney,4.0,V93 AYP9,52.05955,-9.5061,Sean Buckley,29
+30,1,HHS03260,Hotel Killarney,4.0,Killarney,4.0,V93 FX00,52.06029,-9.48468,Misja Herfurt,190
+31,1,HHS01966,Twin Trees Hotel & Leisure Club,4.0,Ballina,4.0,F26 A3N7,54.11746,-9.13565,Rachael Moylett-Smith,52
+32,1,HHS03119,The Anner Hotel,4.0,Thurles,4.0,E41 X789,52.67878,-7.79622,Noel Mulhaire,93
+33,1,HHS02840,Falls Hotel,4.0,Ennistymon,4.0,V95 D2PC,52.94075,-9.29825,Michael McCarthy,135
+34,1,HHS04298,Innisfallen Hotel,4.0,Killarney,4.0,V93 CR90,52.07062,-9.57417,Misja Herfurt,73
+35,1,HHS40145,Fota Island Hotel and Spa,5.0,Carrigtwohill,5.0,T45 HX62,51.9003,8.2918,John O'Flynn,131
+36,1,HHS03117,"Abbey Hotel, Conference and Leisure",4.0,Roscommon,4.0,F42 F992,53.62451,-8.19375,Enya Conroy,50
+37,1,HHS01937,Garryvoe Hotel,4.0,Ladysbridge,4.0,P25 DR94,51.85922,-8.00438,Aidan Cotter,84
+38,1,HHS04188,Glasson Lakehouse,4.0,Athlone,4.0,N37 HX45,53.47567,-7.90072,Conor O'Leary,69
+39,1,HHS04424,Sneem Hotel,4.0,Sneem,4.0,V93 XV44,51.83377,-9.89926,Louis Moriarty,69
+40,1,HHS03364,Kenmare Bay Hotel & Resort,4.0,Kenmare,4.0,V93 HY28,51.88302,-9.59135,Elma Callanan,126
+41,1,HHS04291,Manor West Hotel Spa & Leisure Club,4.0,Tralee,4.0,V92 YC59,52.26405,-9.67638,COLIN BOYLE,77
+42,1,HHS04229,Clybaun Hotel,4.0,Galway,4.0,H91 F62V,53.26948,-9.10814,Pawel Bartoszynski,92
+43,1,HHS03023,Castlerosse Park Resort,4.0,Killarney,4.0,V93 VN5P,52.06621,-9.54,Mark Bowe,120
+44,1,HHS02973,Ballygarry Estate Hotel and Spa,4.0,Tralee,4.0,V92 W279,52.26106,-9.66016,Padraig Fitzgerald,64
+45,1,HHS04471,Delphi Resort,4.0,Leenane,4.0,H91 DP08,53.63153,-9.74711,Timothy Bohan,51
+46,2,GAS07592,Teach De Broc,4.0,Ballybunion,4.0,V31 C971,52.49398,-9.6732,Dermot Brock,14
+47,1,HHS03533,Hydro Hotel,4.0,Lisdoonvarna,4.0,V95 RY61,53.02666,-9.29042,Marcus White,110
+48,1,HHS02305,Imperial Hotel,4.0,Lisdoonvarna,4.0,V95 HF5X,53.02834,-9.28972,Megan  White,100
+49,1,HHS03751,Whites Burren Castle Hotel,4.0,Lisdoonvarna,4.0,V95 C838,53.01876,-9.31574,megan white,81
+50,1,HHS04163,The Galmont Hotel & Spa,4.0,Galway,4.0,H91 CYN3,9.0438,53.2742,Paul Higgins,275
+51,1,HHS04470,Lough Eske Castle,5.0,Donegal Town,5.0,F94 HX59,54.68836,-8.06602,Donal Cox,124
+52,1,HHS02510,Arnold's Hotel,4.0,Dunfanaghy,4.0,F92 N6TF,55.18343,-7.9698,Susan Alcorn,30
+53,1,HHS01230,Holyrood Hotel,4.0,Bundoran,4.0,F94 N6W9,54.47795,-8.27984,Audrey Mc Eniff,91
+54,1,HHS04077,Nesbitt Arms Boutique Hotel,4.0,Ardara,4.0,F94 X0RN,54.76205,-8.4137,Claire O'Reilly Clancy,49
+55,1,HHS03629,Granville Hotel,4.0,Waterford,4.0,X91 XH5R,52.26207,-7.11233,Michael Skehan,98
+56,1,HHS04113,Clayton Hotel Ballsbridge,4.0,Dublin 4,4.0,D04 P3C3,53.32568,-6.22512,Alan Deller,334
+57,1,HHS04385,Maldron Hotel Portlaoise,4.0,Portlaoise,4.0,R32 HKN3,53.01432,-7.30137,Alice Harrington,90
+58,1,HHS04331,Mount Juliet Estate,5.0,Thomastown,5.0,R95 HY05,52.52836,-7.18741,Damien Gaffney,125
+59,1,HHS04133,Riverside Hotel Killarney,4.0,Killarney,4.0,V93 V260,52.04916,-9.50732,Elma Callanan,69
+60,1,HHS03957,Maldron Hotel Newlands Cross,4.0,Dublin 22,4.0,D22 V6Y6,53.3136,-6.39259,Linda Folan- Deller,297
+61,1,HHS04383,Holiday Inn Express Dublin Airport,4.0,Dublin 9,4.0,D09 RY17,53.40433,-6.24409,Magda Dabrowska,214
+62,3,HOS09944,The Abbey Court Hostel,4.0,Dublin 1,4.0,D01 AX90,53.34753,-6.26038,Michael Irwin,381
+63,1,HHS03280,Brandon House Hotel and Solas Croi Spa,4.0,New Ross,4.0,Y34 KR62,52.38692,-6.94413,Pat Quinn,78
+64,1,HHS03750,Castle Oaks House Hotel,4.0,Castleconnell,4.0,V94 EH94,52.70948,-8.50818,Theresa O'Keeffe,62
+65,3,HOS09907,Jacobs Inn,4.0,Dublin 1,4.0,D01 W5P8,53.3507,-6.25177,Kris Kumar Chawla,412
+66,1,HHS32370,Moyvalley Hotel,4.0,Moyvalley,4.0,W91 Y803,53.41902,-6.92307,Simon Mooney,54
+67,3,HOS010056,Mulgrave Lodge,4.0,Dun Laoghaire,4.0,A96 FN24,53.29017,-6.13699,Mina Jiang,22
+68,1,HHS04401,Aspect Hotel Dublin Parkwest,4.0,Dublin 12,4.0,D12 F2V4,53.33303,-6.37494,Andrea Wallace,146
+69,1,HHS02135,Parknasilla Hotel,4.0,Sneem,4.0,V93 EK71,51.81568,-9.8748,Tony Daly,89
+70,1,HHS03085,Blue Haven Hotel,4.0,Kinsale,4.0,P17 NA72,51.70642,-8.52293,Mary Kirby O Donovan,16
+71,1,HHS04499,No 1 Pery Square Hotel & Spa,4.0,Limerick,4.0,V94 EKP9,52.65815,-8.63,Patricia Roberts,21
+72,1,HHS02406,Actons Hotel,4.0,Kinsale,4.0,P17 PX80,51.70328,-8.52097,D Good,72
+73,1,HHS04277,Castleknock Hotel  ,4.0,Dublin 15,4.0,D15 WNR7,53.36597,-6.38979,Syed Rizvi,190
+74,1,HHS02302,Renvyle House Hotel,4.0,Renvyle,4.0,H91 X8Y8,53.609,-10.00168,Zoe Fitzgerald,67
+75,1,HHS03131,Rochestown Lodge Hotel and Leisure Club,4.0,Dun Laoghaire,4.0,A96 ETY8,53.26957,-6.14167,Ken Fetherston,90
+76,1,HHS03985,"Celtic Ross Hotel, Conference, Leisure Centre & Holistic Suite",4.0,Rosscarbery,4.0,P85 WF86,51.57588,-9.02894,Ger Carroll,66
+77,1,HHS01316,"Yeats Country Hotel, Spa and Leisure Club",4.0,Rosses Point,4.0,F91 WP6N,54.30584,-8.56539,Fiona McEniff,98
+78,1,HHS01610,West Cork Hotel,4.0,Skibbereen,4.0,P81 FH63,51.55083,-9.27071,Barry Looney,49
+79,1,HHS03980,Armada Hotel,4.0,Miltown Malbay,4.0,V95 R883,52.84522,-9.43689,John Burke,62
+80,1,HHS04389,The Glasshouse,4.0,Sligo,4.0,F91 NCA4,54.2725,-8.47473,Vanessa O'Donovan,116
+81,1,HHS04420,Park Hotel Kiltimagh,4.0,Kiltimagh,4.0,F12 NY17,53.85749,-8.99342,Claire Brogan,49
+82,1,HHS04023,Galway Bay Hotel Conference and Leisure Centre,4.0,Galway,4.0,H91 W295,53.25871,-9.08498,Dan Murphy,153
+83,1,HHS04419,Maritime Hotel,4.0,Bantry,4.0,P75 XW35,51.68004,-9.45712,Jerry Enwright,110
+84,1,HHS04459,The Ice House Hotel,4.0,Ballina,4.0,F26 Y9E8,54.12737,-9.14018,Pearse Farrell,32
+85,1,HHS04476,Glengarriff Park Hotel & Spa,4.0,Glengarriff,4.0,P75 YC84,51.75036,-9.54966,Colm MacCarthy,23
+86,1,HHS01148,Bush Hotel,4.0,Carrick-On-Shannon,4.0,N41 H5P1,53.94617,-8.09396,Patrick Kaczynski,62
+87,1,HHS03382,Earl of Desmond Hotel,4.0,Tralee,4.0,V92 FC79,52.2555,-9.63574,Marcus White,140
+88,2,GAS07766,Harrington Hall,4.0,Dublin 2,4.0,D02 HP46,53.33497,-6.263,Danielle McGill,29
+89,1,HHS02399,Ballynahinch Castle Hotel,4.0,Recess,4.0,H91 F4A7,53.4601,-9.86238,Aileen King,48
+90,1,HHS02574,Seaview House Hotel,4.0,Ballylickey,4.0,P75 N283,51.7222,-9.43647,Ronan O'Sullivan,25
+91,1,HHS03733,Ballyseede Castle Hotel,4.0,Tralee,4.0,V92 VW30,52.25624,-9.64679,Marnie Corscadden,40
+92,4,HHL10828,Delphi Lodge,4.0,Leenane,4.0,H91 R5Y6,53.63285,-9.74733,Philip Counihan,13
+93,1,HHS35406,"Trump International Golf Links & Hotel, Ireland",5.0,Kilrush,5.0,V15 KH39,52.74675,-9.50401,Joe Russell,155
+94,1,HHS04388,Mount Falcon Estate,4.0,Ballina,4.0,F26 H744,54.05455,-9.15726,Alan Maloney,32
+95,5,SCS09226,Inchydoney Island Apartments,4.0,Clonakilty,4.0,P85 X258,51.59737,-8.86229,Ruth McCarthy,11
+96,1,HHS03786,Dingle Benners Hotel,4.0,Dingle,4.0,V92 FTK2,52.1414,-10.26825,Dingle Benners Reception,52
+97,1,HHS02834,Cahernane House Hotel,4.0,Killarney,4.0,V93 E78W,52.04322,-9.50998,Stephen Loftus,48
+98,1,HHS02975,Sandhouse Hotel,4.0,Rossnowlagh,4.0,F94 X56F,54.55386,-8.21012,Paul Diver,50
+99,4,HHL10331,Glenlohane,4.0,Kanturk,4.0,P51 CK31,52.18488,-8.80277,Gordon Sharp Bolster,3
+100,6,CCS00287,Lough Rynn Caravan and Camping Park,4.0,Mohill,4.0,N41 KH22,53.89921,-7.86222,Mary McCarrick,20
+101,6,CCS00293,Tree Grove Caravan and Camping Park,4.0,Kilkenny,4.0,R95 K642,52.63786,-7.22941,Dan Stallard,46
+102,6,CCS00298,Hidden Valley Holiday Park,4.0,Rathdrum,4.0,A67 XY56,52.93908,-6.22772,Molly Williams,153
+103,6,CCS00300,Hideaway Camping and Caravan Park,4.0,Skibbereen,4.0,P81 EV78,51.5417,-9.26033,Stephen Keohane,60
+104,6,CCS00301,Clonvilla,4.0,Youghal,4.0,P36 ND83,51.91066,-7.92432,Noreen Cashman,30
+105,6,CCS00305,Bayview Caravan and Camping Park,4.0,Dungarvan,4.0,X35 EA40,52.15889,-6.99952,Mark Knowles,134
+106,6,CCS00306,Lakeside Caravan and Camping Park,4.0,Ballyshannon,4.0,F94 T9RY,54.49734,-8.17227,Mungo Sloan,88
+107,6,CCS00102,Rosses Point Caravan Park (Greenlands),4.0,Rosses Point,4.0,F91 TC64,54.18424,-8.34161,Gerry Fox,160
+108,6,CCS00103,Strandhill Caravan and Camping Park,4.0,Strandhill,4.0,F91 W540,54.16299,-8.36153,Gerry Fox,190
+109,6,CCS00112,Morriscastle Strand Family Caravan Park,4.0,Kilmuckridge,4.0,Y25 E9P5,52.51789,-6.23953,Niamh Darcy,308
+110,6,CCS00116,Flemings White Bridge Caravan and Camping,4.0,Killarney,4.0,V93 HW56,52.05711,-9.4759,Moira Fleming,93
+111,6,CCS00120,Fossa Caravan and Camping Park,4.0,Killarney,4.0,V93 V208,52.07082,-9.58561,Derry Brosnan,126
+112,6,CCS00123,Glengarriff Caravan and Camping Park,4.0,Glengarriff,4.0,P75 KD57,51.73583,-9.56417,Nicholas Dowling,90
+113,6,CCS00138,Lough Key Caravan and Camping Park,4.0,Boyle,4.0,F52 HE06,53.98084,-8.23611,Dermot Beggan,76
+114,6,CCS00146,Streamstown Caravan and Camping Park,4.0,Roscrea,4.0,E53 YX67,52.95665,-7.83974,Keith & Marina Stanley,60
+115,6,CCS00153,Roundwood Caravan and Camping Park,4.0,Bray,4.0,A98 W3R8,53.0691,-6.22232,Molly & Lloyd Williams,71
+116,6,CCS00156,Anchor Caravan Park,4.0,Castlegregory,4.0,V92 YD42,52.24354,-9.9855,Chris Searle,30
+117,6,CCS00158,Tramore Beach Caravan and Camping Park,4.0,Portnoo,4.0,F94 RW66,54.80953,-8.49676,Aidan Campbell,25
+118,6,CCS00163,Ocean Island Caravan and Camping Park,4.0,New Ross,4.0,Y34 VP79,52.19997,-6.84454,Bernard Whelan,82
+119,6,CCS34141,Knockalla Caravan & Camping Park,4.0,Portsalon,4.0,F92 Y338,55.18371,-7.61129,Colm Doherty,28
+120,6,CCS00168,Newtown Cove Caravan and Camping Park,4.0,Tramore,4.0,X91 E099,52.14762,-7.17252,Sarah Good,100
+121,6,CCS00170,O'Sheas Caravan and Camping Park,4.0,Glengarriff,4.0,P75 PY56,51.75091,-9.54367,Donal O'Shea,25
+122,6,CCS00174,Gyles Quay Caravan and Camping Park,4.0,Riverstown,4.0,A91 RH2C,53.98826,-6.24293,Claire Ferguson,174
+123,6,CCS00178,Casey's Caravan and Camping Park,4.0,Dungarvan,4.0,X35 EP20,52.09517,-7.54739,Daniel Casey,284
+124,6,CCS00180,Desert House Caravan and Camping Park,4.0,Clonakilty,4.0,P85 XE29,51.62238,-8.87516,David Jennings,72
+125,6,CCS00181,River Valley Caravan Park,4.0,Redcross,4.0,A67 W966,52.88893,-6.14482,Lorna Williams,180
+126,6,CCS00183,Green Acres Caravan and Camping Park,4.0,Kilkee,4.0,V15 YV59,52.62069,-9.64348,Niall McGrath,41
+127,6,CCS00190,Wave Crest Caravan and Camping Park,4.0,Caherdaniel,4.0,V93 V2YP,51.75883,-10.09112,John O Shea,120
+128,6,CCS00195,Powers the Pot Caravan and Camping Park,4.0,Clonmel,4.0,E91 F782,52.32725,-7.62271,Niall Carroll,20
+129,6,CCS00198,Creveen Lodge Caravan and Camping Park,4.0,Lauragh,4.0,V93 YHY9,51.75509,-9.76014,Mary Moriarty,20
+130,6,CCS00200,Westport House Caravan & Camping Park,4.0,Westport,4.0,F28 TY45,53.80061,-9.53562,Owen Hughes,160
+131,6,CCS00201,Carrowkeel Camping and Caravan Park,4.0,Castlebar,4.0,F23 NX74,53.90906,-9.1846,Alex Peters,58
+132,6,CCS00205,The Apple Camping and Caravan Park,4.0,Cahir,4.0,E21 YX33,52.37871,-7.84271,Cornelius Traas,32
+133,6,CCS00219,Renvyle Beach Caravan and Camping Park,4.0,Renvyle,4.0,H91 EP38,53.60278,-9.98486,Pauline Mortimer,36
+134,6,CCS00224,Mannix Point Camping and Caravan Park,4.0,Caherciveen,4.0,V23 PA07,51.94194,-10.24526,Terence Sharpe,73
+135,6,CCS00225,Fitzmaurice's Caravan & Camping Park,4.0,Tramore,4.0,X91 X2WH,52.16445,-7.13887,Alec Fitzmaurice,110
+136,6,CCS00230,Campail Teach an Aragail,4.0,Ballydavid,4.0,V92 HX95,52.17304,-10.35557,Éanna Ó Conchúir,84
+137,6,CCS00234,Nagles Doolin Camping and Caravan Park,4.0,Doolin,4.0,V95 HX25,53.01632,-9.38473,Kenneth Nagle,99
+138,6,CCS00236,Meadow Camping Park,4.0,Glandore,4.0,P81 WR68,51.56717,-9.09696,Stephen and Helen Keohane,20
+139,6,CCS00245,Sextons Caravan and Camping Park,4.0,Timoleague,4.0,P72 WY61,51.63442,-8.80237,Elaine Sexton,30
+140,6,CCS00246,Garrettstown House Holiday Park,4.0,Kinsale,4.0,P17 NP66,51.65339,-8.59556,Denis Finbarr Mawe,320
+141,6,CCS00247,North Beach Caravan Park,4.0,Rush,4.0,K56 HN63,53.52581,-6.08662,Stephen McNally,64
+142,6,CCS00250,Nore Valley Park,4.0,Stoneyford,4.0,R95 RXR4,52.56337,-7.19521,Isobel Harper,106
+143,6,CCS00252,Jasmine Villa,4.0,Carrigtwohill,4.0,T45 XW88,51.91146,-8.23967,Jo McGrath,20
+144,6,CCS00254,Galey Bay Caravan and Camping Park,4.0,Roscommon,4.0,F42 RP20,53.57714,-8.06691,Patrick Naughton,27
+145,6,CCS00255,Glen Ross Caravan and Camping Park,4.0,Glenbeigh,4.0,V93 HF64,52.05862,-9.93183,Kathy Fleming,40
+146,6,CCS00258,Keel Sandybanks Caravan and Camping Park,4.0,Achill Island,4.0,F28 EA47,53.97491,-10.07704,David O'Malley,160
+147,6,CCS00262,Páirc Saoire an Spidéal,4.0,Spiddal,4.0,H91 A271,53.25508,-9.30655,Neasa Ni Chuanaigh,50
+148,6,CCS00265,Lakeside Holiday Park,4.0,Mountshannon,4.0,V94 V638,52.92755,-8.42073,Thomas Bottcher,45
+149,6,CCS00266,Blarney Caravan and Camping Park,4.0,Blarney,4.0,T23 R85R,51.94742,-8.5461,Con Quill,40
+150,6,CCS00271,"Belleek Park, Caravan and Camping",4.0,Ballina,4.0,F26 CP57,54.13428,-9.15854,Gerry & Michelle Trayno,58
+151,6,CCS00274,Killarney Flesk Caravan Park,4.0,Killarney,4.0,V93 D6PN,52.04389,-9.50034,John Courtney,72
+152,6,CCS00275,Parsons Green,4.0,Clogheen,4.0,E21 A377,52.2806,-7.9894,Kathleen Noonan,89
+153,6,CCS00276,Lough Ramor Caravan and Camping Park,4.0,Virginia,4.0,A82 Y058,53.7957,-7.04943,Francis Conway,40
+154,6,CCS00279,Moat Farm Caravan and Camping Park,4.0,Donard,4.0,W91 T2P3,53.02107,-6.61499,Nuala Allen,40
+155,6,CCS00281,Rosguill Caravan and Camping Park,4.0,Downings,4.0,F92 W965,55.2428,-7.7909,Peadar Boyce,59
+156,6,CCS00285,Corofin Village Camping and Caravan,4.0,Corofin,4.0,V95 ET35,52.94549,-9.06522,Jude Neylon,40
+157,6,CCS00310,Glenbeg Caravan Park,4.0,Caherdaniel,4.0,V93 Y306,51.75895,-10.0815,Noel O'Shea,85
+158,6,CCS00313,Woodlands Park,4.0,Tralee,4.0,V92 RW89,52.26139,-9.70376,Jane Murphy,132
+159,6,CCS00314,Lough Lannagh Caravan Park,4.0,Castlebar,4.0,F23 VW73,53.84917,-9.32456,Paul Lennon,20
+160,6,CCS00317,Sir Rogers Caravan and Camping Park,4.0,Ardfert,4.0,V92 WV83,52.33964,-9.82615,Ben & Margaret Breen,34
+161,6,CCS00319,Adare Camping & Caravan Site,4.0,Adare,4.0,V94 E2C4,52.53813,-8.79351,Hugh Doherty,28
+162,6,CCS00324,The Trading Post Camper Park,4.0,The Ballagh,4.0,Y21 A093,52.45375,-6.40127,Patrick Power,21
+163,6,CCS00326,O'Briens Cashel Lodge,4.0,Cashel,4.0,E25 PY79,52.52005,-7.8956,Tom O Brien,24
+164,6,CCS00327,Clifden Campsite and Caravan Park,4.0,Clifden,4.0,H71 NW52,53.50185,-10.01815,France Nee,42
+165,6,CCS00331,Beirnes of Battlebridge,4.0,Leitrim Village,4.0,N41 XV90,53.99651,-8.08038,Joe Beirne,43
+166,7,WSL35489,Currarevagh House,3.0,Oughterard,3.0,H91 X3C2,53.46444,-9.35072,Henry Hodgson,8
+167,2,GAS05549,O'Connors Guesthouse,4.0,Tralee,4.0,V92 PV48,52.23336,-10.18317,Michael O'Dowd,9
+168,7,WSL40328,Kilmurvey House,3.0,Aran Islands,3.0,H91 CF5X,53.13068,-9.75827,Tessa  Seoighe,12
+169,2,GAS06479,Kilronan Guesthouse,4.0,Dublin 2,4.0,D02 H316,53.33297,-6.25962,Romi Gutu,15
+170,2,GAS06495,Coolcower House,4.0,Macroom,4.0,P12 E135,51.88749,-8.94253,Bernie O'Callaghan,12
+171,2,GAS06668,The Bianconi Inn,4.0,Killorglin,4.0,V93 XN83,52.10606,-9.78485,Hazel Boyle,14
+172,2,GAS06776,Foleys Town House,4.0,Killarney,4.0,V93 X721,52.06082,-9.50991,Carol Hartnett,28
+173,2,GAS06838,Alpine House,4.0,Dingle,4.0,V92 D920,52.13754,-10.26905,Paul O'Shea,11
+174,2,GAS07045,Atlantic,4.0,Donegal,4.0,F94 RKF3,54.65376,-8.10793,Gregory Browne,14
+175,2,GAS07086,Richmond House,4.0,Cappoquin,4.0,P51 FW72,52.13926,-7.8467,Paul Deevy,9
+176,2,GAS07111,Piker's Lodge,4.0,Loch Gowna,4.0,H12 N2R6,53.87287,-7.53401,Christina Brady,11
+177,2,GAS07123,Ach na Sheen,4.0,Tipperary,4.0,E34 Y880,52.47301,-8.15484,Sylvia Noonan,7
+178,2,GAS07167,Harveys Guesthouse,4.0,Dublin 1,4.0,D01 XA06,53.35735,-6.25995,Nicholas Flood,32
+179,2,GAS07323,Faythe Guesthouse,4.0,Wexford,4.0,Y35 PD70,52.33304,-6.45742,Damian Lynch,10
+180,2,GAS07350,19th Green,4.0,Killarney,4.0,V93 Y894,52.06886,-9.56158,John & Freda Sheehan,13
+181,7,WSL40107,Smugglers Inn,3.0,Waterville,3.0,V23 CY99,51.83709,-10.1949,Henry Hunt,15
+182,2,GAS07355,Bayview Guesthouse,4.0,Miltown Malbay,4.0,V95 CF50,52.8523,-9.43933,Diane Lahiff,8
+183,2,GAS07373,Ashleigh House,4.0,Monaghan,4.0,H18 NY72,54.24755,-6.96625,trudy boyd,10
+184,2,GAS07399,Glendine Inn,4.0,Kilkenny,4.0,R95 VY92,52.66712,-7.2529,Pius Phelan,10
+185,2,GAS07404,Woodhill House,4.0,Ardara,4.0,F94 E102,54.75841,-8.4052,John Yates,13
+186,2,GAS34209,Fitzwilliam Townhouse,4.0,Dublin 2,4.0,D02 PW71,53.33654,-6.24911,Padraig O'Feinneadha,13
+187,2,GAS07423,The Anglers Rest,4.0,Ballyconnell,4.0,H14 CY24,54.11647,-7.584,Francis McGoldrick,8
+188,2,GAS07425,Butler House,4.0,Kilkenny,4.0,R95 YY43,52.64884,-7.25093,Lorraine Kerwick,17
+189,7,WSL40975,Lemon Leaf Townhouse,3.0,Kinsale,3.0,P17 PN28,51.70553,-8.52393,Ray Reidy,10
+190,2,GAS07440,Foleys Guesthouse,4.0,Kenmare,4.0,V93 R682,51.87939,-9.58339,Patrick Foley,10
+191,2,GAS07464,Aisleigh,4.0,Carrick-On-Shannon,4.0,N41 TK64,53.9464,-8.07996,Sean Fearon,10
+192,2,GAS07465,The Old Bank Townhouse,4.0,Kinsale,4.0,P17 K722,51.706,-8.52197,Ciaran Fitzgerald,17
+193,13,BBL40314,Glebe House,4.0,Mohill,4.0,N41 DH05,53.94754,-7.86826,Marion Maloney,4
+194,2,GAS07488,Cawleys Guesthouse,4.0,Tubbercurry,4.0,F91 WY10,54.05391,-8.72802,Teresa Cawley-Krebs,14
+195,2,GAS07496,MacNean House,4.0,Blacklion,4.0,F91 YK0F,54.29122,-7.87631,Neven Maguire,20
+196,2,GAS07506,Ahernes,4.0,Youghal,4.0,P36 Y003,51.95706,-7.8518,David Fitzgibbon,13
+197,2,GAS07530,Tigh Chualain,4.0,Inverin,4.0,H91 P654,53.24472,-9.35218,Aisling Folan,9
+198,2,GAS07535,Gleann Fia Country House,4.0,Killarney,4.0,V93 XY01,52.07512,-9.50647,Conor O'Connell,15
+199,7,WSL36131,Tigh Fitz,3.0,Aran Islands,3.0,H91 N6Y4,53.1056,-9.66417,Penny Fitzpatrick,6
+200,2,GAS07559,Clon Ross,4.0,Cork,4.0,T23 PC90,51.90242,-8.45795,Eileen Murray,4
+201,7,WSL40432,Riversdale Farm B&B,3.0,Ballinamore,3.0,N41 AY20,54.0295,-7.79493,Patricia Thomas,6
+202,7,WSL40383,Inveraray Farm,3.0,Killarney,3.0,V93 A066,52.06453,-9.63447,Fergal Spillane,9
+203,2,GAS07591,The Olde Post Inn,4.0,Cloverhill,4.0,H14 W577,54.07491,-7.37264,Tara/Gearoid McCann/Lynch,6
+204,1,HHS40567,Moorings,4.0,Portmagee,4.0,V23 RX05,51.88569,-10.36594,Patricia Kennedy,17
+205,2,GAS07617,Mountain View,4.0,Oughterard,4.0,H91 K6CT,53.41279,-9.28031,Richard O'Connor,8
+206,2,GAS07622,Gleesons Townhouse and Restaurant,4.0,Roscommon,4.0,F42 WA22,53.63093,-8.19146,Cáit Gleeson,19
+207,2,GAS07631,The Gables,4.0,Newbridge,4.0,W12 C864,53.17511,-6.79326,Ellen Finn,24
+208,2,GAS07640,Waterside House,4.0,Graiguenamanagh,4.0,R95 XH3K,52.54038,-6.95376,Brian Roberts,10
+209,2,GAS07645,Corrib Wave House,4.0,Oughterard,4.0,H91 HY61,53.43222,-9.28875,Michael and Maria Healy,9
+210,2,GAS07668,Killarney Lodge,4.0,Killarney,4.0,V93 CX88,52.05662,-9.50588,Shane & Nancy Treacy,16
+211,2,GAS07688,Old Weir Lodge,4.0,Killarney,4.0,V93 W640,52.0514,-9.50725,Niall O'Donoghue,30
+212,2,GAS07990,Harty Costello Townhouse,4.0,Ballybunnion,4.0,V31 K688,52.51133,-9.67085,Jackie Hourigan,8
+213,7,WSL40661,Lisdonagh House Estate,3.0,Caherlistrane,3.0,H91 PFW6,53.49186,-9.05578,Finola and John Cooke,4
+214,7,WSL40327,Pier House,3.0,Aran Islands,3.0,H91 Y7RW,53.12,-9.6657,Maura Joyce,12
+215,2,GAS07709,Myles Creek,4.0,Kilkee,4.0,V15 W954,52.67816,-9.64914,Gerard Haugh,11
+216,7,WSL40727,Pax House,3.0,Dingle,3.0,V92 NX45,52.13365,-10.25689,John O'Farrell,15
+217,2,GAS07717,Dun Ri,4.0,Clifden,4.0,H71 EY67,53.48789,-10.01844,Michael King,11
+218,1,HHS40867,The Old Quarter Townhouse,4.0,Limerick,4.0,V94 P386,52.6641,-8.62465,JJ Mulcahy,41
+219,2,GAS07725,Heaton's Guesthouse,4.0,Dingle,4.0,V92 D430,52.1411,-10.28566,David Heaton,16
+220,2,GAS07751,Murphys of Killarney,4.0,Killarney,4.0,V93 EFP1,52.05946,-9.50621,Sean Murphy,20
+221,2,GAS07768,Aisling Guest House,4.0,Ashbourne,4.0,A84 AP90,53.49721,-6.3846,Rod Cosgrave,15
+222,2,GAS07773,Richmond Inn,4.0,Cloondara,4.0,N39 KD45,53.73142,-7.90467,Niamh McPartland,5
+223,2,GAS07778,Wild Honey Inn,4.0,Lisdoonvarna,4.0,V95 P234,53.02866,-9.29592,Catherine Sweeney,13
+224,7,WSL37140,West End Bar,3.0,Fenit,3.0,V92 X8EK,52.27669,-9.86438,Bryan O'Keefe,10
+225,2,GAS07782,Redbank House,4.0,Skerries,4.0,K34 C795,53.57973,-6.10915,Ross McCoy,15
+226,2,GAS07811,Lancaster Lodge,4.0,Cork,4.0,T12 EF10,51.8966,-8.48235,Susan Leahy,48
+227,2,GAS07827,Keepers Arms,4.0,Bawnboy,4.0,H14 YE24,54.12045,-7.67669,Sheila McKiernan,9
+228,2,GAS07829,Clooneen Guesthouse,4.0,Westport,4.0,F28 YR82,53.80138,-9.5181,Des Reidy,18
+229,2,GAS07847,Kilkee Thalasso Centre,4.0,Kilkee,4.0,V15 Y894,52.68097,-9.64487,Eileen Mulcahy,5
+230,2,GAS07852,Fitzpatrick's,4.0,Loch Gowna,4.0,H12 PF96,53.873,-7.53412,Timmy Fitzpatrick,10
+231,2,GAS07861,King Sitric Guesthouse,4.0,Howth,4.0,D13 F5C6,53.38829,-6.06343,Joan MacManus,10
+232,2,GAS07870,Ballyraine Guesthouse,4.0,Letterkenny,4.0,F92 FY51,54.95706,-7.70757,Mary Smith,7
+233,2,GAS07882,Davitts,4.0,Kenmare,4.0,V93 TX40,51.87924,-9.5837,Mary Cremin,11
+234,2,GAS07883,Rannoch,4.0,Bettystown,4.0,A92 KW59,53.6955,-6.24278,Leon Kinsella,5
+235,2,GAS07884,O'Donnabhains Guesthouse,4.0,Kenmare,4.0,V93 X254,51.8793,-9.58369,Jeremiah Foley,10
+236,2,GAS07885,Benbaun House,4.0,Clifden,4.0,H71 WA47,53.49108,-10.02022,Anne Marie Lydon,10
+237,2,GAS07886,Carlow Guesthouse,4.0,Carlow Town,4.0,R93 NF85,52.85724,-6.87997,Aidan O'Toole,13
+238,7,WSL40042,Abbey Lodge,3.0,Killarney,3.0,V93 E022,52.05528,-9.50667,John King,15
+239,2,GAS07898,Carrig Country House,4.0,Killorglin,4.0,V93 WK83,52.07396,-9.85017,Claire Slattery,17
+240,2,GAS07899,Fanad House,4.0,Kilkenny,4.0,R95 YF98,52.64666,-7.24232,Pat Wallace,12
+241,2,GAS07907,Quay House,4.0,Clifden,4.0,H71 XF76,53.48573,-10.03003,Julia Foyle,14
+242,2,GAS07916,Ballyknocken House,4.0,Glenealy,4.0,A67 X720,52.97707,-6.14312,Catherine Fulvio,7
+243,1,HHS41399,Wineport Lodge,4.0,Athlone,4.0,N37 R2D7,53.46501,-7.88542,Ray Byrne,34
+244,2,GAS07946,Bunratty Courtyard Guesthouse,4.0,Bunratty,4.0,V95 W275,52.69919,-8.81687,Joe McCloskey,9
+245,2,GAS07950,Crystal Springs,4.0,Killarney,4.0,V93 NR44,52.05291,-9.48772,Eileen Brosnan,14
+246,2,GAS07957,Muskerry Arms,4.0,Blarney,4.0,T23 YR81,51.93315,-8.5678,Sean Bradford,11
+247,2,GAS07959,Friar's Lodge,4.0,Kinsale,4.0,P17 VP77,51.70714,-8.52675,Aine Tierney,18
+248,7,WSL41086,O'Connor's Farmhouse,3.0,Doolin,3.0,V95 YE26,52.99685,-9.39966,Bernice O'Connor,7
+249,1,HHS01056,Óstán Loch Altan ,4.0,Gortahork,4.0,F92 Y242,55.12168,-8.13319,Orla Harkin,38
+250,1,HHS01058,Ballyliffin Hotel,4.0,Ballyliffin,4.0,F93 XT52,55.2777,-7.39395,Michael McGonigle,42
+251,1,HHS34530,Lucan Spa Hotel,4.0,Lucan,4.0,K78 X3H3,53.35565,-6.46362,Frank Colgan,71
+252,1,HHS01086,Leens Hotel,4.0,Abbeyfeale,4.0,V94 PW84,52.38502,-9.3009,Olive Sheehan,18
+253,1,HHS01091,Butler Arms Hotel,4.0,Waterville,4.0,V23 F658,51.82794,-10.17267,Michael Lally,36
+254,1,HHS01095,The Lansdowne Kenmare,4.0,Kenmare,4.0,V93 YRC8,51.87902,-9.58152,Patrick Hanley,28
+255,1,HHS01150,Club House Hotel,4.0,Kilkenny,4.0,R95 DX76,52.64933,-7.25171,Ian Brennan,28
+256,1,HHS01180,Beach Hotel,4.0,Downings,4.0,F92 H363,55.19457,-7.83406,Darragh McClafferty,27
+257,1,HHS01187,Kee's Hotel,4.0,Stranorlar,4.0,F93 FR9K,54.80471,-7.76917,William Richard Kee,53
+258,1,HHS01208,The Marcy Hotel,4.0,Drogheda,4.0,A92 A8XF,53.71498,-6.35372,Valerie Sherlock,27
+259,1,HHS34226,Conyngham Arms Hotel,4.0,Slane,4.0,C15 HN52,53.70859,-6.54472,Brian Conroy,15
+260,1,HHS01228,Hunters Hotel,4.0,Rathnew,4.0,A67 TN30,53.00638,-6.08414,Richard Gelletlie,12
+261,1,HHS01245,Gougane Barra Hotel,4.0,Ballingeary,4.0,P12 PP27,51.83885,-9.3165,Neil Lucey,25
+262,1,HHS01252,Dorrians Imperial Hotel,4.0,Ballyshannon,4.0,F94 TKA4,54.50201,-8.19124,Benedict & Mary Dorrian,47
+263,1,HHS01318,Talbot Hotel,4.0,Wexford,4.0,Y35 FP9P,52.33576,-6.45736,Robert Millar,107
+264,1,HHS01382,Foyles Hotel,4.0,Clifden,4.0,H71 FP99,53.48861,-10.02271,Stephen Foyle,24
+265,1,HHS01391,Killarney Towers Hotel & Leisure Centre,4.0,Killarney,4.0,V93 HP7A,52.05868,-9.50706,Brian Lawlor,182
+266,1,HHS01394,International Hotel Killarney,4.0,Killarney,4.0,V93 PXK3,52.05811,-9.50695,Anne Marie Collins,98
+267,1,HHS01411,Dooly's Hotel,4.0,Birr,4.0,R42 KC56,53.0957,-7.91055,Sharon  Grant,17
+268,1,HHS01421,Kelly's Resort Hotel,4.0,Rosslare,4.0,Y35 Y83V,52.27549,-6.38777,Pauline Power,120
+269,1,HHS01456,Ryan's Hotel,4.0,Cong,4.0,F31 XF75,53.54132,-9.28635,Mary Dalton,13
+270,1,HHS01464,Hayes Hotel,4.0,Thurles,4.0,E41 C9C8,52.67931,-7.81218,Jack Halley,26
+271,1,HHS01576,Towers Hotel,4.0,Glenbeigh,4.0,V93 K72C,52.05607,-9.94023,Leta Sullivan,28
+272,1,HHS01585,Hearn's Hotel,4.0,Clonmel,4.0,E91 H6H9,52.35358,-7.698,Jamie O'Keeffe,26
+273,1,HHS01676,Castle Hotel,4.0,Macroom,4.0,P12 X293,51.90487,-8.95843,Rory Buckley,56
+274,1,HHS01724,Royal Hotel and Merrill Leisure Centre,4.0,Bray,4.0,A98 F8D3,53.20484,-6.10878,Maureen McGettigan O'Connor,138
+275,1,HHS01727,Bailie Hotel,4.0,Bailieborough,4.0,A82 T6C6,53.91608,-6.96957,Austin Kelly,19
+276,1,HHS01748,Queens Hotel,4.0,Ennis,4.0,V95 XFX4,52.84541,-8.98162,Donie Lyne,49
+277,1,HHS01782,Barry's Hotel,4.0,Dublin 1,4.0,D01 PP66,53.35533,-6.26286,Cathal O'Donoghue,32
+278,1,HHS01786,O'Shea's Hotel,4.0,Tramore,4.0,X91 YTR5,52.15991,-7.15032,Tony Fitzpatrick,24
+279,1,HHS01787,Munster Arms Hotel,4.0,Bandon,4.0,P72 TP46,51.74518,-8.73375,Don O'Sullivan,28
+280,1,HHS01832,The Address Connolly,4.0,Dublin 1,4.0,D01 X6P6,53.35166,-6.25008,Brian McGettigan,278
+281,1,HHS01864,Courtmacsherry Hotel,4.0,Courtmacsherry,4.0,P72 XD95,51.63331,-8.69967,Billy Adams,10
+282,1,HHS01887,Skeffington Arms Hotel,4.0,Galway,4.0,H91 CFX5,53.27407,-9.04989,John Callanan,24
+283,1,HHS01911,Dergvale Hotel,4.0,Dublin 1,4.0,D01 P0K6,53.35611,-6.26074,Gerard Nolan,19
+284,1,HHS01982,Ravine Hotel,4.0,Lisdoonvarna,4.0,V95 RWF5,53.0302,-9.2899,Nellie O'Boyle,12
+285,1,HHS01986,Wards Hotel,4.0,Galway city,4.0,H91 NY13,53.26703,-9.06795,Anthony Finnerty,10
+286,1,HHS01993,Grand Hotel,4.0,Wicklow,4.0,A67 P263,52.98069,-6.04737,Adrian Shanagher,34
+287,1,HHS02015,Wynn's Hotel,4.0,Dublin 1,4.0,D01 C9F8,53.34839,-6.25874,Neil Loftus,76
+288,1,HHS02033,Bel Air Hotel,4.0,Ashford,4.0,A67 W088,53.002,-6.12261,William Freeman,10
+289,1,HHS02045,Glen Hotel,4.0,Arranmore,4.0,F92 HD99,54.99007,-8.49961,Phil Boyle,19
+290,1,HHS02064,Imperial Hotel,4.0,Galway,4.0,H91 X529,53.2746,-9.05091,Des Hynes,83
+291,1,HHS02316,O'Donovan's Hotel,4.0,Clonakilty,4.0,P85 V205,51.62303,-8.88994,Dena O Donovan,21
+292,1,HHS02396,The Ross,4.0,Killarney,4.0,V93 NP9Y,52.05789,-9.50764,Sheila OSullivan,29
+293,1,HHS02531,Ballymascanlon Hotel,4.0,Dundalk,4.0,A91 PF57,54.03162,-6.35225,Clodagh McNamara,97
+294,1,HHS02566,Haven Hotel,4.0,Dunmore East,4.0,X91 W322,52.15248,-6.99587,Paul Kelly,18
+295,1,HHS02655,Rathbaun Hotel,4.0,Lisdoonvarna,4.0,V95 Y768,53.02889,-9.28972,John Connolly,10
+296,1,HHS02745,Óstán Gob A'Choire,4.0,Achill Island,4.0,F28 K448,53.93059,-9.9251,Peter Connaughton,24
+297,1,HHS02779,Haddington House,4.0,Dun Laoghaire,4.0,A96 F2R9,53.29208,-6.13057,David Larkin,35
+298,1,HHS02931,TF Royal Hotel and Theatre,4.0,Castlebar,4.0,F23 R288,53.8533,-9.30382,Carmel Kelly,24
+299,1,HHS02976,The Highlands Hotel,4.0,Glenties,4.0,F94 NT67,54.79588,-8.28165,Pat RIce,30
+300,1,HHS02987,Seven Oaks Hotel,4.0,Carlow,4.0,R93 V4K5,52.84103,-6.92937,Michael Walsh,89
+301,1,HHS03015,White Sands Hotel,4.0,Ballyheigue,4.0,V92 EYV9,52.38904,-9.83343,Dorren Browne,81
+302,1,HHS03088,"Arklow Bay Conference, Leisure and Spa Hotel",4.0,Arklow,4.0,Y14 DX02,52.8029,-6.14334,Ciaran O'Neill,91
+303,1,HHS03090,Listowel Arms Hotel,4.0,Listowel,4.0,V31 V962,52.4452,-9.48695,Colm O Callaghan,42
+304,1,HHS03104,Breaffy House Hotel,4.0,Castlebar,4.0,F23 R253,53.8436,-9.23897,Wilson Bird,107
+305,1,HHS03105,Rathmullan House Hotel,4.0,Rathmullan,4.0,F92 YA0F,55.10076,-7.5293,Mary Wheeler,33
+306,1,HHS03107,Boyne Valley Hotel and Country Club,4.0,Drogheda,4.0,A92 EY89,53.70817,-6.31365,Damien McDaid,86
+307,1,HHS03171,Innishannon House Hotel,4.0,Innishannon,4.0,T12 PH96,51.75969,-8.64808,Margaret Roche,11
+308,1,HHS03197,Ballyrafter House Hotel,4.0,Lismore,4.0,P51 Y362,52.14601,-7.92918,Joseph Willoughby,10
+309,1,HHS03223,Ivy Tower Hotel,4.0,Castlebar,4.0,F23 DT35,53.85985,-9.2977,Mary McHugh,32
+310,1,HHS03229,The Killarney Royal Hotel,4.0,Killarney,4.0,V93 XC90,52.05995,-9.50546,Aoibheann O'Leary,32
+311,1,HHS34502,Belleek Castle,4.0,Ballina,4.0,F26 KV04,54.13327,-9.14504,Paul Doran,10
+312,1,HHS03261,Treacy's West County Conference & Leisure Hotel,4.0,Ennis,4.0,V95 C9CT,52.83133,-8.98035,Patrick Treacy,151
+313,1,HHS03270,Devon Inn Hotel,4.0,Templeglantine,4.0,V94 H489,52.39483,-9.17975,William Sheehan,58
+314,1,HHS03272,The Inn At Dromoland,4.0,Newmarket-On-Fergus,4.0,V95 EPF5,52.78923,-8.91466,Mark Nolan,125
+315,1,HHS03301,Castle Arms Hotel,4.0,Durrow,4.0,R32 NW25,52.84537,-7.39604,Seosamh Murphy,16
+316,1,HHS03309,Fernhill House Hotel & Gardens,4.0,Clonakilty,4.0,P85 X322,51.62647,-8.90716,Michael O'Neill,27
+317,1,HHS03310,The Ring of Kerry Hotel,4.0,Caherciveen,4.0,V23 AK85,51.94029,-10.23714,Leonard O'Sullivan,23
+318,1,HHS03321,Doonmore Hotel,4.0,Inishbofin,4.0,H91 NV06,53.6141,-10.228,Andrew Murray,22
+319,1,HHS03347,Flannery's Hotel Galway,4.0,Galway,4.0,H91 KH64,53.27827,-9.01473,Mary Flannery,134
+320,1,HHS03353,The Connacht Hotel,4.0,Galway city,4.0,H91 K5DD,53.2798,-9.02175,Wayne Neilon,349
+321,1,HHS03387,Greenhills Hotel,4.0,Limerick,4.0,V94 X2RV,52.67371,-8.67116,Daphne Greene,58
+322,1,HHS03393,Rosleague Manor Hotel,4.0,Letterfrack,4.0,H91 CK26,53.54696,-9.97304,Mark Foyle,21
+323,1,HHS03397,Lawlors Hotel,4.0,Dungarvan,4.0,X35 DT04,52.09066,-7.621,Catherine Burke,85
+324,1,HHS03399,"Hotel Westport, Leisure Spa and Conference",4.0,Westport,4.0,F28 E438,53.80104,-9.52814,Gemma Jordan,129
+325,1,HHS03400,Woodfield House Hotel,4.0,Limerick,4.0,V94 N2CF,52.66781,-8.65057,Jason O'Toole,22
+326,1,HHS03405,Rathkeale House Hotel,4.0,Rathkeale,4.0,V94 NP64,52.52229,-8.941,Ann Madigan,27
+327,1,HHS03418,Shannon Lodge Hotel,4.0,Banagher,4.0,R42 YV07,53.18825,-7.98524,Brendan Maloney,14
+328,1,HHS03442,Hotel Imperial,4.0,Dundalk,4.0,A91 ND6P,54.00302,-6.40171,Francis Lynch,48
+329,1,HHS03482,The Rockbarton House Hotel,4.0,Galway city,4.0,H91 F68E,53.2602,-9.0879,Jennifer Lillis,11
+330,1,HHS03491,Auburn Lodge Hotel and Leisure Centre,4.0,Ennis,4.0,V95 NDX4,52.86524,-8.9809,Elma Callanan,110
+331,1,HHS03495,The Woodford Dolmen Hotel,4.0,Carlow,4.0,R93 N207,52.81395,-6.95156,Catriona Brennan,81
+332,1,HHS03501,Fitzgeralds Hotel,4.0,Bundoran,4.0,F94 RT99,54.47663,-8.28449,Josephine O'Donnell,16
+333,1,HHS03502,Kylemore Pass Hotel,4.0,Renvyle,4.0,H91 TD80,53.56438,-9.83426,Rose & Stuart Rima,11
+334,1,HHS03503,Aherlow House Hotel,4.0,Aherlow,4.0,E34 VW22,52.42443,-8.19191,Nadine Lang,29
+335,1,HHS03505,Kilbrackan Arms Hotel,4.0,Carrigallen,4.0,H12 T270,53.97693,-7.6444,Donal Cadden,12
+336,1,HHS03516,The White Lady Hotel,4.0,Kinsale,4.0,P17 X665,51.70144,-8.51975,Roman  Minihane,10
+337,1,HHS03538,Ardboyne Hotel,4.0,Navan,4.0,C15 C9YA,53.64051,-6.67156,Ian Hunt,29
+338,1,HHS03546,Springhill Court Hotel,4.0,Kilkenny,4.0,R95 NX32,52.63197,-7.25131,Anne Fitzgerald,85
+339,1,HHS03549,Riverbank House Hotel,4.0,Wexford,4.0,Y35 AH33,52.34469,-6.45501,Patrick Kaczynski,23
+340,1,HHS03555,Mountshannon Hotel,4.0,Mountshannon,4.0,V94 WC7D,52.93184,-8.42816,Noel Lynch,10
+341,1,HHS03561,The Town Hotel,4.0,Portlaoise,4.0,R32 XA43,53.03422,-7.2983,John Cannon,23
+342,1,HHS40230,"Redcastle Oceanfront, Golf and Spa Hotel",4.0,Redcastle,4.0,F93 Y660,55.15851,-7.12282,Owen McGee,94
+343,1,HHS03569,Castle Arch Hotel,4.0,Trim,4.0,C15 WD92,53.55098,-6.79492,Ian Hunt,21
+344,1,HHS03573,Marlfield House Hotel,4.0,Gorey,4.0,Y25 DK23,52.66875,-6.27522,Margaret Bowe,18
+345,1,HHS03577,Killarney Avenue Hotel,4.0,Killarney,4.0,V93 YW9D,52.05753,-9.50627,Micheal O'Donoghue,66
+346,1,HHS03590,Eccles Hotel,4.0,Glengarriff,4.0,P75 A072,51.75192,-9.54082,David Manning,59
+347,1,HHS03603,Racket Hall Country House Hotel,4.0,Roscrea,4.0,E53 WV00,52.95878,-7.76038,Allen McEnery,39
+348,1,HHS03631,An Dóilín Hotel,4.0,Carraroe,4.0,H91 E52E,53.2614,-9.60474,Seosamh O'Loideain,10
+349,1,HHS03632,Sancta Maria Hotel,4.0,Lahinch,4.0,V95 YK37,52.93372,-9.34357,Thomas McInerney,24
+350,1,HHS03633,Teach Óstan na Pairce Hotel,4.0,Spiddal,4.0,H91 ETW1,53.24702,-9.2645,John Paul Foyle,26
+351,1,HHS03641,The Glenside,4.0,Drogheda,4.0,A92 Y196,53.6882,-6.30024,Aogán Dunne,17
+352,1,HHS03651,Gate Hotel,4.0,Dublin 1,4.0,D01 CK74,53.35284,-6.26057,Patrick Kaczynski,26
+353,1,HHS03652,Treacy's Hotel Spa and Leisure Club Waterford,4.0,Waterford,4.0,X91 AV9W,52.2637,-7.11881,John Treacy,130
+354,1,HHS03664,The Parkway Hotel,4.0,Dunmanway,4.0,P47 NH60,51.71809,-9.1127,Martin Maybury,16
+355,1,HHS03667,The Lakeside Hotel,4.0,Ballina,4.0,V94 E2D6,52.81057,-8.44405,Eoin Little,55
+356,1,HHS03671,Hotel Kilmore,4.0,Cavan,4.0,H12 F6Y7,53.98703,-7.32293,Paul Henry,74
+357,1,HHS03673,Summerhill House Hotel,4.0,Enniskerry,4.0,A98 WA40,53.19037,-6.16399,Fergus O'Grady,52
+358,1,HHS03691,Woodenbridge Hotel,4.0,Woodenbridge,4.0,Y14 XT95,52.8322,-6.235,Gerard O'Brien,29
+359,1,HHS03695,Óstan Inis Óirr,4.0,Aran Islands,4.0,H91 HT02,53.06544,-9.52377,Toma Flaherty,15
+360,1,HHS03699,Oranmore Lodge Hotel,4.0,Oranmore,4.0,H91 NN76,53.27603,-8.93088,Padraig Nolan,60
+361,1,HHS03703,Farnham Arms Hotel,4.0,Cavan,4.0,H12 Y6E4,53.99134,-7.35974,Michael  Sheils,32
+362,1,HHS03706,Blarney Castle Hotel,4.0,Blarney,4.0,T23 TCF6,51.9325,-8.56719,Ian Forrest,17
+363,1,HHS03709,Carrickdale Hotel,4.0,Ravensdale,4.0,A91 PR63,54.10038,-6.36038,David Connell,108
+364,1,HHS03711,Sullivan's Royal Hotel,4.0,Gort,4.0,H91 VP77,53.06744,-8.81952,John Sullivan,12
+365,1,HHS03714,The Belvedere Hotel,4.0,Dublin 1,4.0,D01 W1C0,53.35513,-6.26213,Cathal O'Donoghue,109
+366,1,HHS03715,Clonea Strand Hotel,4.0,Dungarvan,4.0,X35 C624,52.09442,-7.54629,Mark Knowles,58
+367,1,HHS03716,The Strand Hotel,4.0,Bray,4.0,A98 PD00,53.19856,-6.09574,Rajesh Yadav,10
+368,1,HHS03717,Firgrove Hotel,4.0,Mitchelstown,4.0,P67 Y206,52.27432,-8.27194,Brenda Tangney,14
+369,1,HHS03722,Oriel House Hotel & Leisure Club,4.0,Ballincollig,4.0,P31 DY93,51.88811,-8.6011,Janice McConnell,99
+370,1,HHS03726,Imperial Hotel,4.0,Clonakilty,4.0,P85 PX99,51.62261,-8.8858,Michelle Collins,10
+371,1,HHS03739,Alcock and Brown Hotel,4.0,Clifden,4.0,H71 KN29,53.48839,-10.02332,Sharon Nee,20
+372,1,HHS03759,Longueville House Hotel,4.0,Mallow,4.0,P51 KC8K,52.13809,-8.73627,Aisling O'Callaghan,12
+373,1,HHS03777,Russell Court Hotel,4.0,Dublin 2,4.0,D02 YF24,53.33582,-6.26367,Eva O'Regan,39
+374,1,HHS03778,Ard na Sidhe Country House,4.0,Killorglin,4.0,V93 HV57,52.06022,-9.84097,Rachel Clifford,18
+375,1,HHS03791,Lake of Shadows Hotel,4.0,Buncrana,4.0,F93 VY36,55.13356,-7.45897,Patsy Doherty,23
+376,1,HHS03795,Waterford Castle Hotel and Golf Resort,4.0,Ballinakill,4.0,X91 Y722,52.25337,-7.05935,Louise Hurley,19
+377,1,HHS03816,The Shoreline Hotel,4.0,Donabate,4.0,K36 V064,53.4786,-6.11526,Katrina Moore,35
+378,1,HHS03818,Eviston House Hotel,4.0,Killarney,4.0,V93 V0HR,52.05892,-9.51066,Patrick Eviston,102
+379,1,HHS03819,Dalton Inn Hotel,4.0,Claremorris,4.0,F12 V582,53.7218,-8.99757,Andrew Cooper,16
+380,1,HHS03820,Danaghers Hotel,4.0,Cong,4.0,F31 Y529,53.54055,-9.28621,Mary Byrne,10
+381,1,HHS03822,King Thomond Hotel,4.0,Lisdoonvarna,4.0,V95 N407,53.0248,-9.28408,Megan  White,65
+382,1,HHS03826,Cliff House Hotel,4.0,Ballybunion,4.0,V31 E275,52.51445,-9.67339,Kevin O Callaghan,38
+383,1,HHS03829,Majestic Hotel,4.0,Tramore,4.0,X91 WC1Y,52.16317,-7.14842,Annette Devine,58
+384,1,HHS03835,"Slieve Russell Hotel, Golf and Country Club",4.0,Ballyconnell,4.0,H14 FE03,54.09671,-7.55677,Fiona McCann,224
+385,1,HHS03840,McSweeney Arms Hotel,4.0,Killarney,4.0,V93 F57F,52.06005,-9.50593,Tony McSweeney,26
+386,1,HHS03844,The K Club,5.0,Straffan,5.0,W23 YX53,53.30726,-6.62506,Audrey Brophy,128
+387,1,HHS03847,Allingham Arms Hotel,4.0,Bundoran,4.0,F94 XNH0,54.47678,-8.28366,Conor McEniff,132
+388,1,HHS03849,The Farmers Kitchen,4.0,Wexford,4.0,Y35 FX46,52.30762,-6.45694,Billy Devereux,21
+389,1,HHS03851,Treacys Oakwood Hotel,4.0,Shannon,4.0,V14 NH97,52.71263,-8.87467,Rob Kiely,115
+390,1,HHS03853,Round Tower Hotel,4.0,Ardmore,4.0,P36 PD61,51.95095,-7.72967,Aidan Quirke,10
+391,1,HHS03858,Harbour View Hotel,4.0,Naas,4.0,W91 HAC9,53.21621,-6.66771,Mary Monaghan,10
+392,1,HHS03867,The Carraig,4.0,Carrick-On-Suir,4.0,E32 HT32,52.34554,-7.41251,Paul Norris,23
+393,1,HHS03868,Ballinalacken Castle,4.0,Doolin,4.0,V95 H998,53.04631,-9.34119,Declan O'Callaghan,15
+394,1,HHS03871,Clanree Hotel,4.0,Letterkenny,4.0,F92 RV10,54.94372,-7.69755,Lisa Gallagher,121
+395,1,HHS03872,Whitford House Hotel,4.0,Wexford,4.0,Y35 WD3C,52.32358,-6.50124,Eilish Whitty,36
+396,1,HHS34231,Bay View Hotel,4.0,Killybegs,4.0,F94 YFC0,54.6368,-8.44217,Seamus Gallagher,40
+397,1,HHS03874,Travelodge Cork Airport,4.0,Cork,4.0,T12 E2XY,51.87245,-8.47009,Shane Giles,60
+398,1,HHS03876,The House Hotel,4.0,Galway city,4.0,H91 X309,53.2705,-9.05349,Andy O'Neill,48
+399,1,HHS03893,Travelodge Dublin Airport,4.0,Swords,4.0,K67 K6R2,53.44931,-6.2236,Lukas Kantor,130
+400,1,HHS03896,Maples House Hotel,4.0,Dublin 9,4.0,D09 ND70,53.36624,-6.26532,Colm Lawford,22
+401,1,HHS03897,The Grafton Hotel,4.0,Dublin 2,4.0,D02 WV05,53.34094,-6.26403,Bríd Cloonan,128
+402,1,HHS03898,Victoria Towers Hotel,4.0,Galway city,4.0,H91 KVW0,53.27306,-9.04778,Richard Byrne,75
+403,1,HHS03899,Commercial and Tourist Hotel,4.0,Ballinamore,4.0,N41 AE10,54.05302,-7.80039,Karen Walsh,19
+404,1,HHS03900,Gold Coast Golf Hotel,4.0,Dungarvan,4.0,X35 EA40,52.08529,-7.57026,Mark Knowles,19
+405,1,HHS03904,Tory Island Hotel ,4.0,Tory Island,4.0,F92 WY64,55.26538,-8.22628,Annemarie Rodgers,12
+406,1,HHS03905,Leonardo Hotel Cork,4.0,Cork,4.0,T12 DCR9,51.89947,-8.46399,Darren  Guy,133
+407,1,HHS03913,The Address Sligo,4.0,Sligo,4.0,F91 V08N,54.27319,-8.47621,Eoin Daly,61
+408,1,HHS03916,Gullane's Hotel,4.0,Ballinasloe,4.0,H53 DC99,53.33058,-8.22117,Caroline Gullane,27
+409,1,HHS03917,River Island Hotel,4.0,Castleisland,4.0,V92 HWN0,52.23069,-9.46413,Brian Lawlor,52
+410,1,HHS03919,Beresford Hotel,4.0,Dublin 1,4.0,D01 T9R2,53.35009,-6.25269,Marek Jozwiak,107
+411,1,HHS28037,The Darnley Lodge Hotel,4.0,Athboy,4.0,C15 YP2K,53.62178,-6.92057,Hazel Clarke,15
+412,1,HHS03924,Hotel Saint George,4.0,Dublin 1,4.0,D01 E176,53.35383,-6.26232,Nina Eustace,59
+413,1,HHS03927,Cahir House Hotel,4.0,Cahir,4.0,E21 H244,52.37424,-7.92434,David Walsh,41
+414,1,HHS03930,Dunmore House Hotel,4.0,Clonakilty,4.0,P85 HC03,51.59023,-8.86768,Richard Barrett,30
+415,1,HHS03934,Park House Hotel,4.0,Galway,4.0,H91 PCF8,53.27447,-9.04673,Eamon Doyle,99
+416,1,HHS03935,Leixlip Manor and Gardens,4.0,Leixlip,4.0,W23 ADF4,53.36552,-6.48859,Josip Vucinovic,27
+417,1,HHS03936,The Heights Hotel Killarney,4.0,Killarney,4.0,V93 XKR4,52.05916,-9.47931,Collette Andre O'Riordan,72
+418,1,HHS03938,Dinn Ri Hotel,4.0,Carlow,4.0,R93 C8X5,52.83585,-6.93003,Eugene Mc Govern,10
+419,1,HHS03939,Eyre Square Hotel,4.0,Galway,4.0,H91 TCP0,53.27432,-9.04735,John Beattie,80
+420,1,HHS03940,Temple Gate Hotel,4.0,Ennis,4.0,V95 H0XK,52.84388,-8.98143,Paul Madden,70
+421,1,HHS03945,Langton House,4.0,Kilkenny,4.0,R95 A597,52.65328,-7.24827,Edward Langton,34
+422,1,HHS03946,Forty Four Main Street,4.0,Swords,4.0,K67 AH28,53.45764,-6.2211,Brian Foley,14
+423,1,HHS03950,Uppercross House Hotel,4.0,Dublin 6,4.0,D06 H5Y4,53.32083,-6.2652,David Mahon,49
+424,1,HHS03952,Jackson Court Hotel,4.0,Dublin 2,4.0,D02 XV58,53.33538,-6.2636,Darren Power,36
+425,1,HHS03960,The Mercantile Hotel,4.0,Dublin 2,4.0,D02 ND77,53.34392,-6.26401,Michael Breslin,15
+426,1,HHS03969,Templemore Arms Hotel,4.0,Templemore,4.0,E41 CC42,52.79728,-7.8333,Dan Ward,15
+427,1,HHS03973,The Mustard Seed,4.0,Ballingarry,4.0,V94 EHN8,52.47532,-8.86703,John Edward Joyce,17
+428,1,HHS03974,Raheen House Hotel,4.0,Clonmel,4.0,E91 AC82,52.35091,-7.69611,Elizabeth Day,15
+429,1,HHS03984,Dunbrody Country House Hotel,4.0,Arthurstown,4.0,Y34 R597,52.23985,-6.94212,Harry Murray,22
+430,1,HHS03986,Ballyglass Country House,4.0,Tipperary,4.0,E34 NP59,52.44201,-8.16563,Ruth O'Connor,10
+431,1,HHS03989,Limerick City Hotel,4.0,Limerick,4.0,V94 NH93,52.66087,-8.633,Riovoir Limited,141
+432,1,HHS03990,Travelodge Dublin Phoenix Park,4.0,Dublin 15,4.0,D15 EW29,53.38028,-6.35523,David Hennessey,100
+433,1,HHS03992,Fennessys Hotel,4.0,Clonmel,4.0,E91 HR27,52.35459,-7.70212,Richard Fennessy,10
+434,1,HHS03993,Ibis Hotel,4.0,Dublin 22,4.0,D22 F903,53.31829,-6.37251,Niall Quigley,150
+435,1,HHS03998,Springfort Hall Country House Hotel,4.0,Mallow,4.0,P51 YP96,52.13706,-8.64439,"Paul, Eileen, Helen and Claire Walsh",51
+436,1,HHS04010,Emmet Hotel,4.0,Clonakilty,4.0,P85 PC89,51.62215,-8.89123,Robert  O'Keeffe,19
+437,1,HHS04012,Torc Hotel,4.0,Killarney,4.0,V93 F98V,52.05229,-9.44867,Brendan Downes,67
+438,1,HHS04021,Arlington Hotel O'Connell Bridge,4.0,Dublin 1,4.0,D01 E8P4,53.34724,-6.26092,Louis Fitzgerald,132
+439,1,HHS04028,Abbey Court Hotel,4.0,Nenagh,4.0,E45 KA99,52.86471,-8.19009,Brian O'Neill,82
+440,1,HHS04032,Riverside Park Hotel and Leisure Club,4.0,Enniscorthy,4.0,Y21 T2F4,52.49753,-6.5669,Angela Devitt,100
+441,1,HHS04035,Downhill Inn Hotel,4.0,Ballina,4.0,F26 AV65,54.11943,-9.13504,John Raftery,39
+442,1,HHS04038,Waterford Marina Hotel,4.0,Waterford,4.0,X91 PK2W,52.25834,-7.10171,Larry Bowe,82
+443,1,HHS04043,Great National South Court Hotel,4.0,Raheen,4.0,V94 E77X,52.62786,-8.66373,Dermot Kelly,124
+444,1,HHS04044,Killarney Court Hotel,4.0,Killarney,4.0,V93 AW82,52.06882,-9.51545,Elma Callanan,116
+445,1,HHS04046,Camden Street Hotel,4.0,Dublin 2,4.0,D02 DH36,53.33594,-6.26562,Ray Byrne,38
+446,1,HHS04047,The Parkavon Hotel Killarney,4.0,Killarney,4.0,V93 YX95,52.04956,-9.50741,Stephen O'Connor,100
+447,1,HHS04048,Grand Hotel,4.0,Moate,4.0,N37 W4A3,53.39524,-7.7191,Louisa King,14
+448,1,HHS04049,Menlo Park Hotel,4.0,Galway,4.0,H91 E98N,53.2879,-9.04686,John Francis,81
+449,1,HHS04055,Travelodge Waterford,4.0,Waterford,4.0,X91 YV04,52.24832,-7.1215,David Hennessy,56
+450,1,HHS04056,Portobello Hotel,4.0,Dublin 2,4.0,D02 CF40,53.33037,-6.26412,Edyta Pietka,26
+451,1,HHS04057,Fort Conan Hotel,4.0,New Ross,4.0,Y34 A522,52.2213,-6.9305,Helene Tobin,12
+452,1,HHS04063,Newgrange Hotel,4.0,Navan,4.0,C15 A6WV,53.65189,-6.68293,Ian Hunt,62
+453,1,HHS04064,Meadowlands Hotel,4.0,Tralee,4.0,V92 DC83,52.27621,-9.69131,Siobhan Ni Mhathuna,58
+454,1,HHS04065,Roxford Lodge Hotel,4.0,Dublin 4,4.0,D04 V303,53.33539,-6.23712,Desmond Killoran,20
+455,1,HHS04069,Scotts Hotel,4.0,Killarney,4.0,V93 FY7A,52.0593,-9.5063,Maurice Eoin O Donoghue,125
+456,1,HHS04073,Lady Gregory Hotel Leisure Club & Beauty Rooms,4.0,Gort,4.0,H91 KN2N,53.06122,-8.81491,Aileen O Grady,87
+457,1,HHS04074,Taylors Three Rock Hotel,4.0,Dublin 16,4.0,D16 H2K6,53.26839,-6.26225,John Keenan,10
+458,1,HHS04085,Clonakilty Park Hotel,4.0,Clonakilty,4.0,P85 RD23,51.61638,-8.8957,Irene O'Callaghan,96
+459,1,HHS04090,Bella Vista Hotel,4.0,Cobh,4.0,P24 XV24,51.85138,-8.29706,Kevin Murphy,16
+460,1,HHS04092,Carrolls Hotel,4.0,Knocktopher,4.0,R95 X82T,52.48585,-7.21776,Padraic Carroll,10
+461,1,HHS04095,Óstán Oileán Acla,4.0,Achill Island,4.0,F28 EA31,53.93304,-9.92021,Beatrix Wiley,20
+462,1,HHS04097,Leenane Hotel,4.0,Leenane,4.0,H91 NH93,53.59456,-9.70493,Conor Foyle,49
+463,1,HHS34586,Kilkee Bay Hotel,4.0,Kilkee,4.0,V15 TH61,52.67808,-9.64142,Derek Logue,40
+464,1,HHS04099,The Wilton Hotel,4.0,Bray,4.0,A98 F224,53.18664,-6.1002,Fergus O'Grady,103
+465,1,HHS04102,Commons Inn,4.0,Cork,4.0,T23 PY53,51.92184,-8.48761,David Byrne,40
+466,1,HHS04106,Grand Central Hotel,4.0,Bundoran,4.0,F94 C67P,54.47987,-8.27653,Sonia Gavigan,64
+467,1,HHS04109,Landmark Hotel,4.0,Carrick-On-Shannon,4.0,N41 N9W4,53.94355,-8.09284,Jennifer Logan,49
+468,1,HHS04115,WatersEdge Hotel,4.0,Cobh,4.0,P24 HC60,51.84903,-8.29791,William Savage,19
+469,1,HHS04119,Meadow Court,4.0,Loughrea,4.0,H62 N922,53.21027,-8.63621,Danny Concannon,21
+470,1,HHS04123,Brook Lodge Hotel,4.0,Killarney,4.0,V93 EY48,52.06078,-9.5125,Patrick Eviston,30
+471,1,HHS04124,The Lord Bagenal Inn,4.0,Leighlinbridge,4.0,R93 E189,52.73621,-6.97675,James Kehoe,40
+472,1,HHS33297,The Ripley Court Hotel,4.0,Dublin 1,4.0,D01 E8R5,53.35131,-6.25181,Gill McEvoy,120
+473,1,HHS04127,Zuni Restaurant and Boutique Hotel,4.0,Kilkenny,4.0,R95 A897,52.64961,-7.25193,Paul Byrne,13
+474,1,HHS04128,Abbeyleix Manor,4.0,Abbeyleix,4.0,R32 VE24,52.90649,-7.35262,April Kent,44
+475,1,HHS04134,Kilkenny Hibernian Hotel,4.0,Kilkenny,4.0,R95 WTK3,52.65022,-7.25209,Andrew Lambert,46
+476,1,HHS04135,Dillons Hotel,4.0,Letterkenny,4.0,F92 F9DX,54.95071,-7.73666,Robert Mc Elhinney,91
+477,1,HHS04136,Paramount Hotel,4.0,Dublin 2,4.0,D02 DP90,53.34469,-6.26765,Mark Cullen,70
+478,1,HHS04140,An Chúirt Hotel,4.0,Gweedore,4.0,F92 AP60,55.04854,-8.22241,Francis Breslin,64
+479,1,HHS04152,Ballina Manor Hotel,4.0,Ballina,4.0,F26 HY84,54.11259,-9.15404,Edel Doherty,84
+480,1,HHS04155,Creggan Court Hotel,4.0,Athlone,4.0,N37 YW25,53.41035,-7.89419,Philip Byrne,71
+481,1,HHS04156,Achill Cliff House,4.0,Achill Island,4.0,F28 PX08,53.9761,-10.08122,Teresa McNamara,10
+482,1,HHS04159,Breffni Arms Hotel,4.0,Arvagh,4.0,H12 CP38,53.92443,-7.5834,Eamonn Gray,12
+483,1,HHS04164,Mulcahy's Hotel,4.0,Clonmel,4.0,E91 C7Y8,52.35377,-7.70171,Sharon Higgins,17
+484,1,HHS04165,Royal Spa Hotel,4.0,Lisdoonvarna,4.0,V95 X6WX,53.02861,-9.29009,Ann Doherty,12
+485,1,HHS04166,The Ashbourne Court Hotel,4.0,Ashbourne,4.0,A84 XP86,53.51008,-6.39696,Edyta Pietka,57
+486,1,HHS04167,Villa Rose Hotel,4.0,Ballybofey,4.0,F93 C2CF,54.7996,-7.78148,Thomas Gallen,57
+487,1,HHS04171,The Victoria,4.0,Killarney,4.0,V93 K0FE,52.04334,-9.50005,John Courtney,33
+488,1,HHS04172,Bracken Court,4.0,Balbriggan,4.0,K32 D521,53.60893,-6.18294,Yvonne Moriarty,66
+489,1,HHS04173,InterContinental Dublin,5.0,Dublin 4,5.0,D04 A9K8,53.32651,-6.22569,Doiran Kavanagh,215
+490,1,HHS04174,Gateway Hotel,4.0,Swinford,4.0,F12 K7F4,53.94446,-8.95097,Trish Egan,21
+491,1,HHS04176,The Mariner Westport,4.0,Westport,4.0,F28 W942,53.79855,-9.52139,Colette Cave,34
+492,1,HHS04177,An Crúiscín Lán,4.0,Spiddal,4.0,H91 F853,53.24398,-9.30653,Oisin Foye,14
+493,1,HHS04178,Loch Lein Country House Hotel,4.0,Fossa,4.0,V93 HKF5,52.06866,-9.5868,Paul Corridan,25
+494,1,HHS04182,Ormond Hotel,4.0,Nenagh,4.0,E45 WF53,52.8617,-8.19788,Dermot Kinane,10
+495,1,HHS04183,Sliabh Beagh Hotel & Tourism Centre,4.0,Knockatallon,4.0,H18 H985,54.30635,-7.12933,Adrian Hackett,12
+496,1,HHS04185,Hotel Curracloe,4.0,Curracloe,4.0,Y21 T2R2,52.39348,-6.39394,John Paul Hanrahan,29
+497,1,HHS04186,Travelodge Limerick,4.0,Limerick,4.0,V94 R990,52.67336,-8.67587,Fearghal O'Sullivan,72
+498,1,HHS04190,Cork Airport Hotel,4.0,Cork,4.0,T12 RPP9,51.84822,-8.48637,Aaron Mansworth,81
+499,1,HHS32482,Percy French Hotel,4.0,Strokestown,4.0,F42 A996,53.77598,-8.10371,Steward Watters,18
+500,1,HHS04200,East Village Hotel,4.0,Cork,4.0,T12 Y688,51.87777,-8.43426,Derry O Regan,10
+501,1,HHS04202,Ashdown Park Hotel,4.0,Gorey,4.0,Y25 V1D6,52.67889,-6.2848,Thomas Redmond,79
+502,1,HHS04205,Stella Maris Shore House,4.0,Ballycastle,4.0,F26 YX97,54.29956,-9.39242,Rolf Siegrist,10
+503,1,HHS04212,The Martello Hotel,4.0,Bray,4.0,A98 P7X4,53.19997,-6.09655,John Duggan,25
+504,1,HHS04213,Castle Durrow Country House Hotel,4.0,Durrow,4.0,R32 EA02,52.84617,-7.40257,Peter Stokes,48
+505,1,HHS04228,Seven Horseshoes Hotel,4.0,Belturbet,4.0,H14 WN22,54.10094,-7.44425,Francis Cahill,10
+506,1,HHS40298,Ballykealey House,4.0,Ballon,4.0,R93 A9K1,52.74671,-6.78012,Ian Farrell,12
+507,1,HHS04232,Travelodge Galway Central,4.0,Galway city,4.0,H91 HX8Y,53.2829,-9.03613,David Hennessy,76
+508,1,HHS04233,Lakeside Manor Hotel,4.0,Virginia,4.0,A82 YH30,53.81871,-7.05353,Farrell Brady,31
+509,1,HHS04239,Caisleáin Óir Hotel,4.0,Letterkenny,4.0,F94 WY03,55.02084,-8.32534,James McDevitt,20
+510,1,HHS04240,The Pilgrims Rest Hotel,4.0,Cappoquin,4.0,P51 A5X5,52.18322,-7.84853,Sinead Conneely,10
+511,1,HHS04249,Renvyle Lodge,4.0,Renvyle,4.0,H91 T271,53.58848,-9.9636,Martin Rankin,12
+512,1,HHS04250,Roganstown Hotel and Country Club,4.0,Swords,4.0,K67 P2E4,53.48738,-6.27149,Ian McGuinness,52
+513,1,HHS04258,Fairhill House Hotel,4.0,Clonbur,4.0,F12 KF22,53.54442,-9.36448,lisa Carter,23
+514,1,HHS04259,The Killarney Oaks,4.0,Killarney,4.0,V93 D593,52.03942,-9.49476,Eamon Courtney,70
+515,1,HHS04263,Errigal Country House Hotel,4.0,Cootehill,4.0,H16 KX07,54.06511,-7.10266,Pat Kelly,29
+516,1,HHS04264,Ashbourne House Hotel,4.0,Ashbourne,4.0,A84 XN15,53.51091,-6.39675,Zeeshan Abid,45
+517,1,HHS04265,The Horse and Hound Inn Hotel,4.0,Newbawn,4.0,Y35 TW08,52.3694,-6.83709,Brendan Murphy,24
+518,1,HHS04266,Dingle Bay Hotel,4.0,Dingle,4.0,V92 D9HH,52.13953,-10.27391,Sarah Brosnan,24
+519,1,HHS04269,Tara Hotel,4.0,Killybegs,4.0,F94 V1WP,54.63685,-8.44095,Dymphna Kennedy,31
+520,1,HHS04271,The Prince of Wales Hotel,4.0,Athlone,4.0,N37 T2P0,53.42394,-7.93844,John Callanan,46
+521,1,HHS04272,Abbey Hotel,4.0,Ballyvourney,4.0,P12 FW30,51.93945,-9.15798,Michael Creedon,39
+522,3,HOS010008,Malinbeg Hostel,4.0,Glencolumkille,4.0,F94 CX31,54.70797,-8.72942,Frank Craig,20
+523,3,HOS010015,Courtbrack Accommodation,4.0,Limerick,4.0,V94 N6X6,52.65544,-8.64673,John Randles,99
+524,3,HOS010018,Connemara National Park Lodge - Letterfrack Lodge,4.0,Letterfrack,4.0,H91 WN62,53.5543,-9.95083,Janet McDonnell,35
+525,3,HOS09819,Lakeland House,4.0,Cong,4.0,F31 XD56,53.53899,-9.27246,Lisa Collins,56
+526,7,WSL40412,Doolin Inn,3.0,Doolin,3.0,V95 CC79,53.01261,-9.38378,Anthony Moloney,29
+527,3,HOS09827,Fossa Holiday Hostel,4.0,Killarney,4.0,V93 V208,52.07082,-9.58561,Derry Brosnan,42
+528,3,HOS09833,Inishbofin Island Hostel,4.0,Inishbofin,4.0,H91 TW97,53.61579,-10.19813,Kieran Day,14
+529,3,HOS09835,Carlingford Adventure Centre,4.0,Carlingford,4.0,A91 VW70,54.04006,-6.18624,Tom Mc Ardle,20
+530,3,HOS09837,Sheila's Tourist Hostel,4.0,Cork,4.0,T23 XF95,51.90261,-8.46595,Liam Maher,176
+531,3,HOS09847,Old Mill Holiday Hostel,4.0,Westport,4.0,F28 VX58,53.80041,-9.5241,Niamh Carr,52
+532,3,HOS09868,Brú Radharc na Mara Hostel,4.0,Aran Islands,4.0,H91 W5CE,53.06693,-9.52487,Linda  Searraigh,38
+533,3,HOS09872,Kinlay Hostel,4.0,Galway,4.0,H91 F2KT,53.27323,-9.04888,Frank O'Connell,228
+534,3,HOS09873,Old Monastery Hostel,4.0,Letterfrack,4.0,H91 TK50,53.55197,-9.94611,Stephen Gannon,42
+535,3,HOS09917,Billeragh House,4.0,Listowel,4.0,V31 P440,52.41971,-9.51001,Thomas McElligott,36
+536,3,HOS09918,Katie O'Connors Hostel,4.0,Kilrush,4.0,V15 W825,52.63761,-9.48568,Martin Finucane,36
+537,7,WSL37064,Teac Jack,3.0,Brinlack,3.0,F92 CD71,55.11716,-8.26341,Gearoid MacPhaidin,27
+538,3,HOS09935,Sandrock Holiday Hostel,4.0,Malin Head,4.0,F93 FF61,55.36192,-7.35843,Rodney Lockwood,20
+539,3,HOS09937,Killarney Railway Hostel,4.0,Killarney,4.0,V93 PX23,52.06052,-9.50319,Jerry McMahon,110
+540,7,WSL36426,Clare's Rock,3.0,Carron,3.0,V95 P8W7,53.03457,-9.07684,Pat Cassidy,3
+541,3,HOS09967,Lough Lannagh Lodge,4.0,Castlebar,4.0,F23 VW73,53.84915,-9.31181,Paul Lennon,70
+542,7,WSL40652,O'Neills Victorian Pub and Townhouse,3.0,Dublin 2,3.0,D02 VX62,53.34491,-6.25243,Deirdre Mullins,8
+543,7,WSL40245,Hungry Hill Lodge & Campsite,4.0,Beara,4.0,P75 CY62,51.69392,-9.72572,Jamie Botermans,36
+544,3,HOS09985,Slane Farm Hostel,4.0,Slane,4.0,C15 X3XH,53.71568,-6.57327,Gemma Madden,30
+545,3,HOS09996,Brú na Dromoda,4.0,Mastergeehy,4.0,V23 RK10,51.90818,-10.058,Maryanne Casey,26
+546,3,HOS36495,Donegal Town Independent Hostel,4.0,Donegal,4.0,F94 HH94,54.6564,-8.12427,Linda Cunningham,28
+547,3,HOS36474,Sive Hostel,4.0,Caherciveen,4.0,V23 HY91,51.94805,-10.22084,Niamh McLoughlin,30
+548,3,HOS36480,Kilcommon Lodge,4.0,Ballina,4.0,F26 X437,54.26602,-9.80072,Betty Schult,21
+549,3,HOS36538,Rainbow Hostel,4.0,Doolin,4.0,V95 T951,53.01976,-9.37062,Carmel Shannon,26
+550,8,SCS08508,Ballyvaughan,4.0,Ballyvaugan,4.0,H91 KND3,53.11843,-9.1535,Gerry Quinn,5
+551,8,SCS08510,Killarney Lakeland Cottages,4.0,Killarney,4.0,V93 H304,52.03096,-9.48165,John O'Shea,19
+552,8,SCS08521,Quilty Holiday Cottages,4.0,Quilty,4.0,V95 HK73,52.8306,-9.44334,Patrick Mungovan,24
+553,8,SCS08560,Brookman Town Homes Donnybrook Manor,4.0,Dublin 4,4.0,D04 EW70,53.32092,-6.23823,Naomi Kidney,22
+554,8,SCS08593,Doonbeg Holiday Cottages,4.0,Doonbeg,4.0,V15 NW50,52.74591,-9.57385,Michael Haugh,7
+555,8,SCS08615,Kinsale Holiday Village,4.0,Kinsale,4.0,P17 EX02,51.70971,-8.51654,Tim O'Mahony,9
+556,8,SCS08650,Ardnagashel Estate,4.0,Ballylickey,4.0,P75 TK27,51.72692,-9.47242,Gerry Quinn,16
+557,7,WSL40027,Clonmoylan Self Catering Accommodation,3.0,Portumna,3.0,H53 CH93,53.06697,-8.3153,Anne Hilty,6
+558,8,SCS08674,Dingle Marina Cottages,4.0,Dingle,4.0,V92 EV52,52.14033,-10.2811,Breda  Mallon,14
+559,8,SCS08675,Kenmare Coastal Holiday Cottages,4.0,Kenmare,4.0,V93 AH99,51.87546,-9.60266,Sheila Hannigan,7
+560,7,WSL40483,Inch Beach Cottages,3.0,Inch,3.0,V92 F348,52.14455,-9.9832,mahmood Hussain,9
+561,8,SCS08686,Lough Lannagh Cottages,4.0,Castlebar,4.0,F23 VW73,53.84914,-9.31181,Paul Lennon,11
+562,8,SCS08689,Dingle Harbour Cottages,4.0,Dingle,4.0,V92 Y865,52.14049,-10.28026,Carl Hanratty,20
+563,8,SCS08694,Robertstown Holiday Village,4.0,Robertstown,4.0,W91 N625,53.27199,-6.82206,Karen Gorey,8
+564,8,SCS08705,Carraroe Holiday Village,4.0,Carraroe,4.0,H91 X792,53.26432,-9.60122,Mary Ann  Coyne,16
+565,8,SCS08716,Wolseley Manor,4.0,Tullow,4.0,R93 N2T4,52.79103,-6.73027,Kate Harrison,16
+566,8,SCS08723,Fairgreen Holiday Cottages,4.0,Dungloe,4.0,F94 H286,54.95319,-8.36593,Pauline Forde,15
+567,8,SCS08748,Heyward Mews,4.0,Swords,4.0,K67 AD93,53.48607,-6.2718,Dora  Fekete,8
+568,8,SCS08760,Pipers Chair Houses,4.0,Doolin,4.0,V95 DE2X,53.01653,-9.37522,Jim Shannon,9
+569,8,SCS08773,Upton Court Holiday Cottages,4.0,Kilmuckridge,4.0,Y25 F9X7,52.51751,-6.28027,Sean Doyle,15
+570,5,SCS09210,Rookery Mews Apartments,4.0,Killarney,4.0,V93 Y054,52.05667,-9.49399,Micheal O'Brien,16
+571,5,SCS09218,Molesworth Court Suites,4.0,Dublin 2,4.0,D02 HY39,53.34052,-6.25714,Ross McInerney,12
+572,5,SCS09220,Isaacs Apartments,4.0,Cork,4.0,T23 F6EK,51.90159,-8.46809,Clement Gleeson,11
+573,5,SCS09239,Clifden Station House Suites,4.0,Clifden,4.0,H71 AK52,53.4888,-10.0177,James Sweeney,16
+574,5,SCS09240,The Gleneagle River Apartments,4.0,Killarney,4.0,V93 V6WF,52.04439,-9.50203,Patrick O'Donoghue,31
+575,9,YHS09707,Glendalough International Youth Hostel,4.0,Glendalough,4.0,A98 F576,53.011,-6.33024,Andrew Hyland,118
+576,9,YHS09711,Tra Na Rosann,4.0,Downings,4.0,F92 VY86,55.22938,-7.8041,Erin  Gormley,28
+577,9,YHS09721,Knockree Youth Hostel,4.0,Enniskerry,4.0,A98 R2Y9,53.17841,-6.21184,Andy Hyland,12
+578,9,YHS09738,Errigal Youth Hostel,4.0,Dunlewey,4.0,F92 YR12,55.02999,-8.14058,Erin  Gormley,60
+579,9,YHS09741,Ben Lettery Youth Hostel,4.0,Recess,4.0,H91 Y796,53.47082,-9.84296,Darragh Miller,40
+580,1,HHS04329,Lahinch Coast Hotel & Suites,4.0,Lahinch,4.0,V95 VP9H,52.93184,-9.34484,Brid O'Meara,120
+581,1,HHS04320,McGrory's of Culdaff,4.0,Culdaff,4.0,F93 TP9N,55.28623,-7.1656,Ciaran Devine,17
+582,1,HHS04276,Hamlet Court,4.0,Johnstown Bridge,4.0,A83 WC04,53.40175,-6.85535,Patrica Gill,30
+583,1,HHS04280,Kilford Arms Hotel,4.0,Kilkenny,4.0,R95 YND8,52.65427,-7.24758,Pius Phelan,66
+584,13,BBL10988,Ashfield B&B,4.0,Kenmare,4.0,V93 WV78,51.88264,-9.56981,Mary Brennan,4
+585,13,BBL11678,Ashmore House,4.0,Cashel,4.0,E25 PY68,52.51559,-7.88685,Laura Ryan,4
+586,13,BBL10266,Ballard House,4.0,Clonakilty,4.0,P85 R234,51.63797,-8.84657,Ann Lehane,3
+587,13,BBL11254,Avila,4.0,Kilkenny,4.0,R95 HW70,52.66663,-7.26585,Breda Dore,4
+588,6,CCS00179,Ballinacourty House,4.0,Aherlow,4.0,E34 DF43,52.41631,-8.20986,Meg Stanley,45
+589,13,BBL11368,Ballingowan House,4.0,Newcastle West,4.0,V42 XE29,52.45982,-9.03121,Carmel O'Brien,4
+590,10,SCL15731,Bansha Castle,4.0,Bansha,4.0,E34 KH36,52.44921,-8.07033,Teresa Russell,1
+591,13,BBL11016,O'Sheas Ceol Na hAabhann,4.0,Kenmare,4.0,V93 HK7X,51.89231,-9.60046,Therese O'Shea,4
+592,13,BBL11197,Curragh Plains,4.0,Curragh,4.0,R56 XT20,53.14924,-6.792,Anne Noone,5
+593,13,BBL10200,Channel View,4.0,Baltimore,4.0,P81 YN12,51.4847,-9.35708,Margaret Harrington,5
+594,13,BBL11319,Fitzgeralds Farmhouse & Equestrian Centre,4.0,Abbeyfeale,4.0,V94 YY47,52.3719,-9.30245,Lisa Fitzgerald,4
+595,13,BBL11437,Rocksberry B&B,4.0,Castlebar,4.0,F23 E377,53.83535,-9.33986,Bernadette Walsh,4
+596,2,GAS07571,Coach House,4.0,Butlerstown,4.0,X91 HH58,52.22816,-7.18364,Desmond O'Keeffe,7
+597,13,BBL11594,Avondale House,4.0,Roosky,4.0,N41 Y0R2,53.82984,-7.92905,Carmel Davis,3
+598,13,BBL10751,Dun Roamin,4.0,Galway City,4.0,H91 C9N1,53.26465,-9.0662,Larry Bogan,4
+599,2,GAS08014,Glenview,4.0,Ballinamore,4.0,N41 N6V4,54.02689,-7.7975,Teresa Kennedy,6
+600,2,GAS07637,Greenmount House,4.0,Dingle,4.0,V92 DX99,52.13831,-10.26292,Gareth Curran,14
+601,2,GAS07985,Laragh House,4.0,Kilkenny,4.0,R95 XH99,52.63963,-7.24948,Helen Cooney,8
+602,2,GAS07986,Lismar Guesthouse,4.0,Dundalk,4.0,A91 E223,53.9988,-6.40689,Leon Kinsella,11
+603,1,HHS04289,Four Seasons Hotel,4.0,Carlingford,4.0,A91 W685,54.03931,-6.18156,Frank McKenna,58
+604,1,HHS04290,Vaughan Lodge,4.0,Lahinch,4.0,V95 WF30,52.93353,-9.34102,Michael Vaughan,32
+605,1,HHS04297,Brooklane Hotel,4.0,Kenmare,4.0,V93 T289,51.88359,-9.5918,Una Brennan,20
+606,8,SCS08784,Inish Beg Estate,4.0,Baltimore,4.0,P81 CX60,51.52197,-9.35141,Paul Keane,9
+607,1,HHS04314,The Corralea Court Hotel,4.0,Tuam,4.0,H54 YE00,53.51456,-8.85099,Patrick Kaczynski,28
+608,1,HHS04294,Viking Hotel Waterford,4.0,Waterford,4.0,X91 Y657,52.24228,-7.16473,Karen Dollery,98
+609,13,BBL33316,Greenmount House,4.0,Kinsale,4.0,P17 W320,51.7085,-8.49824,Theresa Murphy,3
+610,3,HOS010036,Newgrange Lodge,4.0,Drogheda,4.0,A92 PP89,53.6946,-6.44275,Leon Kinsella,114
+611,8,SCS08800,East Clare Holiday Village,4.0,Bodyke,4.0,V94 RWH9,52.89988,-8.5976,Ger Teefy,8
+612,2,GAS07987,Castlewood House,4.0,Dingle,4.0,V92 XF61,52.14131,-10.28615,Brian & Helen Heaton,12
+613,1,HHS04350,The Holiday Hotel,4.0,Galway city,4.0,H91 DYT3,53.25996,-9.07563,Martin Coyne,10
+614,1,HHS04302,Clanard Court Hotel,4.0,Athy,4.0,R14 FY90,52.99874,-6.95985,Mary Fennin Byrne,45
+615,1,HHS04335,The Huntsman Inn,4.0,Galway,4.0,H91 D5DW,53.28133,-9.03389,Stephen Francis,14
+616,8,SCS08780,Castlerosse Park Resort,4.0,Killarney,4.0,V93 VN5P,52.06596,-9.53998,Mark Bowe,38
+617,1,HHS04283,Ballyliffin Lodge & Spa,4.0,Ballyliffin,4.0,F93 XR25,55.28018,-7.39536,Ron  Kerrigan,40
+618,8,SCS08789,Castle Gardens Holiday Homes,4.0,Bunratty,4.0,V95 Y208,52.69685,-8.81216,Gerry Quinn,10
+619,8,SCS08791,Dunkerron Holiday Homes,4.0,Kenmare,4.0,V93 NH2T,51.87758,-9.62233,Gerry Quinn,3
+620,3,HOS010031,Brú Hostel,4.0,Cork,4.0,T23 CD00,51.90145,-8.46606,Aoife  Milward,73
+621,1,HHS04325,Talbot Carlow,4.0,Carlow,4.0,R93 Y504,52.84029,-6.96468,Daniel McCarthy,84
+622,1,HHS04313,Pier Head Hotel Spa and Leisure Centre,4.0,Mullaghmore,4.0,F91 AP8H,54.4669,-8.44759,John McHugh,37
+623,1,HHS04317,Court Yard Hotel,4.0,Leixlip,4.0,W23 E9T1,53.36402,-6.48879,Yvonne Moriarty,40
+624,1,HHS04318,The Fáilte Hotel,4.0,Killarney,4.0,V93 N625,52.05941,-9.50682,Paudie O'Callaghan,14
+625,8,SCS08859,Decoy Country Cottages,4.0,Navan,4.0,C15 YY7N,53.60422,-6.58513,Paula Irwin,8
+626,3,HOS010035,The Benwiskin Centre,4.0,Ballintrillick,4.0,F91 A389,54.41284,-8.39049,Noreen Duignan,8
+627,1,HHS04316,Bunratty Manor Hotel,4.0,Bunratty,4.0,V95 N2D7,52.69858,-8.81805,Maureen Wallace,20
+628,2,GAS07991,Rose Lodge Guesthouse,4.0,Cork,4.0,T12 PY06,51.89624,-8.48875,Gearoid Dinneen,15
+629,1,HHS04386,The Shamrock Inn Hotel,4.0,Lahinch,4.0,V95 A4TX,52.93225,-9.34589,Alan Logue,10
+630,1,HHS04377,The Atlantic Hotel,4.0,Lahinch,4.0,V95 D525,52.93236,-9.34587,Alan Logue,14
+631,1,HHS04384,Travelodge Dublin Airport Ballymun,4.0,Dublin 9,4.0,D09 W8H7,53.39653,-6.26317,Barath Ramanathan,125
+632,1,HHS04393,Maudlins House Hotel,4.0,Naas,4.0,W91 VR4R,53.23167,-6.64028,David Fagan,27
+633,1,HHS04327,Óstán Ceann Sibéal,4.0,Ballyferriter,4.0,V92 Y4EK,52.16577,-10.40696,Aodh O Currain,26
+634,1,HHS04352,Broadhaven Bay Hotel,4.0,Belmullet,4.0,F26 D8N7,54.21816,-9.97688,Eamonn Padden,90
+635,8,SCS08820,Pondlodge Holiday Cottages,4.0,Bantry,4.0,P75 N978,51.67247,-9.47488,Annette O'Donovan,9
+636,1,HHS04340,Premier Inn Dublin Airport,4.0,Swords,4.0,K67 E4A6,53.44496,-6.22619,Laura Svarce,213
+637,1,HHS04324,Newbury,4.0,Mullingar,4.0,N91 YP9Y,53.52424,-7.34702,Garvan Mc Ginley,26
+638,1,HHS04375,Hotel Doolin,4.0,Doolin,4.0,V95 DE2X,53.01597,-9.37703,Donal Minihane,17
+639,8,SCS08815,Cahermore Holiday Village,4.0,Enniscrone,4.0,F26 P302,54.22006,-9.0919,Anthony O'Hora,3
+640,1,HHS04374,Scholars Townhouse Hotel,4.0,Drogheda,4.0,A92 ED71,53.71798,-6.34867,Mark McGowan,16
+641,1,HHS04361,Anglers Rest Hotel,4.0,Headford,4.0,H91 PN77,53.4695,-9.10668,Frank Heneghan,15
+642,1,HHS04347,Airport View House Hotel,4.0,Lusk,4.0,K45 A270,53.50643,-6.19672,Gerry Butterly,21
+643,6,CCS00332,Ferrybank Caravan Park,4.0,Wexford,4.0,Y35 PP64,52.34498,-6.45306,Mateusz Slazyk,77
+644,1,HHS34011,Amber Springs Hotel & Health Spa,4.0,Gorey,4.0,Y25 FY07,52.66812,-6.29034,Eibhear Coyle,127
+645,1,HHS04358,O'Shea's Hotel,4.0,Dublin 1,4.0,D01 W303,53.35077,-6.25493,Declan Bolger,35
+646,1,HHS04357,Coachmans Hotel,4.0,Kenmare,4.0,V93 DT92,51.87946,-9.58369,Siobhan Jones,11
+647,1,HHS04405,Cooneys Hotel,4.0,Ballymahon,4.0,N39 V6K6,53.56387,-7.76442,Michael Cooney,12
+648,1,HHS04387,Station House Hotel Letterkenny,4.0,Letterkenny,4.0,F92 ERV1,54.94568,-7.74021,Brian Gallagher,81
+649,1,HHS04346,Carlton Blanchardstown,4.0,Dublin 15,4.0,D15 EYX5,53.41881,-6.38074,John Varley,155
+650,1,HHS32606,Leitrim Marina Hotel,4.0,Leitrim Village,4.0,N41 AE86,53.98859,-8.06691,Patrick Kaczynski,16
+651,1,HHS04379,The Gandon Inn,4.0,Emo,4.0,R32 A256,53.09204,-7.17955,Fiona Hyland,10
+652,8,SCS08818,Mount Falcon Holiday Cottages,4.0,Ballina,4.0,F26 H744,54.06683,-9.15164,Alan Maloney,14
+653,1,HHS04359,River Forest Hotel,4.0,Leixlip,4.0,W23 EP82,53.37104,-6.48698,Niamh Foley,10
+654,3,HOS010041,Tullyarvan Mill Hostel,4.0,Buncrana,4.0,F93 EC9V,55.14405,-7.45264,Michael Diver,51
+655,8,SCS08831,Castle Quay,4.0,Bandon,4.0,P72 F899,51.70063,-8.60373,Mairead McCarthy,3
+656,8,SCS08825,Castlemartyr Golf Lodges & Mews,4.0,Castlemartyr,4.0,P25 X300,51.91126,-8.06286,Brendan Comerford,31
+657,8,SCS08836,Lakeside Holiday Cottages,4.0,Killaloe,4.0,V94 VAK0,52.8126,-8.45427,Carl Hanratty,16
+658,8,SCS08835,The Avenue Holiday Cottages,4.0,Killarney,4.0,V93 KVY9,52.05854,-9.50068,Aoibheann O'Leary,8
+659,8,SCS08832,Cluain Raite,4.0,Bunratty,4.0,V95 PP20,52.69887,-8.81978,Gerry Quinn,10
+660,1,HHS34323,Carrygerry Country House,4.0,Newmarket-On-Fergus,4.0,V95 FE81,52.7008,-8.93864,Gillian  Ennis,11
+661,1,HHS04369,Metro Hotel Dublin Airport,4.0,Dublin 9,4.0,D09 H5C9,53.40092,-6.26395,Mark Williams,92
+662,8,SCS08854,Quality Youghal Holiday Homes,4.0,Youghal,4.0,P36 NR25,51.925,-7.87263,Allen Mc Enery,10
+663,8,SCS08851,Farren Lee Holiday Cottages,4.0,Ovens,4.0,P31 W082,51.89029,-8.70074,David Keohane,15
+664,8,SCS08856,Kenmare Bay Cottages,4.0,Kenmare,4.0,V93 HY28,51.88135,-9.60239,Andrew Reese,28
+665,8,SCS08860,Knightsbrook Holiday Cottages,4.0,Trim,4.0,C15 WYF4,53.54844,-6.7644,Clara Clarke,28
+666,1,HHS04391,The McWilliam Park Hotel,4.0,Claremorris,4.0,F12 D1W3,53.72544,-8.98951,Lukas Kodl,103
+667,1,HHS04394,Baileys Hotel Cashel,4.0,Cashel,4.0,E25 XF79,52.51579,-7.88999,Phil Delaney,20
+668,8,SCS08863,Doonbeg The Links,4.0,Doonbeg,4.0,V15 KH39,52.74675,-9.50401,Joe Russell,8
+669,1,HHS04403,Kilkenny House Hotel,4.0,Kilkenny,4.0,R95 EC89,52.66729,-7.26669,Edward Dore,32
+670,1,HHS32492,Aran Islands Hotel,4.0,Aran Islands,4.0,H91 DH27,53.1178,-9.67561,Niall Madigan,22
+671,1,HHS04406,The Ellison,4.0,Castlebar,4.0,F23 V279,53.85352,-9.30547,Loretto Masterson,85
+672,7,WSL41228,Magherabeg Holiday Park,3.0,Downings,3.0,F92 V2XT,55.201,-7.83139,Eileen Connor,10
+673,1,HHS04410,Parkview Hotel,4.0,Newtownmountkennedy,4.0,A63 FX72,53.0921,-6.11257,John Gallagher,60
+674,1,HHS04413,Earls Court Hotel,4.0,Killarney,4.0,V93 E782,52.05168,-9.50477,Emer Moynihan,30
+675,1,HHS04414,Murphy's Hotel,4.0,Tubbercurry,4.0,F91 K29K,54.0533,-8.73133,Paul Murphy,21
+676,1,HHS04417,The George Boutique Hotel,4.0,Limerick,4.0,V94 FC65,52.66252,-8.62891,Altaf Khan,125
+677,1,HHS04416,Breaffy Woods Hotel,4.0,Castlebar,4.0,F23 R599,53.84479,-9.23682,Wilson Bird,120
+678,1,HHS04421,Inishbofin House Hotel,4.0,Inishbofin,4.0,H91 RK71,53.61371,-10.20612,Nigel Coffey,34
+679,8,SCS08866,Fota Island Lodges,4.0,Carrigtwohill,4.0,T45 HX62,51.8976,-8.29561,John O'Flynn,75
+680,1,HHS04425,Lawlor's of Naas,4.0,Naas,4.0,W91 Y65N,53.2196,-6.66061,Dee Nix,138
+681,1,HHS04427,The Lodge At Castle Leslie Estate,4.0,Glaslough,4.0,H18 FY04,54.31628,-6.89582,Eimear Winters,50
+682,10,SCL15564,Ivy House,4.0,Valentia Island,4.0,V23 E275,51.92099,-10.28886,Mary Foran,1
+683,1,HHS04432,The Dolphin Hotel and Restaurant,4.0,Inishbofin,4.0,H91 C9F4,53.61573,-10.19856,Patrick Coyne,11
+684,8,SCS34381,Waterford Castle Garden Lodges & Golf Resort,4.0,Ballinakill,4.0,X91 Y722,52.25338,-7.05941,Gillian O'Dea,45
+685,1,HHS04441,Kinnitty Castle Hotel,4.0,Birr,4.0,R42 CY50,53.10256,-7.69781,Cora Dwyer,37
+686,1,HHS04439,Seafield Hotel & Spa Resort,4.0,Gorey,4.0,Y25 DP70,52.67519,-6.21407,Micheál Cunningham,102
+687,8,SCS08871,Downings Coastguard Cottages,4.0,Letterkenny,4.0,F92 WP5V,55.19274,-7.81978,Seamus McGinley,20
+688,8,SCS08873,Rockhill Holiday Park,4.0,Kerrykeel,4.0,F92 TY22,55.13738,-7.67183,Chris & Attracta Carberry,8
+689,8,SCS08874,The Old Stable Mews,4.0,Glaslough,4.0,H18 RX05,54.31985,-6.88977,Eimear Winters,12
+690,8,SCS08826,Ballybunion Golf Holiday Homes,4.0,Ballybunion,4.0,V31 CF95,52.49531,-9.65725,Padraig Hanrahan,8
+691,1,HHS04456,Kettle's Country House Hotel,4.0,Swords,4.0,K67 HC57,53.48244,-6.28824,Colin Kettle,26
+692,8,SCS08876,Berehaven Lodge,4.0,Castletownbere,4.0,P75 YA37,51.65905,-9.83366,Mary Power,16
+693,1,HHS04457,Feerick's Hotel,4.0,Rathowen,4.0,N91 PT18,53.65685,-7.52121,John Feerick,13
+694,1,HHS04461,Charleville Park Hotel & Leisure Club,4.0,Charleville,4.0,P56 V268,52.36436,-8.68326,Maxine  Wells,91
+695,1,HHS34543,Shearwater Hotel & Spa,4.0,Ballinasloe,4.0,H53 F5P9,53.32646,-8.21952,Michael Janusz,104
+696,1,HHS04466,Moycarn Lodge and Marina,4.0,Ballinasloe,4.0,H53 AC83,53.32145,-8.1971,Michael Dolan,15
+697,1,HHS04468,Dublin Citi Hotel,4.0,Dublin 2,4.0,D02 X466,53.34433,-6.26361,Daniel Walczak,27
+698,2,GAS08012,Hillview House,4.0,Lusk,4.0,K45 RP03,53.54207,-6.14817,Leo Fynes,10
+699,2,GAS08010,Leeson Bridge House,4.0,Dublin 4,4.0,D04 AH22,53.33171,-6.25297,Derek Byrne,19
+700,1,HHS41349,Coach House Hotel,4.0,Oranmore,4.0,H91 PC8A,53.26862,-8.93002,Fabiano Mulas,15
+701,1,HHS04473,The Clonakilty Hotel,4.0,Clonakilty,4.0,P85 KN30,51.62316,-8.88542,Patrick Kaczynski,31
+702,5,SCS09246,Park Place Apartments,4.0,Killarney,4.0,V93 AY0A,52.06161,-9.51107,Paul O'Neill,17
+703,3,HOS010046,Sleepzone,4.0,Galway city,4.0,H91 TD66,53.27668,-9.05057,Ronan Garvey,192
+704,6,CCS00336,Doolin Riverside Caravan and Camping Park,4.0,Doolin,4.0,V95 KP99,53.01636,-9.38012,David O'Connor,50
+705,1,HHS04479,The Glencarn Hotel,4.0,Castleblayney,4.0,A75 AP92,54.12104,-6.7401,Damian Borden,31
+706,3,HOS010048,Castle Hostel,4.0,Tralee,4.0,V92 FP80,52.26906,-9.7015,Michael Gaine,26
+707,1,HHS04482,Kathleens Country House,4.0,Killarney,4.0,V93 X642,52.06857,-9.51614,LIN ZHU,17
+708,1,HHS04483,Keenan's of Tarmonbarry,4.0,Tarmonbarry,4.0,N39 W968,53.74204,-7.91808,David Keenan,13
+709,3,HOS010049,The Burren Hostel,4.0,Lisdoonvarna,4.0,V95 WP40,53.02886,-9.29348,Ronan Garvey,120
+710,6,CCS00337,Glen of Aherlow Caravan & Camping Park,4.0,Aherlow,4.0,E34 NH58,52.41998,-8.18787,George & Rosaline Drew,40
+711,8,SCS08884,The Woodland Villas at Parknasilla Resort & Spa,4.0,Sneem,4.0,V93 EK71,51.81567,-9.87479,Donald Morrissy,38
+712,5,SCS09247,Courtyard Lodges at Parknasilla,4.0,Sneem,4.0,V93 EK71,51.81567,-9.87479,Donald Morrissy,24
+713,1,HHS04494,Kilians Lodge Hotel,4.0,Mullagh,4.0,A82 C9R6,53.81138,-6.94549,Jo O’Dwyer Kerins,10
+714,5,SCS09248,Jameson Court,4.0,Salthill,4.0,H91 VKP0,53.26021,-9.07534,Elaine Boyle,28
+715,1,HHS04497,The Millhouse,4.0,Slane,4.0,C15 FFK7,53.70286,-6.53683,Lisa Slevin,15
+716,2,GAS08019,Castle Leslie Estate,4.0,Glaslough,4.0,H18 FY04,54.31628,-6.89582,Samantha Leslie,21
+717,2,GAS08018,Townsend House,4.0,Birr,4.0,R42 TK88,53.09882,-7.9095,Martin Kearns,9
+718,8,SCS08885,Kilronan Castle Cottages,4.0,Ballyfarnon,4.0,F52 R867,54.06524,-8.177,Andrew McGovern,10
+719,7,WSL37007,Hamill's Bed and Breakfast,3.0,Ballinamore,3.0,N41 RT22,54.05262,-7.79883,Damien Hamill,13
+720,2,GAS08022,Number 31,4.0,Dublin 2,4.0,D02 CP70,53.3334,-6.25362,Ray Hingston,22
+721,3,HOS010054,Snoozles,4.0,Galway city,4.0,H91 D378,53.27522,-9.04504,Jessica Conneely,130
+722,1,HHS04504,The Old Imperial Hotel,4.0,Youghal,4.0,P36 K006,51.95552,-7.8501,Dan Leahy,18
+723,7,WSL40823,Áras Ghleann Cholm Cille,3.0,Glencolmcille,3.0,F94 HH31,54.69529,-8.7708,Leon Bouwer,19
+724,2,GAS08024,Kinvara Guesthouse,4.0,Kinvara,4.0,H91 EKC2,53.13856,-8.9382,John Burke,23
+725,1,HHS04506,Lough Rea Hotel & Spa,4.0,Loughrea,4.0,H62 Y189,53.2028,-8.58648,Damien McManus,91
+726,1,HHS04507,Frontier Hotel,4.0,Bridgend,4.0,F93 XH29,55.04016,-7.3784,Eunan McDaid,15
+727,1,HHS04509,Viking House Hotel,4.0,Kincasslagh,4.0,F94 HR60,55.02267,-8.38559,Colm Bonner,14
+728,6,CCS00338,Camac Valley Tourist Caravan & Camping Park,4.0,Clondalkin,4.0,D22 DR60,53.1817,-6.2455,Vincent Keogh,213
+729,1,HHS04511,Step House,4.0,Borris,4.0,R95 V2CR,52.60121,-6.92744,Cait Coady,20
+730,8,SCS08886,The Courtyard - Sheen Falls Country Club,4.0,Kenmare,4.0,V93 HR27,51.8743,-9.56349,Conor  Hennigan,20
+731,3,HOS010061,Valley Lodge Farm Hostel,4.0,Claremorris,4.0,F12 DX74,53.78425,-9.05805,Edward Barrett,28
+732,2,GAS08026,Perryville House,4.0,Kinsale,4.0,P17 RK16,51.7058,-8.52081,Laura Corcoran,30
+733,7,WSL41170,Cloverfox Connemara,3.0,Letterfrack,3.0,H91 R7R8,53.55357,-9.94787,Vincent Flannery,1
+734,1,HHS40255,Phoenix Park Hotel,4.0,Dublin 8,4.0,D08 E6KF,53.34836,-6.29479,Liam Smith,16
+735,1,HHS04513,The Waterfront Hotel,4.0,Baltimore,4.0,P81 WR15,51.483,-9.37326,Youen & Kate Jacob,13
+736,8,SCS08889,Arranmore Holiday Village,4.0,Arranmore,4.0,F92 TR24,54.98019,-8.50296,Noirin Ui Mhaoldomhnaigh,8
+737,1,HHS04516,Talbot Hotel,4.0,Belmullet,4.0,F26 NP08,54.22334,-9.98537,Tom Talbot,31
+738,1,HHS04518,Westport Country Lodge Hotel,4.0,Westport,4.0,F28 P642,53.78452,-9.46449,Pat Neary,21
+739,3,HOS010067,Bay View House,4.0,Clare Island,4.0,F28 XY60,53.80156,-9.95301,Carl O'Grady,22
+740,1,HHS04519,Horetown House,4.0,Foulksmills,4.0,Y35 T32A,52.31636,-6.72156,Niamh White,10
+741,1,HHS04520,Dromquinna Manor,4.0,Kenmare,4.0,V93 PK83,51.8715,-9.64383,John Brennan,10
+742,1,HHS04521,Arthaus Hotel,4.0,Dublin 2,4.0,D02 TW61,53.33946,-6.26403,Stephen Moore,41
+743,3,HOS010068,The Connemara Hostel (Sleepzone),4.0,Leenane,4.0,H91 TP63,53.59397,-9.77802,Ronan Garvey,85
+744,8,SCS08891,Clonabreany Courtyard,4.0,Crossakiel,4.0,A82 R9C8,53.71692,-7.0654,Elaine Daly,10
+745,2,GAS08028,The Cliff at Lyons,4.0,Celbridge,4.0,W23 HXH3,53.30065,-6.55511,Arkle Limited,34
+746,1,HHS04217,Mulroy Woods Hotel,4.0,Milford,4.0,F92 TD4F,55.0765,-7.68084,Marty Kelly,45
+747,10,SCL32572,Grange Lodge,4.0,Strokestown,4.0,F42 NX68,53.82309,-8.07216,Barry Caslin,1
+748,6,CCS34069,Carne Beach Holiday Park,4.0,Carne,4.0,Y35 XV78,52.19972,-6.35563,Raymond Doyle,610
+749,7,WSL40253,Slieve Aughty Centre,3.0,Kylebrack,3.0,H62 DX77,53.19891,-8.56609,Esther Zyderlaan,14
+750,1,HHS34130,Ballyliffin Townhouse Hotel,4.0,Ballyliffin,4.0,F93 WN93,55.2776,-7.39494,Cathal Doherty,17
+751,1,HHS34218,The Pier Hotel,4.0,Limerick,4.0,V94 E6HD,52.66465,-8.6291,John Farrelly,54
+752,10,SCL34482,Mia's Cottage,4.0,Clonmany,4.0,F93 HDW9,55.2664,-7.4863,Dolores Mc Carron,1
+753,6,CCS34094,Dunmore East Holiday Park,4.0,Dunmore East,4.0,X91 A9PY,52.15922,-6.99252,Grace Skehan,102
+754,1,HHS34227,Kilcooly's Country House,4.0,Ballybunnion,4.0,V31 DR60,52.51096,-9.67027,John O'Connor,17
+755,3,HOS34556,Galway City Hostel,4.0,Galway,4.0,H91 TF62,53.2742,-9.04763,Jessica Conneely,67
+756,5,SCS34102,Broc House Suites,4.0,Dublin 4,4.0,D04 KT99,53.31694,-6.21855,Ciara Corrigan,24
+757,1,HHS34016,The Woodfield Hotel,4.0,Clifden,4.0,H71 V272,53.48773,-10.0218,Rebecca Gavin,10
+758,2,GAS35157,Viewmount House,4.0,Longford,4.0,N39 N2X6,53.72148,-7.77076,Maggie Brewster,12
+759,1,HHS34450,New Park Hotel,4.0,Athenry,4.0,H65 NW50,53.29743,-8.74751,Alacoque Feeney,10
+760,3,HOS35250,Croagh Patrick Hostel,4.0,Westport,4.0,F28 PH94,53.77856,-9.63635,Mary Coffey,87
+761,1,HHS35165,Nox Hotel,4.0,Galway city,4.0,H91 KX65,53.28643,-9.0423,Victor O Brien,102
+762,1,HHS34541,The Upton Court Hotel,4.0,Kilmuckridge,4.0,Y25 F9X7,52.51751,-6.28027,Sean Doyle,17
+763,1,HHS34418,The Standing Stone Hotel,4.0,Ballinamore,4.0,N41 A297,54.05342,-7.79839,Eamon Walsh,23
+764,1,HHS34590,The Ashe Hotel,4.0,Tralee,4.0,V92 W56F,52.27068,-9.70455,Colin Boyle,96
+765,10,SCL15934,12 Glenmalure Pines,4.0,Greenane,4.0,A67 FT82,52.9333,-6.29704,Ron Friend,1
+766,10,SCL15278,12 Mulranny Holiday Village,4.0,Mulranny,4.0,F28 NY19,53.90733,-9.78168,Kevin McMahon,1
+767,10,SCL15671,15 Morrison Terrace,4.0,Ballina,4.0,F26 W2C9,54.10873,-9.15958,Breege Cahill,1
+768,10,SCL22467,"2, 9 & 13 Mountain View",4.0,Kenmare,4.0,V93 CK24,51.87195,-9.56521,Tony Sisk,3
+769,13,BBL40584,2 Mile Lodge,4.0,Kenmare,4.0,V93 DR63,51.88576,-9.5934,Patricia  McGrath,4
+770,10,SCL32382,2 Millfield House,4.0,Kenmare,4.0,V93 VN34,51.88282,-9.59854,Gail O'Sullivan,1
+771,10,SCL15071,25 Silver Strand,4.0,Ballycotton,4.0,P25 T957,51.83143,-8.02102,Padraig Hyde,1
+772,11,SCL15602,9 Baggot Rath House,4.0,Dublin 4,4.0,D04 FT68,53.3342,-6.22385,Donal & Louise Mc Ging,1
+773,13,BBL25046,Aaron Vale,4.0,Drogheda,4.0,A92 NC42,53.72138,-6.36506,Peter Byrne,3
+774,13,BBL10991,Abbey Court,4.0,Kenmare,4.0,V93 PC90,51.88248,-9.56842,Brendan and Geraldine Ceallaigh,3
+775,10,SCL15620,Abbey Farm Holiday Homes,4.0,Skibbereen,4.0,P81 TC98,51.55515,-9.29544,Mary Fitzgerald,4
+776,13,BBL12898,Abbey House B&B,4.0,Wexford,4.0,Y35 RX86,52.34039,-6.4647,Georgina O'Connor,7
+777,13,BBL10748,Abbey View,4.0,Galway city,4.0,H91 W998,53.29792,-9.09941,Bernie McTigue,3
+778,10,SCL14983,Abhainn Ri Cottages,4.0,Hollywood,4.0,W91 W310,53.0986,-6.56305,Niamh Byrne,4
+779,10,SCL15657,Achill Cottages,4.0,Achill Island,4.0,F28 AW73,53.93165,-9.94585,Stephen Corrigan,4
+780,13,BBL11400,Achill Isle House,4.0,Achill Island,4.0,F28 FE44,53.97422,-10.08604,Sheila Mangan,6
+781,10,SCL15269,Acorn Cottage and Clew Bay Cottage,4.0,Westport,4.0,F28 ND62,53.90662,-9.77802,Patrick Shortt,2
+782,10,SCL23957,Adare Farm Cottage,4.0,Adare,4.0,V94 K160,52.55267,-8.80121,Bryan Doherty,1
+783,13,BBL11471,Aisling House,4.0,Knock,4.0,F12 EW62,53.79352,-8.91009,Karen Coyne,6
+784,13,BBL11041,Alderhaven Country Home,4.0,Killarney,4.0,V93 XK4N,52.05743,-9.48418,Norrie O' Neill,6
+785,13,BBL11311,Allendale,4.0,Carrigallen,4.0,H12 E642,53.9749,-7.64702,Ann Murray,3
+786,13,BBL13772,Almanii B&B,4.0,Dublin 9,4.0,D09 V6W4,53.38732,-6.24436,Mary O'Leary,4
+787,13,BBL11012,An Bruachan,4.0,Kenmare,4.0,V93 R2P5,51.887,-9.596,Julia O'Connor,5
+788,13,BBL10025,An Crannóg,4.0,Ballyconnell,4.0,H14 CX94,54.09728,-7.55507,Joy Dermody,4
+789,13,BBL10952,An Dooneen,4.0,Dingle,4.0,V92 K2D2,52.20074,-10.34374,Mary Hurley McHugh,4
+790,13,BBL10590,An Duna Ri,4.0,Killarney,4.0,V93 X3T9,52.01942,-9.48523,Sheila Doona,3
+791,13,BBL34673,An Riasc B&B,4.0,Dingle,4.0,V92 Y562,52.21726,-10.34049,Denise Ui Bheaglaoi (Begley),4
+792,13,BBL10390,An Rosalithir,4.0,Rosscarbery,4.0,P85 E443,51.59393,-9.01371,Catherine O’Sullivan,4
+793,13,BBL34103,Loughdan House,4.0,Lough Dan,4.0,A98 CX45,53.0669,-6.28907,Sean Byrne,4
+794,13,BBL10585,Annandale House,4.0,Dublin 9,4.0,D09 T2P6,53.37546,-6.24222,Julie Arnott,4
+795,7,WSL35227,Annie Mays,3.0,Skibbereen,3.0,P81 RV07,51.54932,-9.2687,Angela Hurley,8
+796,7,WSL35547,Aran Walkers Lodge,3.0,Aran Islands,3.0,H91 T672,53.12889,-9.74256,Seán Flaithearta,6
+797,13,BBL11095,Applecroft House,4.0,Killarney,4.0,V93 D218,52.05272,-9.49756,Kathy Brosnan,4
+798,13,BBL33321,Aran Lodge,4.0,Ballylickey,4.0,P75 P294,51.72312,-9.44175,Deirdre O'Connell,4
+799,11,SCL15351,Arasain Bhalor,4.0,Falcarragh,4.0,F92 WR9F,55.13645,-8.10316,Mary McGarvey - Boyle,3
+800,13,BBL34466,Ard Einne House,4.0,Aran Islands,4.0,H91 P266,53.10017,-9.65556,Clodagh Ni Ghoill-Mullin,6
+801,13,BBL10665,Ard Mhuiris,4.0,Aran Islands,4.0,H91 A6P2,53.12246,-9.66683,Cait Flaherty,5
+802,13,BBL10285,Ard Na Laoi,4.0,Cobh,4.0,P24 F224,51.84951,-8.29713,Bernadette O'Shea,5
+803,7,WSL36163,Ardboula House,3.0,Tulla,3.0,V95 Y5A0,52.89454,-8.77484,Christine O'Brien,1
+804,13,BBL10655,Ard-Cill,4.0,Swords,4.0,K67 WK46,53.47772,-6.29747,Sheila White,3
+805,13,BBL10494,Ardlee,4.0,Letterkenny,4.0,F92 HC56,54.95741,-7.71896,Elizabeth Cullen,6
+806,13,BBL10464,Ardlenagh View,4.0,Donegal,4.0,F94 WC64,54.63336,-8.11791,Eileen Mulhern,4
+807,13,BBL10881,Ardmor Country House,4.0,Spiddal,4.0,H91 A218,53.24364,-9.32059,Vera Feeney,5
+808,13,BBL10723,Ardmore House,4.0,Clifden,4.0,H71 K239,53.49959,-10.10398,Kathy Mullen,4
+809,11,SCL16125,Armada Lodge Apartment,4.0,Grange,4.0,F91 H212,54.41212,-8.50693,Una Brennan,1
+810,13,BBL11591,Armcashel B&B,4.0,Castlerea,4.0,F45 T226,53.76891,-8.51251,Rita Morgan,2
+811,13,BBL41323,Arradale House,4.0,Carrickmacross,4.0,A81 PH27,53.96532,-6.75785,Christine McMahon,5
+812,13,BBL11835,Arthur's Rest,4.0,Arthurstown,4.0,Y34 KF38,52.24223,-6.95074,Peggy Murphy,3
+813,11,SCL15138,Arus Grattan,4.0,Galway city,4.0,H91 EN82,53.26339,-9.071,Sean Treacy,11
+814,13,BBL11029,Ashbrook,4.0,Killarney,4.0,V93 PP83,52.1079,-9.51704,Julia Egan,4
+815,10,SCL16033,Ashford Cottages,4.0,Ashford,4.0,A67 FN73,53.00147,-6.10314,Eugene Stephens,3
+816,13,BBL11782,Ashleigh,4.0,Butlerstown,4.0,X91 H319,52.23749,-7.17951,Phyllis McGovern,5
+817,13,BBL11704,Ashley Park House,4.0,Ardcroney,4.0,E45 RW32,52.92563,-8.18026,Margaret and Patrick Mounsey,6
+818,13,BBL11167,Ashville House,4.0,Tralee,4.0,V92 EV74,52.25582,-9.70047,Rose O'Keeffe,5
+819,10,SCL15428,Ashwell Cottage,4.0,Naas,4.0,W91 D9Y4,53.23215,-6.61222,Phyllis Burke,1
+820,13,BBL11533,Athlumney Manor,4.0,Navan,4.0,C15 PT1W,53.65172,-6.67194,Pat Boylan,7
+821,13,BBL23151,Audley House,4.0,Cork,4.0,T12 X596,51.89574,-8.48789,Brendan Culkin,5
+822,13,BBL10479,Avalon,4.0,Glenties,4.0,F94 VK12,54.79022,-8.27908,Mary Ita Boyle,3
+823,13,BBL10072,Avarest,4.0,Bunratty,4.0,V14 Y300,52.71579,-8.84377,Deirdre McInerney,4
+824,13,BBL11645,Ave Maria Farmhouse,4.0,Templeboy,4.0,F91 PX26,54.26132,-8.7625,Mary Mulligan,3
+825,13,BBL13092,Avlon House B&B,4.0,Carlow,4.0,R93 NT26,52.84207,-6.91713,Thomas Donagher,4
+826,13,BBL10507,Avondale Farmhouse,4.0,Pettigo,4.0,F94 XH6N,54.55789,-7.832,Mary Leonard,2
+827,13,BBL11928,Ballinclea House,4.0,Kilbride,4.0,A67 HE93,52.89184,-6.09394,Paschal Doyle,3
+828,13,BBL11189,Ballindrum Farm,4.0,Athy,4.0,R14 FK58,53.01055,-6.88886,Mary Gorman,5
+829,13,BBL21614,Ballinwillin House,4.0,Mitchelstown,4.0,P67 PT10,52.27233,-8.26275,Patrick Mulcahy,3
+830,10,SCL15548,Ballykeeffe Farm House,4.0,Kilmanagh,4.0,R95 V5T8,52.60832,-7.38079,Brigid Fitzpatrick,1
+831,10,SCL15823,Ballyvaughan Cottages,4.0,Ballyvaughan,4.0,H91 YD68,53.11571,-9.14875,George Quinn,5
+832,13,BBL11651,Bansha House,4.0,Bansha,4.0,E34 TR23,52.45558,-8.06117,Mary Marnane,6
+833,7,WSL41101,Barkers,3.0,Miltown Malbay,3.0,V95 PY1K,52.85092,-9.42672,Philomena Barker,4
+834,13,BBL10415,Bay View Country House,4.0,Ardara,4.0,F94 VK64,54.7713,-8.40993,Marian Bennett,3
+835,13,BBL10062,Park House,4.0,Bunratty,4.0,V95 HH68,52.70612,-8.81006,Sinead O'Brien,6
+836,13,BBL11157,Bayview House,4.0,Tralee,4.0,V92 K257,52.27987,-9.73832,Jerry/Teresa Kennedy,4
+837,13,BBL24766,Beach Haven,4.0,Tramore,4.0,X91 R521,52.166,-7.145,Avery Coryell,6
+838,10,SCL15613,Beach House,4.0,Inniscrone,4.0,F26 AP23,54.21082,-9.09868,Marita Hurley,1
+839,10,SCL15492,Beara Holiday Homes,4.0,Beara,4.0,P75 CD37,51.62799,-10.03914,Ann O'Sullivan,2
+840,13,BBL13118,Beaufort Lodge,4.0,Beaufort,4.0,V93 P935,52.0669,-9.63358,Ulrike Seifert-Casey,3
+841,10,SCL15013,Beech Lodge,4.0,Athy,4.0,R14 RX60,53.00962,-6.8848,Mary Gorman,1
+842,13,BBL22579,Beechwood,4.0,Blarney,4.0,T23 WF20,51.94179,-8.56012,Valerie Dawes,4
+843,13,BBL34565,Beechwood Country House,4.0,Malahide,4.0,K36 FC91,53.43289,-6.14123,Joe O'Reilly,4
+844,13,BBL11781,Belmont House,4.0,Waterford,4.0,X91 P659,52.2695,-7.0948,Eileen Landy,4
+845,13,BBL40160,Ben Breen House,4.0,Moyard,4.0,H91 TK83,53.54315,-10.02991,Noreen Conneely,5
+846,13,BBL11794,Benown House,4.0,Glasson,4.0,N37 V566,53.47616,-7.86672,Teresa Byrne,6
+847,10,SCL15420,Bere Island Holiday Homes,4.0,Bere Island,4.0,P75 HD92,51.63537,-9.82911,Barry Hanley,1
+848,13,BBL32495,Bere Island Lodge,4.0,Bere Island,4.0,P75 K338,51.63632,-9.8187,Brendan & Edel Murphy,3
+849,13,BBL41200,Bertra House,4.0,Westport,4.0,F28 T228,53.7837,-9.66688,Margaret Gill,5
+850,7,WSL34839,Binion Bay Caravan Park,3.0,Clonmany,3.0,F93 F381,55.27629,-7.42566,Ian McEleney,20
+851,13,BBL11027,Birchwood,4.0,Kilgarvan,4.0,V93 V4KE,51.90639,-9.43,Tom MacDonnell,5
+852,7,WSL34915,Blairscove House and Restaurant,3.0,Durrus,3.0,P75 FE44,51.60874,-9.53831,Ann Woodward,4
+853,13,BBL22546,Bolands,4.0,Dingle,4.0,V92 TY06,52.14368,-10.27309,Breda Boland,6
+854,13,BBL13882,Bramble Rock,4.0,Glendalough,4.0,A98 HK49,53.00976,-6.29173,Gerard & Ann Duffy,4
+855,13,BBL11234,Brandon View House,4.0,Graiguenamanagh,4.0,R95 E4PD,52.51178,-6.90198,Helen Doyle,4
+856,13,BBL32582,Briar Lodge,4.0,Bunratty,4.0,V95 W942,52.71225,-8.82278,Trish Cronin,5
+857,13,BBL10570,Brides Glen Farm House,4.0,Dublin 18,4.0,D18 NH59,53.23948,-6.14972,Betty Stevenson,4
+858,13,BBL10492,Bridgeburn House,4.0,Letterkenny,4.0,F92 YX01,55.0037,-7.84676,Sophia Boyle,4
+859,13,BBL10346,Bridgeview Farmhouse,4.0,Kilbrittain,4.0,P72 W544,51.659,-8.68031,Marian Moloney,4
+860,10,SCL15346,Brielle House,4.0,Mountmellick,4.0,R32 KF97,53.11256,-7.32443,Ann Dunne,1
+861,13,BBL10878,Briseadh na Carraige,4.0,Spiddal,4.0,H91 R2D6,53.24666,-9.2594,Frances Cummins,3
+862,13,BBL10646,Brookfield Lodge,4.0,Lusk,4.0,K45 W314,53.50662,-6.19436,Patricia Butterly,2
+863,13,BBL11514,Brooklodge,4.0,Westport,4.0,F28 YH31,53.80586,-9.52124,Noreen Reddington,4
+864,13,BBL11422,Bru Chlann Lir,4.0,Ballina,4.0,F26 C654,54.13762,-10.09988,Josephine Geraghty,5
+865,10,SCL15103,Buckleys Self Catering,4.0,Millstreet,4.0,P51 D5F3,52.05987,-9.06075,Catherine Buckley,1
+866,13,BBL11233,Bungalow Farmhouse,4.0,Thurles,4.0,E41 Y4D7,52.72403,-7.51005,Gretta Power,3
+867,13,BBL12985,Bunratty Haven,4.0,Bunratty,4.0,V95 RK29,52.71723,-8.83066,Lorraine McInerney,4
+868,13,BBL10187,Cahergal House,4.0,Newmarket-On-Fergus,4.0,V95 DDC3,52.75162,-8.91728,Noreen McInerney,5
+869,13,BBL10850,Camillaun Lodge,4.0,Oughterard,4.0,H91 DD28,53.4334,-9.31919,Deirdre Forde,4
+870,13,BBL10784,Cappa Veagh,4.0,Salthill,4.0,H91 KF6T,53.26421,-9.07994,Catherine Quinlan,4
+871,13,BBL11897,Carbery Cottage Guest Lodge,4.0,Durrus,4.0,P75 AK58,51.61755,-9.57533,Julia Bird,4
+872,7,WSL40888,Carlingford House,3.0,Carlingford,3.0,A91 TY06,54.0381,-6.18553,Erin Finegan,5
+873,10,SCL15536,Carnakilla Cottages,4.0,Glasson,4.0,N37 VX40,53.4903,-7.91605,Owen Egan,5
+874,13,BBL34472,Carrabaun House,4.0,Westport,4.0,F28 FK59,53.78471,-9.52134,Angela Gavin,5
+875,13,BBL11383,Carraig Mor,4.0,Ardee,4.0,A92 EE94,53.83108,-6.53583,Sheila Magennis,4
+876,13,BBL11257,Carraig Rua,4.0,Kilkenny,4.0,R95 EPD1,52.6534,-7.24251,Oonagh Twomey,4
+877,13,BBL11853,Carraig View,4.0,Gorey,4.0,Y25 N2Y6,52.64604,-6.29138,Martina Redmond,3
+878,13,BBL32583,Carramore House,4.0,Knock,4.0,F12 XY42,53.79818,-8.91718,Kathleen Carty,4
+879,7,WSL34724,Pure Space,3.0,Kilkee,3.0,V15 F602,52.6333,-9.59963,Trea Heapes,15
+880,7,WSL40951,Carrick Craft,3.0,Carrick-On-Shannon,3.0,N41 XA00,53.94361,-8.09846,Wendy Newell,112
+881,13,BBL11840,Carrig House,4.0,Carrig-On-Bannow,4.0,Y35 EN28,52.24008,-6.73156,Nicola Howlin,3
+882,13,BBL11655,Carrigeen Castle,4.0,Cahir,4.0,E21 KF74,52.37614,-7.93189,David Butler,7
+883,7,WSL40250,Carriglea House and Courtyard Cottages,3.0,Killarney,3.0,V93 Y8PP,52.03722,-9.49169,John Beazley,3
+884,13,BBL32581,Carriglen,4.0,Ashford,4.0,A67 P897,53.01561,-6.12027,Aine Shannon,3
+885,10,SCL34496,Carrigmore Farm,4.0,Doon,4.0,V94 FX22,52.57002,-8.2441,Thomas Cummins,1
+886,13,BBL33984,Carrown Tober House,4.0,Oughterard,4.0,H91 A78P,53.42666,-9.31551,Gerry McDonnell,6
+887,13,BBL10831,Cartron House Farm,4.0,Kylebrack,4.0,H62 YR59,53.09028,-8.46212,Ann Gardiner,4
+888,13,BBL11444,Casa Mia,4.0,Claremorris,4.0,F12 XC62,53.72137,-8.99513,Rita Cleary,3
+889,13,BBL10606,Cashel Lodge,4.0,Dublin 9,4.0,D09 K1C5,53.37924,-6.23262,Mary McManus,3
+890,10,SCL15012,Cassidy Holiday Homes,4.0,Belturbet,4.0,H14 KX28,54.11164,-7.57278,Francis Cassidy,2
+891,13,BBL10412,Castle Farm,4.0,Ballymacoda,4.0,P25 ET65,51.87249,-7.96718,Margaret Leahy,5
+892,7,WSL40938,Castle Haven,3.0,Rathdowney,3.0,R32 EFD0,52.8714,-7.58853,Helen Sherman,1
+893,10,SCL22430,Castle View House,4.0,Glenbeigh,4.0,V93 H5W9,52.05848,-9.93819,Eileen Sheahan,1
+894,13,BBL10898,Castle View House,4.0,Ballylongford,4.0,V31 N293,52.57306,-9.4958,Garrett Dee,6
+895,13,BBL10925,Castlemaine House,4.0,Castlemaine,4.0,V93 DY24,52.16797,-9.70259,Myra Colgan,4
+896,13,BBL10429,Cavangarden House,4.0,Ballyshannon,4.0,F94 AK25,54.53104,-8.15527,Donna Mc Caffrey,6
+897,13,BBL11246,Celtic House,4.0,Kilkenny,4.0,R95 TK85,52.65463,-7.24992,Angela Byrne,3
+898,13,BBL12915,Church View B&B,4.0,Gurteen,4.0,F56 H977,53.99395,-8.5173,Jacci Conlon,4
+899,13,BBL10094,Churchfield,4.0,Doolin,4.0,V95 K523,53.01989,-9.37123,Maeve Fitzgerald,6
+900,13,BBL11040,Cillcearn House,4.0,Killarney,4.0,V93 W024,52.05708,-9.47238,Tom Kearney,5
+901,13,BBL10663,Clai Ban,4.0,Aran Islands,4.0,H91 D8EC,53.12292,-9.67188,Marion Craven-Hernon,6
+902,13,BBL10179,Clareville House,4.0,Scarriff,4.0,V94 A4X5,52.90011,-8.54075,Teresa Browne,4
+903,10,SCL15476,Cliff View,4.0,Doolin,4.0,V95 D6V4,53.01373,-9.38838,Maeve Fitzgerald,1
+904,13,BBL11181,Cliffords Ocean View B&B,4.0,Waterville,4.0,V23 TY48,51.82331,-10.17163,Abbie Clifford,5
+905,7,WSL40375,Clissmann Horse Caravans,3.0,Rathdrum,3.0,A67 YP82,52.9743,-6.21741,Neasa Clissmann,10
+906,13,BBL11209,Cloncarlin House,4.0,Monasterevin,4.0,W34 W229,53.13659,-7.02715,Marie McGuinness,3
+907,7,WSL41157,Clonganny House,3.0,Ballygarrett,3.0,Y25 WV30,52.55537,-6.25749,Kevin Humphrey,4
+908,13,BBL10176,Clonmore Lodge,4.0,Quilty,4.0,V95 YR4K,52.79976,-9.455,Kevin Lafferty,5
+909,7,WSL41190,Clover Cabin,3.0,Gowran,3.0,R95 EH3E,52.63623,7.08231,Annette Byrne,1
+910,13,BBL10696,Cnoc Breac,4.0,Cleggan,4.0,H71 FF82,53.55739,-10.12474,Mary King,2
+911,10,SCL15585,Lorrha Cottages,4.0,Nenagh,4.0,E45 Y795,53.08811,-8.11341,Roland Dyer,2
+912,13,BBL24400,Coastline House,4.0,Dingle,4.0,V92 P028,52.1406,-10.28464,Vivienne O'Shea,6
+913,13,BBL10932,Coill An Rois,4.0,Tralee,4.0,V92 PK85,52.21697,-10.32917,Jimmy Bruic,4
+914,13,BBL11442,Cois Abhainn,4.0,Clare Island,4.0,F28 PP93,53.79455,-10.03069,Mary O'Malley,4
+915,13,BBL10144,Cois Farraige,4.0,Lahinch,4.0,V95 DA25,52.92463,-9.3491,Rosemary Donohue,6
+916,13,BBL10656,Collinswood,4.0,Swords,4.0,K67 P8X3,53.4612,-6.22731,Jim White,4
+917,13,BBL10803,Consilio,4.0,Galway,4.0,H91 E9V2,53.2665,-9.06707,Stella Faherty,4
+918,13,BBL11934,Coolakay House,4.0,Enniskerry,4.0,A98 AE92,53.16669,-6.18816,Yvonne Roe,4
+919,7,WSL41164,Coolanowle Self Catering Accommodation,3.0,Ballickmoyler,3.0,R93 C3K4,52.90783,-7.03001,Bernadine Mulhall,5
+920,13,BBL11335,Coolrahnee House,4.0,Askeaton,4.0,V94 RP48,52.6034,-8.98078,Oliver and Catherine Scanlan,4
+921,13,BBL12996,Coomassig View,4.0,Sneem,4.0,V93 XY83,51.83859,-9.91198,Maureen Murphy,4
+922,10,SCL15592,Cornagill Cottage,4.0,Letterkenny,4.0,F92 DH5H,54.96839,-7.68212,Eileen Langan,1
+923,10,SCL15365,Cornode - Lakeside,4.0,Portroe,4.0,E45 FX37,52.90397,-8.36165,Gerardine Malone,3
+924,13,BBL10086,Corofin Country House,4.0,Corofin,4.0,V95 N6Y3,52.93914,-9.06642,Mary Shannon,3
+925,7,WSL41050,Corrib House,3.0,Galway city,3.0,H91 NXV1,53.27652,-9.05494,David Bohan,5
+926,13,BBL10746,Corrib View,4.0,Corrandulla,4.0,H91 F9V9,53.36852,-9.05873,Mary Scott Furey,3
+927,13,BBL10853,Corrib View Country House,4.0,Oughterard,4.0,H91 YD65,53.42574,-9.27002,Ethel Lee,5
+928,10,SCL15945,Country Cottages,4.0,Ballyvaughan,4.0,H91 AEX9,53.12818,-9.12404,Raymond Quinn,3
+929,10,SCL15663,Courtyard Cottages,4.0,Tralee,4.0,V92 KT28,52.24647,-9.73188,Myra Daly,4
+930,13,BBL10725,Cregg House,4.0,Clifden,4.0,H71 NX96,53.48389,-9.97641,Mary O'Donnell,4
+931,7,WSL40824,Crossogue Equestrian,3.0,Ballycahill,3.0,E41 W6Y8,52.67248,-7.91212,Mark Molloy,8
+932,13,BBL10847,Crossriver,4.0,Oughterard,4.0,H91 P6Y3,53.43169,-9.32251,Teresa Butler,6
+933,13,BBL10156,Crosswinds,4.0,Lisdoonvarna,4.0,V95 WOY2,53.01678,-9.32052,Monica Droney,3
+934,13,BBL11478,Cuaneen House,4.0,Louisburgh,4.0,F28 RD73,53.76813,-9.82912,Teresa Sammon,5
+935,13,BBL10908,Cul Draiochta,4.0,Caherciveen,4.0,V23 D540,51.93396,-10.24193,Ann Nugent,4
+936,13,BBL13147,Currane Lodge,4.0,Waterville,4.0,V23 EH34,51.8433,-10.14218,Ann & Eamonn McCarthy,3
+937,13,BBL11541,Curran's House,4.0,Oldcastle,4.0,A82 TK82,53.7667,-7.16357,Nuffie Curran,2
+938,13,BBL10090,Daly's House,4.0,Doolin,4.0,V95 RW62,53.01416,-9.38629,Susan Daly,4
+939,13,BBL34572,Dan O'Haras Farmhouse,4.0,Clifden,4.0,H71 EY24,53.47774,-9.90536,Martin Walsh,6
+940,13,BBL10356,Danabel,4.0,Kinsale,4.0,P17 FF89,51.7072,-8.51987,Phil Price,4
+941,7,WSL34832,Danny Minnies,3.0,Annagry,3.0,F94 Y48R,55.02137,-8.31476,Sheila O'Donnell,5
+942,10,SCL15392,Dan's Cottage,4.0,Kenmare,4.0,V93 HO22,51.88279,-9.59592,Danny & Fionnuala O'Sullivan,1
+943,7,WSL41296,Davmar House,3.0,Blarney,3.0,T23 TR83,51.94,-8.56779,David Sykes,3
+944,13,BBL11775,Dawn B&B,4.0,Kilmeaden,4.0,X91 D439,52.2336,-7.30463,Ann Fitzgerald,3
+945,13,BBL11346,Deebert House,4.0,Kilmallock,4.0,V35 PY10,52.40065,-8.56982,Anne O'Sullivan,4
+946,13,BBL13005,Deerpark Manor B&B,4.0,Swinford,4.0,F12 V262,53.93815,-8.94337,Bridget Maloney,4
+947,13,BBL11979,Derrbehy House,4.0,Carrick-On-Shannon,4.0,N41 TN96,54.08174,-8.10873,Mary Guihen,3
+948,13,BBL10938,Devanes,4.0,Dingle,4.0,V92 XY03,52.14357,-10.27266,Geraldine Devane,5
+949,10,SCL14998,Dillons Cottage,4.0,Rockcorry,4.0,H18 VW96,54.12512,-7.00317,Bernadette Dillon,1
+950,13,BBL10943,Dingle Heights,4.0,Dingle,4.0,V92 A702,52.14447,-10.28024,Bridie / Breandán Fitzgerald,5
+951,10,SCL15309,Doherty Farm Holiday Homes,4.0,Downings,4.0,F92 VK84,55.18778,-7.79442,Paddy Doherty,4
+952,10,SCL15694,Doire Farm Cottages,4.0,Kilgarvan,4.0,V93 NC52,51.90356,-9.49109,Anne Randles,3
+953,13,BBL10218,Doire Liath,4.0,Bantry,4.0,P75 C934,51.68519,-9.44677,Therese Linehan,4
+954,13,BBL10221,Donemark Rise,4.0,Bantry,4.0,P75 PR20,51.70067,-9.42801,Theresa Mullins,4
+955,13,BBL11427,Doogarry House,4.0,Castlebar,4.0,F23 E527,53.5109,-9.1547,Bridget & Brendan Cribbin,3
+956,13,BBL11013,Doolin Cottage B&B,4.0,Doolin,4.0,V95 XN52,53.01677,-9.37906,Carol Spencer,3
+957,13,BBL10106,Doonagore Farmhouse,4.0,Doolin,4.0,V95 F688,52.99835,-9.38862,Mary Sweeney,4
+958,13,BBL10002,Moloney House,4.0,Doolin,4.0,V95 C2F7,53.01374,-9.38288,Frank Moloney,6
+959,10,SCL15954,Dromatouk Cottage,4.0,Kenmare,4.0,V93 AH96,51.8865,-9.54295,Geraldine Lehane,1
+960,13,BBL10210,Dromcloc House,4.0,Bantry,4.0,P75 YV66,51.66839,-9.49946,Dympna Crowley,6
+961,13,BBL11056,Dromhall Heights,4.0,Killarney,4.0,V93 RX51,52.05354,-9.50182,Peggy McCarthy,3
+962,10,SCL15563,Droumkeal Cottage,4.0,Bantry,4.0,P75 RK50,51.73713,-9.43799,Mary Keohane,1
+963,13,BBL11001,Druid Cottage,4.0,Kenmare,4.0,V93 VY32,51.88281,-9.59804,Bernadette Goldrick,3
+964,10,SCL15484,Drumkeeran Holiday Homes,4.0,Drumkeeran,4.0,N41 K206,54.17349,-8.14934,Mary McCormick,4
+965,13,BBL11563,Dun Cromain Bed and Breakfast,4.0,Banagher,4.0,R42 X576,53.18993,-7.99733,Maura Flannery,3
+966,7,WSL35900,Duncannon Beach Holiday Park,3.0,Duncannon,3.0,Y34 CF95,52.2184,-6.91982,Philip Wallace,19
+967,10,SCL40340,Dunowen House,4.0,Clonakilty,4.0,P85 DX25,51.55589,-8.90532,Kela Hodgins,2
+968,7,WSL34791,Dzogchen Beara Retreat Centre,3.0,Beara,3.0,P75 V058,51.61625,-9.97866,Malcolm MacClancy,5
+969,10,SCL15959,Eagle View,4.0,Moone,4.0,R14 N294,52.96754,-6.83852,Peter Clynch,1
+970,13,BBL11202,Eaglehill B&B,4.0,Curragh,4.0,R56 YH50,53.09,-6.8757,Julie Keane,4
+971,13,BBL11482,Elderberry,4.0,Westport,4.0,F28 H316,53.80491,-9.52123,Myra Berry,3
+972,13,BBL10430,Elm Brook,4.0,Ballyshannon,4.0,F94 DK03,54.49902,-8.18591,Karen McGee,4
+973,13,BBL10120,Elmdale,4.0,Ennis,4.0,V95 Y9DH,52.91222,-8.91954,Anne O'Halloran,3
+974,10,SCL16145,Elthorne House,4.0,Ardara,4.0,F94 XW59,54.78518,-8.44171,Sarah Gildea,1
+975,13,BBL11069,Emerville House,4.0,Killarney,4.0,V93 PE00,52.05549,-9.50488,Christine McSweeney,4
+976,10,SCL28143,Emy Lakehouse,4.0,Emyvale,4.0,H18 C891,54.34054,-6.96759,Geraldine Watterson,1
+977,13,BBL10872,Errisbeg Lodge,4.0,Roundstone,4.0,H91 FDW2,53.38458,-9.95229,Shirley King,4
+978,13,BBL13157,Ethan House B&B,4.0,Rosscarbery,4.0,P85 T620,51.57606,-9.03459,Roy Buckingham,3
+979,13,BBL10550,Evergreen,4.0,Swords,4.0,K67 D2V3,53.48457,-6.24578,Jimmy & Mary Canavan,4
+980,13,BBL24289,Fáilte B&B,4.0,Westport,4.0,F28 FW67,53.80256,-9.51657,Delia Breheny,3
+981,7,WSL41140,Fallon's B&B,3.0,Kinvara,3.0,H91 CD6C,53.1391,-8.93993,Niall Fallon,8
+982,10,SCL15450,Fanningstown Castle,4.0,Patrickswell,4.0,V94 H392,52.54764,-8.73973,Mary Normoyle,1
+983,13,BBL11045,Farmstead Lodge,4.0,Beaufort,4.0,V93 KC89,52.0661,-9.75344,Eileen O'Shea,4
+984,10,SCL14995,Fern Cottage,4.0,Letterkenny,4.0,F92 KR88,54.97283,-7.87988,Margaret Gibbons,1
+985,13,BBL24162,Ferndale,4.0,Achill Island,4.0,F28 X018,53.98179,-10.08967,Jon Fratschoel,5
+986,13,BBL10942,Ferriter's Cove,4.0,Ballyferriter,4.0,V92 YT18,52.17794,-10.44444,Padraig Ferriter,4
+987,13,BBL10364,Findus House,4.0,Macroom,4.0,P12 XA47,51.8902,-9.07429,Mary O'Sullivan,6
+988,13,BBL10854,Forest Hill,4.0,Oughterard,4.0,H91 AC93,53.45508,-9.33455,Dolores Leonard,4
+989,13,BBL13231,Forest Park House,4.0,Boyle,4.0,F52 VE84,53.96994,-8.24497,Helen Lavin,6
+990,13,BBL11991,Fortfield Farm,4.0,Kilrush,4.0,V15 RR23,52.63522,-9.3915,Sean Cunningham,5
+991,13,BBL10033,Fortview House,4.0,Cloverhill,4.0,H14 X680,54.07413,-7.34048,Sean Smith,3
+992,13,BBL10363,Fountain House,4.0,Macroom,4.0,P12 YP20,51.87483,-8.92743,Breda Condon,6
+993,13,BBL11653,Foxford Farm House,4.0,Bansha,4.0,E34 R598,52.43808,-8.09388,Honora Russell,3
+994,10,SCL15658,Fuchsia Lane Farm,4.0,Terryglass,4.0,E45 KD83,53.03984,-8.17575,Niall Heenan,4
+995,7,WSL34782,Gartan Outdoor Education and Training Centre,3.0,Letterkenny,3.0,F92 T853,54.99416,-7.90792,Marty McCann,1
+996,10,SCL15604,Garveys Cottage,4.0,Ventry,4.0,V92 N5W6,52.11206,-10.39576,Joan Garvey,1
+997,7,WSL36191,Ghan House,3.0,Carlingford,3.0,A91 DXY5,54.03949,-6.1841,Paul Carroll,11
+998,13,BBL10100,Glasha Meadows,4.0,Doolin,4.0,V95 A9KW,53.03379,-9.36182,Marian McDonagh,6
+999,13,BBL11808,Glasson Stone Lodge,4.0,Glasson,4.0,N37 YR20,53.47275,-7.8643,Oliver O'Neill,5
+1000,13,BBL10865,Gleann Treasna,4.0,Ballynahown,4.0,H91 XE86,53.26024,-9.54573,Brid Finnerty,3
+1001,13,BBL10117,Glen Cove,4.0,Ennis,4.0,V95 PX43,52.82002,-8.94591,Pauline Mulhern,3
+1002,13,BBL24989,Glen Gat House,4.0,Dundalk,4.0,A91 WT78,53.99872,-6.40812,Helena Mullins,5
+1003,13,BBL11894,Glen Hill,4.0,Barntown,4.0,Y35 R260,52.33987,-6.53097,Kathleen and Nicholas Murphy,5
+1004,13,BBL11966,Glen Na Smole,4.0,Wicklow,4.0,A67 AP64,52.9708,-6.06302,Fiona Byrne,4
+1005,13,BBL10921,Glenbrook House,4.0,Currow,4.0,V93 TX89,52.18856,-9.49462,Eileen O'Connor,3
+1006,13,BBL10079,Glencarrig,4.0,Carrigaholt,4.0,V15 E821,52.592,-9.72132,MARY Aston,4
+1007,13,BBL11508,Glenderan,4.0,Westport,4.0,F28 D236,53.79342,-9.55167,Ann O'Flaherty,4
+1008,13,BBL11833,Glendine Country House,4.0,New Ross,4.0,Y34 Y920,52.24261,-6.94904,Ann Crosbie,5
+1009,13,BBL11557,Gleneven House,4.0,Inniskeen,4.0,A91 A065,54.00194,-6.57257,Heinz Lorenz,3
+1010,13,BBL11972,Glengorse,4.0,Wicklow,4.0,A67 YH33,52.97824,-6.05014,Anne O'Connor,2
+1011,7,WSL35127,Glenmalure,3.0,Glenmalure,3.0,A67 A265,52.99161,-6.42193,Darragh Miller,1
+1012,13,BBL11981,Glenraha Farmhouse,4.0,Mullinavat,4.0,X91 D85H,52.37974,-7.19718,Brid Fitzpatrick,3
+1013,10,SCL15249,Glenview Cottage,4.0,Killarney,4.0,V93 X5Y9,52.12707,-9.54138,John & Eileen  O Mahony,1
+1014,10,SCL15009,Glenview Lodge,4.0,Broadford,4.0,P56 CF83,52.32883,-8.96965,Monica Neenan,1
+1015,13,BBL11179,Golf Links View,4.0,Waterville,4.0,V23 P766,51.84234,-10.17929,Breda Barry,5
+1016,13,BBL11580,Gormagh,4.0,Durrow,4.0,R35 KT51,53.30752,-7.49042,Anne O'Brien,4
+1017,13,BBL11087,Gormans,4.0,Killarney,4.0,V93 4D66,52.10919,-9.51556,Moira Gorman,3
+1018,10,SCL34552,Gort na gCapall Cottage,4.0,Dromineer,4.0,E45 RW02,52.93122,-8.23951,Jeanette Seymour,1
+1019,7,WSL36349,Grange Manor Kilkenny,3.0,Ballyragget,3.0,R95 D5N2,52.76635,-7.35544,Mary Mulcahy,4
+1020,13,BBL11556,Grangeview House,4.0,Emyvale,4.0,H18 PN29,54.39024,-6.97386,Maureen Treanor,3
+1021,13,BBL11440,Granuaile House,4.0,Clare Island,4.0,F28 TV24,53.79989,-9.95231,Rory McCabe,4
+1022,11,SCL15137,Grattan House,4.0,Galway city,4.0,H91 E76Y,53.26334,-9.07114,Sean Treacy,7
+1023,10,SCL15307,Green Acres,4.0,Claremorris,4.0,F12 XF82,53.79092,-9.0653,Martina McGing,1
+1024,13,BBL10568,Greenacres,4.0,Rathcoole,4.0,D24 TD68,53.2571,-6.49932,Mary Spillane,3
+1025,13,BBL11783,Greenfield House,4.0,Mallow,4.0,P51 YV63,52.13593,-8.66156,Patrick Walsh,6
+1026,13,BBL12860,Greenfields Farmhouse,4.0,Asdee,4.0,V31 FV18,52.55645,-9.54057,Mary O'Donoghue,3
+1027,10,SCL15339,Rockview House,4.0,Charlestown,4.0,F45 PN50,53.94885,-8.70385,Nuala Quinn,1
+1028,13,BBL12998,Greese View House,4.0,Moone,4.0,R14 X564,52.96447,-6.84431,Evelyn Kavanagh,4
+1029,13,BBL11240,Grove Farmhouse,4.0,Inistioge,4.0,R95 RX2A,52.47151,-7.09525,Nellie Cassin,3
+1030,13,BBL11386,Grove House,4.0,Carlingford,4.0,A91 AP6D,54.03335,-6.18123,Wendy Hanratty,6
+1031,7,WSL41102,Grovemount House,3.0,Ennistymon,3.0,V95 CY51,52.9397,-9.30359,Gerard & Sheila Linnane,6
+1032,13,BBL11149,Gurrane,4.0,Tralee,4.0,V92 K235,52.28173,-9.68407,Gertie Deady,3
+1033,10,SCL15468,Harap Farm,4.0,Swords,4.0,K67 D9N1,53.49114,-6.22653,Sylvia Jones,4
+1034,7,WSL36016,Harbour House B&B,3.0,Courtown,3.0,Y25 NW65,52.64458,-6.22928,Volodymyr Kovalchuk,12
+1035,13,BBL40243,Harwood Heights,4.0,Carlingford,4.0,A91 EW88,54.03369,-6.1869,Nuala Harold,4
+1036,13,BBL11084,Haven's Rest,4.0,Killarney,4.0,V93 TF21,52.09406,-9.51571,Kay Davies,3
+1037,13,BBL10032,Hawthorn Lodge,4.0,Milltown,4.0,H14 DX00,54.06259,-7.46815,Pauline Rodgers,4
+1038,10,SCL40710,Hazel Cottage,4.0,Ballyhahill,4.0,V94 VK6R,52.56009,-9.19276,Maria O'Brien,1
+1039,13,BBL11456,Hazel Grove,4.0,Cong,4.0,F31 W354,53.55676,-9.29241,Ann Coakley,2
+1040,13,BBL10693,Hazelbrook,4.0,Cleggan,4.0,H71 AE10,53.55539,-10.11602,Josephine Decoucey,4
+1041,7,WSL35525,Hazelwood Lodge,3.0,Ballyvaughan,3.0,H91 WK18,53.10593,-9.15582,Victor McSweeney,8
+1042,7,WSL41109,Hideaway at Foxhollow,3.0,Fordstown,3.0,C15 X3E3,53.67265,-6.89359,June Staunton,1
+1043,13,BBL11421,Hillcrest House,4.0,Ballina,4.0,F26 E8P3,54.14461,-9.74096,Evelyn Cosgrove,4
+1044,7,WSL35070,Hilltop B&B,3.0,Kilkee,3.0,V15 XP73,52.63257,-9.75529,Teresa O'Gorman,3
+1045,13,BBL23042,Hillview,4.0,Bray,4.0,A98 W291,53.17667,-6.09436,Anthony Griffin,4
+1046,10,SCL15467,Horse House One,4.0,Ballina,4.0,F26 EA34,54.07748,-9.31268,Susan DJ Kellett,1
+1047,13,BBL11812,Hounslow House,4.0,Castlepollard,4.0,N91 D8CN,53.69157,-7.22923,Gráinne Healy,6
+1048,13,BBL13089,Imeall na Mara (Seashore House),4.0,Ballydavid,4.0,V92 Y8CF,52.1905,-10.37324,Philomena Brosnan,6
+1049,7,WSL40158,Inch Beach House,3.0,Annascaul,3.0,V92 YD27,52.14337,-9.98333,Zarah Hussain,15
+1050,13,BBL10083,Inchiquin View,4.0,Corofin,4.0,V95 XE3T,52.97232,-9.09143,Betty Kelleher,4
+1051,13,BBL34749,Inisean B&B,4.0,Dungloe,4.0,F94 P9D6,54.95341,-8.36929,Marie Quinn,3
+1052,10,SCL15507,Inishmulclohy Lodge,4.0,Rosses Point,4.0,F91 CPK4,54.30117,-8.58096,Eileen Ferguson,1
+1053,13,BBL11801,Inny Bay B&B,4.0,The Pigeons,4.0,N37 DK58,53.54399,-7.83832,Paul Foxe,2
+1054,13,BBL10324,Island View House,4.0,Glengarriff,4.0,P75 RW10,51.75176,-9.54296,Imelda Lyne,6
+1055,13,BBL11977,Island View House,4.0,Clonbur,4.0,F12 K651,53.529,-9.35687,Mary  Morrin,3
+1056,10,SCL15043,Island Winds,4.0,Killala,4.0,F26 HF57,54.2065,-9.20502,Gabrielle McHale,1
+1057,13,BBL10909,Iveragh Heights,4.0,Caherciveen,4.0,V23 WN47,51.9506,-10.21354,Christina O'Neill,5
+1058,13,BBL11290,Ivyleigh House,4.0,Portlaoise,4.0,R32 TD36,53.03576,-7.3,Dinah Campion,4
+1059,1,HHS40517,Jacob's Well Hotel,4.0,Rathdrum,4.0,A67 YP86,52.93259,-6.23079,Helen Jacob,12
+1060,10,SCL15888,Kelly Cottages,4.0,Westport,4.0,F28 K239,53.90532,-9.67834,PJ Kelly,3
+1061,13,BBL10990,Kenmare House B&B,4.0,Kenmare,4.0,V93 HO22,51.88281,-9.59624,Danny & Fionnuala  O'Sullivan,6
+1062,13,BBL11844,Kilbora B&B,4.0,Camolin,4.0,Y21 HP44,52.60146,-6.47058,Anne Marie Hobbs,4
+1063,13,BBL40336,Kilbree House,4.0,Galway city,4.0,H91 FT53,53.28916,-9.08271,Mike O'Grady,6
+1064,13,BBL13689,Kilcatten Lodge,4.0,Timoleague,4.0,P72 AC64,51.66212,-8.75006,Noreen Sweetnam,4
+1065,10,SCL15770,Killaghy Castle,4.0,Mullinahone,4.0,E41 Y5H2,52.51723,-7.51442,Eileen Morris,1
+1066,11,SCL15128,Killarney Haven Suites,4.0,Killarney,4.0,V93 W57T,52.06082,-9.51062,Micheal O'Brien,7
+1067,13,BBL10237,Killarney House,4.0,Blarney,4.0,T23 HX47,51.94245,-8.55969,Caroline Morgan,4
+1068,13,BBL13906,Killarney House,4.0,Tralee,4.0,V92 NN2K,52.28304,-9.73767,The Morgan Family,3
+1069,13,BBL11892,Killiane Castle Country House & Farm,4.0,Drinagh,4.0,Y35 E1NC,52.29138,-6.4485,Paul Mernagh,8
+1070,11,SCL15098,Killiane Castle Courtyard Apartments,4.0,Drinagh,4.0,Y35 E1NC,52.29068,-6.45171,Paul Mernagh,3
+1071,13,BBL22706,Killinagh House,4.0,Blacklion,4.0,F91 XR80,54.28855,-7.92397,Eileen Treacy,3
+1072,13,BBL11890,Killurin Lodge,4.0,Killurin,4.0,Y21 YC64,52.5022,-6.56613,Clare Walker,4
+1073,10,SCL14997,Kilmore Cottage,4.0,Kilmore,4.0,Y35 XR83,52.20454,-6.54645,Helen Cousins,2
+1074,10,SCL15182,Kiltale House,4.0,Kiltale,4.0,C15 HN32,53.53043,-6.68843,Mary Lydon,6
+1075,7,WSL35895,Kingfisher Lodge,3.0,Killarney,3.0,V93 X759,52.06367,-9.50605,Ann Carroll,11
+1076,13,BBL11184,Klondyke House,4.0,Waterville,4.0,V23 PE86,51.83408,-10.17607,Cirean Morris,6
+1077,10,SCL15626,Seabreeze & Kinnegar Cottages,4.0,Rathmullan,4.0,F92 XT80,55.09151,-7.55549,Bert Anderson,2
+1078,13,BBL10385,Knockdrish,4.0,Millstreet Town,4.0,P51 YE20,52.06945,-9.04735,Noreen Dennehy,3
+1079,13,BBL10284,Knockeven House,4.0,Cobh,4.0,P24 E392,51.84901,-8.31832,Pamela Mulhaire,4
+1080,13,BBL11399,Krakow,4.0,Dundalk,4.0,A91 AR28,54.00476,-6.41938,Marian Witherow,5
+1081,13,BBL11960,Kyle Farmhouse,4.0,Ballinglen,4.0,Y14 K593,52.85212,-6.47301,Margaret Coogan,3
+1082,13,BBL10219,La Mirage,4.0,Bantry,4.0,P75 TD90,51.71509,-9.42973,Siobhain Lynch,3
+1083,13,BBL34206,Lacken Lodge,4.0,Birdhill,4.0,V94 EY91,52.74814,-8.4367,Marie Ryan,3
+1084,10,SCL15729,Laffertys Holiday Homes,4.0,Portnablagh,4.0,F92 Y0F6,55.17178,-7.91713,Mary Theresa Lafferty,6
+1085,13,BBL10026,Lake Avenue House,4.0,Bawnboy,4.0,H14 YP73,54.09916,-7.66879,Catherine O'Reilly,3
+1086,13,BBL10080,Lakefield Lodge,4.0,Corofin,4.0,V95 FW92,52.93972,-9.06198,Mary Cleary,3
+1087,7,WSL41310,Lakeland House,3.0,Ballina,3.0,V94 D2R4,52.80724,-8.43216,Trudy Ryan,8
+1088,13,BBL12851,Lakeshore House,4.0,Clonbur,4.0,F12 DP73,53.52017,-9.3935,Bernadette Feerick,5
+1089,10,SCL15546,Lakeside Cottage,4.0,Killeshandra,4.0,H12 AY01,54.01739,-7.53153,Marie Tiernan,2
+1090,13,BBL12882,Leim Siar,4.0,Ballina,4.0,F26 V2V5,54.09887,-10.07009,Hannah Quigley,4
+1091,10,SCL15360,Lighthouse Lodge,4.0,Headford,4.0,H91 FKT1,53.49126,-9.21208,Margaret McHugh,1
+1092,13,BBL10405,Lis-Ardagh Lodge,4.0,Union Hall,4.0,P81 DK54,51.56235,-9.15022,Carol Kearney,3
+1093,7,WSL40596,Lisheen Castle,3.0,Moyne,3.0,E41 DX47,52.75494,-7.74775,Zane Everard,1
+1094,13,BBL10591,Lissyclearig Thatched Cottage,4.0,Kenmare,4.0,V93 CC92,51.90047,-9.5955,Carmel Breen,4
+1095,13,BBL11581,Littlewood,4.0,Tullamore,4.0,R35 V064,53.31285,-7.51207,Lucy Bradley,3
+1096,10,SCL16038,Longbowe,4.0,Kilkenny,4.0,R95 E8P6,52.64254,-7.22844,Kevin Mahon,1
+1097,7,WSL35304,Silken Thomas Accommodation,3.0,Kildare,3.0,R51 HK54,53.15674,-6.9097,Brian Flanagan,41
+1098,13,BBL24053,Lough Bawn House,4.0,Collinstown,4.0,N91 EYX4,53.68343,-7.16894,Verity Butterfield,4
+1099,7,WSL35932,Lough Ree (East) Caravan & Camping,3.0,Athlone,3.0,N37 TX45,53.44833,-7.88917,John Kelly,40
+1100,7,WSL36109,Loughcrew Megalithic Centre,3.0,Oldcastle,3.0,A82 A6N7,53.7452,-7.12136,Niall Shortt,56
+1101,13,BBL11518,Lurgan House,4.0,Westport,4.0,F28 X971,53.79263,-9.53492,Christina scahill,4
+1102,13,BBL11396,Lynolan House,4.0,Dundalk,4.0,A91 N529,53.9712,-6.4113,Evelyn Carolan,5
+1103,13,BBL11915,Macreddin Rock B&B,4.0,Aughrim,4.0,Y14 AX05,52.88402,-6.33116,Michael & Margaret Stapleton,6
+1104,13,BBL24747,Magouhy House,4.0,Carran,4.0,V95 WP20,53.027,-9.0855,Julianne O'Loughlin,3
+1105,13,BBL33988,Maple Lodge,4.0,Castlebridge,4.0,Y35 PH48,52.37827,-6.45008,Danny Hughes,6
+1106,13,BBL10397,Marguerites,4.0,Skibbereen,4.0,P81 XE22,51.54126,-9.27801,Marguerite McCarthy,3
+1107,13,BBL11825,Marlinstown Court,4.0,Mullingar,4.0,N91 AX76,53.52253,-7.30481,Barbara Ginnell,5
+1108,13,BBL11834,Marsh Mere Lodge,4.0,Arthurstown,4.0,Y34 RT93,52.24312,-6.95603,Claire & Vincent McNamara,4
+1109,11,SCL15494,Marygrove Court,4.0,Galway city,4.0,H91 DF89,53.26161,-9.07404,Jim Biesty,1
+1110,13,BBL11699,Maryville,4.0,Nenagh,4.0,E45 HR50,52.89002,-8.24625,William Hayes,4
+1111,7,WSL34811,McMunn's Of Ballybunion,3.0,Ballybunion,3.0,V31 E191,52.51103,-9.67564,Greg Ryan,8
+1112,13,BBL11381,Melview Lodge,4.0,Longford,4.0,N39 YD25,53.75663,-7.79123,Kevin Lyons,5
+1113,13,BBL11265,Mena House,4.0,Kilkenny,4.0,R95 DD35,52.66542,-7.25224,Katherine Molloy,4
+1114,13,BBL10442,Mevagh House,4.0,Carrigart,4.0,F92 YN59,55.17632,-7.78554,Donald Cullen,4
+1115,13,BBL23006,Michaeleen's Manor B&B,4.0,Cong,4.0,F31 X278,53.53892,-9.27026,Lisa Collins,6
+1116,10,SCL15189,Mill Farm Cottages (Fern Cottage & Rose Cottage),4.0,Foulksmills,4.0,Y35 AY71,52.31468,-6.75395,Catherine Redmond,2
+1117,10,SCL15257,Millstone Cottages,4.0,Milford,4.0,F92 A072,55.10768,-7.66726,Dolores McGee,3
+1118,13,BBL11191,Moate Lodge,4.0,Athy,4.0,R14 KD66,53.02324,-6.92645,Mary Pelin,4
+1119,13,BBL11511,Moher House,4.0,Westport,4.0,F28 FX39,53.73615,-9.55066,Marian O'Malley,3
+1120,10,SCL15017,Mount Brandon Cottage,4.0,Graiguenamanagh,4.0,R95 P046,52.53724,-6.94717,Andrea Wenner,2
+1121,13,BBL10929,Mount Brandon Lodge,4.0,Dingle,4.0,V92 YC93,52.2363,-10.18146,Garrett Fitzgerald,2
+1122,10,SCL15153,Mount Cashel Lodge,4.0,Sixmilebridge,4.0,V95 W528,52.76583,-8.76802,Pat Shanahan,3
+1123,13,BBL10441,Mount Royd Country Home,4.0,Carrigans,4.0,F93 YX24,54.9509,-7.42504,J Martin,3
+1124,13,BBL11910,Mount Usher View,4.0,Ashford,4.0,A67 T289,53.00933,-6.10755,Jean O'Shea-Conlon,4
+1125,13,BBL10282,Mountview House,4.0,Cobh,4.0,P24 Y096,51.85328,-8.2919,Noreen Hickey,3
+1126,13,BBL11385,Mourneview,4.0,Carlingford,4.0,A91 E7WK,54.02001,-6.17037,Lyn Grills,6
+1127,10,SCL23026,Muckno Lodge,4.0,Castleblayney,4.0,A75 TK80,54.0927,-6.68466,Fiona McGuinness,1
+1128,10,SCL15258,Lough Mask Holidays - Mullach Cottage,4.0,Toormakeady,4.0,F12 DX96,53.63881,-9.38532,John and Judy Burke,3
+1129,13,BBL11106,Mystical Rose,4.0,Killarney,4.0,V93 E043,52.05119,-9.49724,Roisin O'Mahoney,6
+1130,7,WSL34919,Nevins Newfield Inn,3.0,Westport,3.0,F28 A6K1,53.90625,-9.75622,John Nevin,13
+1131,13,BBL23034,Newtown Farm Country House,4.0,Ardmore,4.0,P36 AW95,51.9967,-7.72501,Teresa O'Connor,6
+1132,10,SCL15575,No 5 Greenfield Park,4.0,Lahinch,4.0,V95 YF98,52.93475,-9.33346,Angela Cahill,1
+1133,13,BBL34510,North County House,4.0,Listowel,4.0,V31 VK75,52.44698,-9.48338,Monica Quille,6
+1134,10,SCL15796,Number 2 Glenvale Cottage,4.0,Achill Island,4.0,F28 X735,54.00548,-9.97727,Daniel Moran,1
+1135,10,SCL15542,Achill Stone Cottage,4.0,Achill Island,4.0,F28 XD65,54.00068,-10.03623,Charlie Daly,1
+1136,10,SCL16005,Number 4 Castle End,4.0,Baltimore,4.0,P81 FF90,51.48397,-9.37314,Mary Minihane,1
+1137,13,BBL11449,Nymphsfield House,4.0,Cong,4.0,F31 VK58,53.54462,-9.27258,Mary Hynes,4
+1138,13,BBL10305,Oaklands B&B,4.0,Cork,4.0,T23 TD00,51.90229,-8.4566,Ellen Murray,5
+1139,7,WSL35988,O'Briens' Cashel Lodge,3.0,Cashel,3.0,E25 PY79,52.52024,-7.89651,Tom O Brien,5
+1140,7,WSL36409,Ocean Heights,4.0,Ballinfull,4.0,F91 H9T2,54.36798,-8.63676,Karen Mannion,5
+1141,13,BBL40734,O'Flaherty's B&B,4.0,Dingle,4.0,V92 Y392,52.14508,-10.25432,Angela O'Flaherty,3
+1142,10,SCL15093,Old Boley Country House,4.0,Barntown,4.0,Y35 X662,52.34598,-6.61965,Val Stafford,1
+1143,13,BBL11281,Oldtown Farmhouse,4.0,Thomastown,4.0,R95 K535,52.52135,-7.21014,Mary Fitzgerald,4
+1144,13,BBL10971,O'Neill B&B,4.0,Dingle,4.0,V92 YA89,52.13937,-10.26539,Mary O'Neill,6
+1145,10,SCL15612,O'Neill Holiday Homes,4.0,Ardrahan,4.0,H91 FVF6,53.15617,-8.79096,Karen O'Neill,1
+1146,10,SCL15681,Orchard View Holiday Home,4.0,Cootehill,4.0,H16 PY18,54.05297,-7.03907,Gerry Cunningham,1
+1147,13,BBL23987,Orchid House,4.0,Fanore,4.0,H91 HW68,53.09954,-9.29913,Pat MacNamara,4
+1148,13,BBL11394,Orley House,4.0,Drogheda,4.0,A92 Y043,53.70781,-6.33293,Brenda Phillips,3
+1149,7,WSL34734,Osborne's Storehouse,3.0,Borris,3.0,R95 R2A4,52.6012,-6.8324,Eric Osborne,1
+1150,13,BBL10910,O'Shea B&B,4.0,Cahersiveen,4.0,V23 CK72,51.94748,-10.22364,Linda O'Shea,4
+1151,13,BBL11974,Palm Lodge,4.0,Mitchelstown,4.0,P67 EW29,52.2829,-8.27807,Mary O'Connell,3
+1152,13,BBL11125,Palmgrove House,4.0,Listowel,4.0,V31 WR94,52.453,-9.43916,Joan Carmody,3
+1153,7,WSL35393,Panorama House,3.0,Timoleague,3.0,P72 EY48,51.64438,-8.76707,Liam Ryan,3
+1154,13,BBL11318,Park Lodge,4.0,Abbeyfeale,4.0,V94 Y162,52.37191,-9.31261,Tom Browne,4
+1155,13,BBL10369,Park South,4.0,Doneraile,4.0,P51 TY84,52.22693,-8.52392,Eva Lane,3
+1156,10,SCL15022,Park South Cottage,4.0,Doneraile,4.0,P51 TY84,52.22798,-8.52297,Eva Lane,1
+1157,13,BBL11849,Perrymount Country Home,4.0,Inch,4.0,Y25 FY99,52.73678,-6.23931,Noreen Byrne,3
+1158,10,SCL15244,Pine View,4.0,Mountcharles,4.0,F94 X9X2,54.66591,-8.16852,Eileen McElhinney,1
+1159,13,BBL10400,PK Lodge,4.0,Skibbereen,4.0,P81 KX57,51.56013,9.23951,Pat O'Donovan,4
+1160,7,WSL34827,Pod Umna,3.0,Portumna,3.0,H53 E953,53.09173,-8.21715,Richard Ridge,10
+1161,13,BBL11475,Ponderosa,4.0,Louisburgh,4.0,F28 DK84,53.76308,-9.80191,Marian McNamara,3
+1162,7,WSL41193,Portbeg Holiday Homes at Donegal Bay,3.0,Bundoran,3.0,F94 P308,54.47795,-8.30185,Geoffrey Leonard,23
+1163,10,SCL15601,Portmagee Seaside Cottages,4.0,Portmagee,4.0,V23 XF90,51.89042,-10.33157,Elizabeth Lynch,1
+1164,13,BBL10540,Portobello B&B,4.0,Dublin 8,4.0,D08 HE24,53.33197,-6.27325,Paul & Eileen Coughlin,3
+1165,7,WSL34708,Portsalon Luxury Camping,3.0,Portsalon,3.0,F92 V8X2,55.21004,-7.65585,Helen Coll,5
+1166,7,WSL34697,Pure Magic Achill,3.0,Achill Island,3.0,F28 HN27,54.00944,-10.02015,Francois Colussi,11
+1167,13,BBL10475,Radharc an Oileain,4.0,Dungloe,4.0,F94 DV70,54.9472,-8.3616,Grace McCauley,3
+1168,7,WSL40111,The Castle,3.0,Castletownshend,3.0,P81 NH72,51.52956,-9.17263,Sharon Poulter,10
+1169,13,BBL11714,The Castle,4.0,Thurles,4.0,E41 X9D8,52.67229,-7.7164,Joan Duggan,4
+1170,7,WSL36137,Rathgillen Farm,3.0,Nobber,3.0,A82 Y7N9,53.83308,-6.7409,Peter Corbally,3
+1171,11,SCL15179,Rathmines (Dublin 6),4.0,Dublin 6,4.0,D06 YW93,53.32415,-6.27166,Deirdre Kennedy,2
+1172,13,BBL10202,Rathmore House,4.0,Baltimore,4.0,P81 TD34,51.51283,-9.34282,Marguerite O'Driscoll,5
+1173,13,BBL32486,Reades Farmhouse B&B,4.0,Mullinavat,4.0,X9I P681,52.39674,-7.18431,Margaret Reade,4
+1174,7,WSL40708,Reddans Bar and B&B,3.0,Bettystown,3.0,A92 PY6N,53.69811,-6.24387,Marina Reddan,32
+1175,13,BBL11050,Reeks View,4.0,Killarney,4.0,V93 T2TD,52.07056,-9.4661,Mary Devane,4
+1176,13,BBL11022,River Meadows,4.0,Kenmare,4.0,V93 YP57,51.8785,-9.61025,Eileen Ryan,4
+1177,10,SCL14986,Riverhaven Log Cabins,4.0,Boyle,4.0,F52 V291,54.00306,-8.19641,John Burke,5
+1178,13,BBL32568,Rivermount House,4.0,Kinsale,4.0,P17 W728,51.68842,-8.56325,Claire O'Sullivan,5
+1179,13,BBL10045,Riverside House,4.0,Cootehill,4.0,H16 AW62,54.06268,-7.09496,Una Smith,3
+1180,13,BBL11796,Riverview House,4.0,Athlone,4.0,N37 Y076,53.41186,-7.98396,Carmel Corbett,4
+1181,13,BBL10852,Riverwalk House,4.0,Oughterard,4.0,H91 YX90,53.42905,-9.32543,Ann Kelleher,4
+1182,13,BBL34486,Robin Hill,4.0,Cobh,4.0,P24 RY88,51.84847,-8.31199,Deirdre Mackesy,6
+1183,13,BBL10998,Rockcrest House,4.0,Kenmare,4.0,V93 VY57,51.88012,-9.58886,Marian O'Dwyer,5
+1184,13,BBL10332,Rocklands House,4.0,Kinsale,4.0,P17 EE67,51.69639,-8.52819,John Bateman,4
+1185,13,BBL10703,Rockmount House,4.0,Clifden,4.0,H71 EH29,53.49858,-10.099,Anne Conroy,4
+1186,13,BBL11668,Rockville House,4.0,Cashel,4.0,E25 YA38,52.51888,-7.88801,Patrick Hayes,4
+1187,10,SCL15048,Rolfs Holiday Cottages,4.0,Baltimore,4.0,P81 NW27,51.47959,-9.36859,Johannes Haffner,4
+1188,13,BBL11173,Ronnoco,4.0,Tralee,4.0,V92 AD86,52.28008,-9.76333,Majella Griffin,3
+1189,13,BBL11588,Rosdarrig,4.0,Boyle,4.0,F52 W086,53.9711,-8.28496,Brenda McCormack,5
+1190,10,SCL15537,Rose Cottage,4.0,Ramsgrange,4.0,Y34 E540,52.23604,-6.91524,Joan Cooley,1
+1191,13,BBL11439,Rose Garden,4.0,Castlebar,4.0,F23 VY19,53.85338,-9.29863,Catherine Whyte,5
+1192,10,SCL33345,Rosegarland Estate,4.0,Wellingtonbridge,4.0,Y35 VX48,52.28267,-6.75047,Sarah Kehoe,4
+1193,13,BBL11501,Rosmo House,4.0,Westport,4.0,F28 HV57,53.79566,-9.55632,Mary Jordan,4
+1194,13,BBL11078,Ross Castle Lodge,4.0,Killarney,4.0,V93 RT99,52.02829,-9.31271,Rosaleen O'Leary,4
+1195,13,BBL11622,Ross House,4.0,Riverstown,4.0,F52 NF89,54.1316,-8.36921,Oriel Hill-Wilkinson,5
+1196,13,BBL34468,Ross House,4.0,Roscommon,4.0,F42 C851,53.62891,-8.2047,Teresa O'Hara,4
+1197,13,BBL13706,Rossroe Lodge,4.0,Cashel,4.0,H91 V20K,53.39719,-9.86352,Sylvain Lapierre,4
+1198,13,BBL11615,Rowanville Lodge,4.0,Sligo,4.0,F91 H956,54.40274,-8.50968,Patricia Hoey,4
+1199,13,BBL10874,Rush Lake House,4.0,Roundstone,4.0,H91 K24E,53.39156,-9.92492,Linda Nee,4
+1200,13,BBL40695,Russell's B&B,4.0,Dingle,4.0,V92 R221,52.13952,-10.26867,Stephen McPhilemy,6
+1201,13,BBL11453,Ryan's Riverlodge,4.0,Cong,4.0,F31 WK30,53.54121,-9.28793,Martha Ryan,6
+1202,13,BBL11035,Salmon Leap Farm,4.0,Killarney,4.0,V93 DF8H,51.98486,-9.32903,Sean O'Donoghue,6
+1203,13,BBL11769,Samuels Heritage,4.0,Waterford,4.0,X91 NX48,52.234,-7.05059,Susan Bailey-Daunt,6
+1204,13,BBL10906,San Antoine,4.0,Cahersiveen,4.0,V23 VN81,51.49488,-10.59231,Alan Landers,6
+1205,13,BBL10654,San Augustine,4.0,Swords,4.0,K67 ET02,53.46071,-6.22572,Anna Walsh,4
+1206,13,BBL10622,San Juan,4.0,Dublin 17,4.0,D17 WR89,53.42447,-6.20318,Cathy McConnell,4
+1207,13,BBL11103,Sancta Maria,4.0,Killarney,4.0,V93 RK53,52.05924,-9.48972,Kathleen McCarthy,4
+1208,13,BBL10253,Sandycove House,4.0,Skibbereen,4.0,P81 XN59,51.50956,-9.19875,Breda O'Driscoll,4
+1209,2,GAS07420,The White House,4.0,Kinsale,4.0,P17 Y504,51.70661,-8.52335,Olivia Frawley,10
+1210,13,BBL10174,Scapaflow,4.0,Killaloe,4.0,V94 XWV4,52.75287,-8.50404,Antoinette Fitzgerald,3
+1211,13,BBL10904,Sea Breeze,4.0,Caherciveen,4.0,V23 WD62,51.93278,-10.24336,Eilis Dennehy,6
+1212,13,BBL11759,Sea Court,4.0,Tramore,4.0,X91 XE97,52.16732,-7.14426,Thomas Moran,5
+1213,13,BBL11971,Sea Crest Farmhouse,4.0,Quilty,4.0,V95 NHC2,52.81029,-9.43598,Angela Morrissey,4
+1214,13,BBL24224,Sea Mist,4.0,Spiddal,4.0,H91 HKF6,53.24472,-9.33408,Kathleen Keady,2
+1215,13,BBL10220,Sea Mount B&B,4.0,Kilcrohane,4.0,P75 NW84,51.63324,-9.62434,Julia McCarthy,3
+1216,13,BBL10893,Sea Shore,4.0,Ballybunnion,4.0,V31 Y263,52.5267,-9.67012,Michael Kissane,4
+1217,7,WSL40982,Sea View House Doolin,3.0,Doolin,3.0,V95 CC6V,53.01211,-9.38453,Niall Hughes,1
+1218,13,BBL10252,Sea Villa,4.0,Beara Peninsula,4.0,P75 AE42,51.75573,-9.88617,John O'Sullivan,3
+1219,10,SCL15907,Seabreak,4.0,Glenbeigh,4.0,V93 EF96,52.05848,-9.93819,Kate Coakley,1
+1220,13,BBL34448,Seacrest,4.0,Aran Islands,4.0,H91 R292,53.11937,-9.67045,Geraldine Faherty,6
+1221,10,SCL15789,"Seascape, Fethard-on-Sea",4.0,Fethard-on-Sea,4.0,Y34 PW14,52.13458,-6.91137,Mary Teresa  Murphy,1
+1222,13,BBL11600,Seashore,4.0,Ballisodare,4.0,F91 HT38,54.20901,-8.57182,Ann Campbell,3
+1223,11,SCL15058,Seaview Self Catering,4.0,Dublin 4,4.0,D04 NP30,53.33112,-6.21001,Iverna Hynes,4
+1224,13,BBL24801,Shady Hollow B&B,4.0,Mallow,4.0,P51 P227,52.12311,-9.05698,Maureen Buckley,3
+1225,13,BBL40029,Shalom B&B,4.0,Carlingford,4.0,A91 X820,54.04116,-6.17764,Jackie Woods,6
+1226,13,BBL11175,Shangri-la,4.0,Tralee,4.0,V92 TE84,52.27498,-9.7912,Mary Hannafin,3
+1227,13,BBL12970,Shannon Breeze,4.0,Ballina,4.0,V94 CXN2,52.79593,-8.40316,Phyll Bugler,4
+1228,13,BBL10700,Sharamore House,4.0,Clifden,4.0,H71 NW61,53.51159,-10.04198,Sue Brittain,4
+1229,7,WSL41149,Shearwater Country House Accommodation,3.0,Union Hall,3.0,P81 PR58,51.5583,-9.13062,Adela Nugent,5
+1230,10,SCL15437,Shramore Lodge,4.0,Collooney,4.0,F91 F2PR,54.19693,-8.49206,Sheila Gray,1
+1231,7,WSL34785,Silver Line Cruisers,3.0,Banagher,3.0,R42 TW99,53.19346,-7.98978,Barbara Smyth,45
+1232,10,SCL15452,Slane Farm Cottages,4.0,Slane,4.0,C15 X3XH,53.71568,-6.57327,Gemma Madden,2
+1233,13,BBL11138,Sneem River Lodge,4.0,Sneem,4.0,V93 AP92,51.83571,-9.90603,Ann Cronin,4
+1234,13,BBL23389,Sonas,4.0,Carna,4.0,H91 A3AW,53.32663,-9.82772,Ann Dowd,4
+1235,7,WSL35142,South Aran House,3.0,Aran Islands,3.0,H91 WE5Y,53.06736,-9.52919,Enda Conneely,4
+1236,11,SCL32381,Southbeach Apartments,4.0,Rosslare Strand,4.0,Y35 HW35,52.27807,-6.38956,Eugene & Lorna Cleary,3
+1237,10,SCL15574,Springfield Castle,4.0,Dromcollogher,4.0,P56 DC42,52.35182,-8.95572,Jonathan Sykes,1
+1238,13,BBL10691,Springlawn,4.0,Clarinbridge,4.0,H91 YR04,53.22093,-8.8899,Maura McNamara,3
+1239,13,BBL11284,Springview House,4.0,Urlingford,4.0,E41 V9K3,52.72131,-7.55958,Eileen Joyce,3
+1240,13,BBL11049,St Anthonys Lodge,4.0,Killarney,4.0,V93 XW67,52.06052,-9.48919,Mary O'Connell,3
+1241,13,BBL10888,St. Annes,4.0,Milltown,4.0,H54 F759,53.59735,-8.87251,Mary Birmingham,3
+1242,13,BBL10757,St. Judes,4.0,Galway city,4.0,H91 NX00,53.26527,-9.0728,Ita Johnstone,3
+1243,13,BBL10124,Station House,4.0,Ennistymon,4.0,V95 K594,52.93656,-9.28793,Nicholas Cahill,6
+1244,10,SCL34131,Steeple View,4.0,Trim,4.0,C15 C3KO,53.55736,-6.78897,Róisín  O'Reilly,1
+1245,7,WSL35111,"Strandhill Lodge, House & Surf School",3.0,Strandhill,3.0,F91 T205,54.27044,-8.60809,Noel Meenaghan,2
+1246,10,SCL14989,Strasburgh Manor,4.0,Ennis,4.0,V95 WC5R,52.82242,-9.04972,Bernadette Barry,1
+1247,13,BBL10383,Sundown House,4.0,Castlemartyr,4.0,P25 H283,51.92098,-8.08472,Mary Quinlan,6
+1248,10,SCL15488,Swallows Return,4.0,Farnham,4.0,H12 K726,54.00506,-7.41028,Jacqueline Maloney,1
+1249,7,WSL40716,Tailors Lodge,3.0,Castleisland,3.0,V92 DC78,52.22118,-9.45799,Breda O'Sullivan,1
+1250,13,BBL12867,Taobh Coille,4.0,Kells,4.0,V23 T277,52.03514,-10.06344,Agnes O'Sullivan,3
+1251,13,BBL11004,Tara Farm,4.0,Kenmare,4.0,V93 KVX3,51.8779,-9.59682,Anne OSullivan Maybury,4
+1252,13,BBL24159,Teach Cruachan,4.0,Achill Island,4.0,F28 R2P7,53.97303,-10.13455,Roisin Lavelle,4
+1253,1,HHS34196,Temple Bar Inn,4.0,Dublin 2,4.0,D02 NX25,53.34562,-6.2601,Heights Hospitality Operations LTD.,101
+1254,13,BBL11415,Templecarrig House,4.0,Ballinrobe,4.0,F31 P953,53.56959,-9.2135,Monica Clancy,4
+1255,7,WSL35103,The Adventure Islands Lodge,3.0,Westport,3.0,F28 T256,53.79846,-9.5229,Ciaran Collins,1
+1256,13,BBL10022,The Arches,4.0,Arva,4.0,H12 WV61,53.94697,-7.54636,Pearl Kells,4
+1257,13,BBL12917,The Blue Door,4.0,Wexford,4.0,Y35 ET88,52.34091,-6.46458,Derrick Cooling,5
+1258,7,WSL40154,The Bluestack Centre,3.0,Letterbarrow,3.0,F94 C9YN,54.69265,-8.1897,Rose Mary Ward,4
+1259,7,WSL40656,The Bridge Tavern,3.0,Wicklow,3.0,A67 C792,52.98099,-6.04231,Declan  Maher,18
+1260,10,SCL15421,The Coach Yard,4.0,Maddoxtown,4.0,R95 D9NK,52.62807,-7.13254,Monica Phelan,3
+1261,10,SCL16102,The Cottage at the Crossroads,4.0,Louisburgh,4.0,F28 CF78,53.76958,-9.75723,William Moran,1
+1262,10,SCL15316,The Cottages Ireland,4.0,Bettystown,4.0,A92 TXE9,53.69059,-6.24189,Liz Pickett,6
+1263,13,BBL13124,The Ferris Wheel,4.0,Beaufort,4.0,V93 KP65,52.04601,-9.63178,Nora Ferris,4
+1264,7,WSL35476,The Gateway Lodge,3.0,Donegal Town,3.0,F94 VW73,54.65622,-8.11409,Craig Loughman,26
+1265,13,BBL11068,The Harp,4.0,Killarney,4.0,V93 C970,52.04904,-9.50596,Joan McCarthy,4
+1266,13,BBL10327,The Heron's Cove,4.0,Goleen,4.0,P81 FT51,51.49592,-9.70898,Sue Hill,4
+1267,13,BBL10434,Westbrook House,4.0,Buncrana,4.0,F93 H795,55.14206,-7.45566,Mary Margaret Grant,4
+1268,13,BBL10694,The Ocean Wave,4.0,Cleggan,4.0,H71 EF84,53.55801,-10.13903,Marian Feeney,4
+1269,13,BBL11339,The Old Bank,4.0,Bruff,4.0,V35 H744,52.47624,-8.54768,Miriam Sadlier Barry,6
+1270,13,BBL11298,The Old Rectory,4.0,Ballinamore,4.0,N41 AK31,54.01593,-7.83644,Julie Callaghan,4
+1271,13,BBL40226,The Olde Forge,4.0,Caherdaniel,4.0,V93 PK71,51.75989,-10.09613,Cathy Fitzmaurice,5
+1272,13,BBL11367,The Orchard,4.0,Newcastle West,4.0,V42 A032,52.45513,-9.0395,Eileen Murphy,2
+1273,7,WSL35820,The Oystercatcher Lodge,3.0,Carlingford,3.0,A91 X461,54.04012,-6.18701,Denise  McKevitt,8
+1274,7,WSL35119,The Railway Hostel,3.0,Sligo,3.0,F91 V297,54.2727,-8.48103,Patrick McCormack,1
+1275,13,BBL11658,The Rectory,4.0,Cahir,4.0,E21 N889,52.37912,-7.92171,Jo Fahey,3
+1276,7,WSL35632,The Red Door Country House,3.0,Fahan,3.0,F93 FV4Y,55.08503,-7.46643,Shay Mc Callion,4
+1277,13,BBL11566,The Ring Farmhouse,4.0,Birr,4.0,R42 AY95,53.07875,-7.88242,Carmel Carroll,4
+1278,13,BBL11266,The Rise,4.0,Dunmore,4.0,R95 E6AH,52.68408,-7.25547,Carmel Nolan,4
+1279,13,BBL10917,The Shores Country House,4.0,Castlegregory,4.0,V92 HC43,52.24026,-10.09304,Annette O'Mahony,4
+1280,7,WSL40702,The Strand Inn,3.0,Dunmore East,3.0,X91 E295,52.15524,-6.99429,Clifden Foyle,28
+1281,13,BBL11477,The Three Arches,4.0,Louisburgh,4.0,F28 DK40,53.76195,-9.85971,Mary  Sammin,4
+1282,13,BBL28094,The Tides,4.0,Ballybunion,4.0,V31 X206,52.50506,-9.65095,David & Doreen Walsh,6
+1283,10,SCL15667,The Waters Edge,4.0,Templeboy,4.0,F91 HC96,54.26967,-8.75679,Helen Culkin,3
+1284,13,BBL10846,The Western Way,4.0,Oughterard,4.0,H91 YR98,53.43033,-9.32004,Edwina Bunyan,4
+1285,10,SCL15547,The White Cottage,4.0,Oughterard,4.0,H91 X6HX,53.42021,-9.26176,Barry Collins,1
+1286,13,BBL10714,The Wilderness,4.0,Clifden,4.0,H71 FK37,53.46967,-9.90053,Oliver Joyce,4
+1287,13,BBL11419,The Yellow Rose B&B,4.0,Ballina,4.0,F26 NY23,54.30767,-9.56112,Stephen McHale,3
+1288,13,BBL11661,Tinsley House,4.0,Cahir,4.0,E21 KP92,52.37533,-7.92398,Liam Roche,3
+1289,13,BBL11673,Tir Na Nog,4.0,Dualla,4.0,E25 A997,52.54355,-7.81783,Joan Brett - Moloney,5
+1290,7,WSL34683,Top of the Rock Pod Páirc and Walking Centre,3.0,Drimoleague,3.0,P47 KF66,51.6683,-9.2608,David Ross,8
+1291,13,BBL40498,Tower Lodge B&B,4.0,Mallow,4.0,P51 AY23,52.18601,-8.6709,Catherine  Palmer,4
+1292,10,SCL15433,Tralia House,4.0,Firies,4.0,V93 X890,52.16942,-9.59661,Áine Daly,1
+1293,7,WSL35616,Trean House,3.0,Inishowen,3.0,F93 E52H,55.26779,-7.06972,Joyce Norris,3
+1294,13,BBL10137,Whitethorn Lodge,4.0,Ballina,4.0,V94 ER26,52.81809,-8.43565,Anne O'Connor,3
+1295,13,BBL23847,Twin Peaks B&B,4.0,Doolin,4.0,V95 KX45,53.01409,-9.38706,Sinead O'Connor,6
+1296,7,WSL35950,Valentia Island Caravan & Camping,4.0,Valentia Island,4.0,V23 Y068,51.92218,-10.29634,Emma Shanahan,33
+1297,13,BBL11443,Valley Lodge,4.0,Claremorris,4.0,F12 DX74,53.78425,-9.05804,Edward Barrett,5
+1298,13,BBL11073,Valley View Farmhouse,4.0,Killarney,4.0,V93 DY73,52.01397,-9.44572,Con O'Donoghue,5
+1299,13,BBL10680,Villa de Porres,4.0,Galway,4.0,H91 RY24,53.25393,-9.15374,David  Carr,4
+1300,13,BBL33298,Village House Culdaff,4.0,Culdaff,4.0,F93 D95R,55.28726,-7.16747,Joan Ann Faulkner,4
+1301,10,SCL34712,Watch House Cottage Number 4,4.0,Valentia Island,4.0,V23 DY67,51.92661,-10.28829,Audrey Boyle,1
+1302,7,WSL40645,Waterfront House,3.0,Inniscrone,3.0,F26 P9Y2,54.2169,-9.09453,Martina Tuffy,16
+1303,13,BBL11060,Wayside,4.0,Beaufort,4.0,V93 XK6C,52.0537,-9.63329,Theresa Ferris,3
+1304,7,WSL36173,Wellington Quay CityBreak Apartments,3.0,Dublin 1,3.0,D01 VP96,53.34545,-6.26603,Jonathan Drake,9
+1305,13,BBL11401,West Coast House,4.0,Achill Island,4.0,F28 FA07,53.97627,-10.11294,Teresa McNamara,5
+1306,7,WSL36217,Westcove House,3.0,Castlecove,3.0,V93 X5V0,51.77196,-10.06209,Susannah Adlington,4
+1307,10,SCL15514,Westland Holiday Homes,4.0,Tuosist,4.0,V93 C978,51.80331,-9.77047,Kathleen O'Sullivan,4
+1308,13,BBL41240,Weston House B&B,4.0,Ballyvourney,4.0,P12 AH39,51.946,-9.17142,Peggy Twomey,4
+1309,11,SCL16060,Westport Holiday Apartments,4.0,Westport,4.0,F28 C656,53.79841,-9.5255,Gerry & Mary McKenna,2
+1310,13,BBL11489,Westwood,4.0,Westport,4.0,F28 CF85,53.79499,-9.50609,Maire Dever,4
+1311,13,BBL10503,White Park B&B,4.0,Letterkenny,4.0,F92 TO42,54.95343,-7.70907,Ann O'Donnell,4
+1312,13,BBL12977,White Strand B&B,4.0,Malin Head,4.0,F93 V6XP,55.35389,-7.34092,Mary Houghton,3
+1313,13,BBL11696,Williamsferry House,4.0,Nenagh,4.0,E45 DX83,52.862,-8.20409,Mary Devine,4
+1314,13,BBL11702,Willowbrook B&B,4.0,Nenagh,4.0,E45 VX08,52.87098,-8.23399,Tricia McKeogh,6
+1315,13,BBL10747,Winacre Lodge,4.0,Galway city,4.0,H91 P2D6,53.29286,-9.08779,Phil Concannon,4
+1316,10,SCL16056,Winnies Cottage,4.0,Sneem,4.0,V93 H4X0,51.82846,-9.83953,Mike Healy,1
+1317,1,HHS40918,Woodenbridge Lodge,4.0,Woodenbridge,4.0,Y14 Y326,52.83202,-6.23463,Gerard O'Brien,40
+1318,13,BBL10762,Woodhaven Lodge,4.0,Galway city,4.0,H91 R793,53.27684,-9.00462,Bridie Curran,4
+1319,13,BBL12857,Woodlands,4.0,Oughterard,4.0,H91 TR62,53.42468,-9.32206,Barbara Kelly,4
+1320,13,BBL11851,Woodlands Country House,4.0,Gorey,4.0,Y25 H220,52.72572,-6.27544,Philomena O'Sullivan,6
+1321,13,BBL10310,Woodpoint,4.0,Courtmacsherry,4.0,P72 VF84,51.6347,-8.69077,Patricia Gannon,5
+1322,7,WSL40173,Woodvilla Lodge,3.0,Kilmore,3.0,Y35 WF21,52.22396,-6.54402,Austin & Julie Healy,1
+1323,7,WSL40713,Clonalis House and Self-Catering Cottages,3.0,Castlerea,3.0,F45 H265,53.77015,-8.50869,Carol Anne O'Conor Nash,8
+1324,7,WSL40225,Ballinkeele House,3.0,Ballymurn,3.0,Y21 YW01,52.44337,-6.4869,Laura Maher,1
+1325,4,HHL34194,Ballyportry Castle,4.0,Ennis,4.0,V95 KA47,52.95791,-9.04274,Pat Wallace,6
+1326,4,HHL40386,Ballyvolane House,4.0,Castlelyons,4.0,P61 FP70,52.05598,-8.18687,Justin Green,6
+1327,4,HHL34558,Collon House,4.0,Collon,4.0,A92 YT29,53.7782,-6.4864,Michael McMahon,3
+1328,7,WSL41390,Coopershill,3.0,Riverstown,3.0,F52 EC52,54.1374,-8.41467,Simon O'Hara,1
+1329,4,HHL11459,Enniscoe House,4.0,Ballina,4.0,F26 EA34,54.07033,-9.3103,Susan DJ Kellett,6
+1330,4,HHL10511,Frewin,4.0,Ramelton,4.0,F92 DW77,55.03197,-7.64705,Regina Gibson,3
+1331,4,HHL13037,Gaultier Lodge,4.0,Woodstown,4.0,X91 YR72,52.19287,-6.98352,Sheila Peter Molloy,3
+1332,4,HHL11554,Hilton Park,4.0,Clones,4.0,H23 C582,54.1433,-7.23639,Frederick Madden,6
+1333,4,HHL11839,Kilmokea Country Manor,4.0,Campile,4.0,Y34 KX92,52.29618,-6.99258,Mark & Emma Hewlett,6
+1334,7,WSL40589,Lawcus Farm House,3.0,Stoneyford,3.0,R95 X212,52.54101,-7.24085,Mark Fisher,6
+1335,4,HHL11652,Lismacue House,4.0,Bansha,4.0,E34 KT67,52.44692,-8.05041,Katherine Nicholson,5
+1336,4,HHL11810,Lough Bishop House,4.0,Collinstown,4.0,N91 CPX6,53.63461,-7.27102,Christopher Kelly,3
+1337,4,HHL28146,Martinstown House,4.0,Curragh,4.0,R56 KV78,53.10748,-6.82197,Edward Booth,6
+1338,4,HHL10987,Muxnaw Lodge,4.0,Kenmare,4.0,V93 H327,51.86956,-9.58187,Hannah Boland,5
+1339,4,HHL10107,Newpark House,4.0,Ennis,4.0,V95 RD76,52.85416,-8.95714,Declan Barron,4
+1340,4,HHL33307,Old Cable Historic House,4.0,Waterville,4.0,V23 X862,51.83156,-10.17204,Margaret Brown,6
+1341,4,HHL40097,Sea Mist House,4.0,Clifden,4.0,H71 NV63,53.48822,-10.02434,Sheila Griffin,4
+1342,13,BBL10336,Seafield Farmhouse,4.0,Kinsale,4.0,P72 XR76,51.65759,-8.66333,Eileen Fielding,4
+1343,4,HHL11603,Temple House,4.0,Ballymote,4.0,F56 NN50,54.11373,-8.58528,Roderick Perceval,6
+1344,4,HHL11843,Woodbrook House,4.0,Killanne,4.0,Y21 TP92,52.54822,-6.73602,Giles FitzHerbert,3
+1345,7,WSL36613,Dun Laoghaire Marina,3.0,Dun Laoghaire,3.0,A96 D376,53.29602,-6.13523,Paal  Janson,820
+1346,13,BBL10555,Santa Cruz,4.0,Glenageary,4.0,A96 W895,53.28484,-6.14576,Anne Lynch,2
+1347,13,BBL10619,Heather View,4.0,Malahide,4.0,K36 Y283,53.42612,6.1761,Maura & Jim Halpin,4
+1348,1,HHS41322,Handel's Hotel,4.0,Dublin 8,4.0,D08 E7R0,53.34409,-6.26967,Christian Nanni,45
+1349,2,GAS06593,Egans House,4.0,Dublin 9,4.0,D09 E5XH,53.367,-6.26651,Pat Finn,23
+1350,1,HHS34551,West County Hotel,4.0,Chapelizod,4.0,D20 YK13,53.35135,-6.3559,Ulick Colgan,48
+1351,1,HHS03903,Fitzsimons Hotel,4.0,Dublin 2,4.0,D02 YK79,53.34554,-6.26514,Aidan Fitzsimons,22
+1352,1,HHS03925,Harding Hotel,4.0,Dublin 8,4.0,D08 PD8W,53.34384,-6.26997,Jonathan Hynes,52
+1353,13,BBL10600,Seaview,4.0,Dublin 5,4.0,D05 W302,53.37697,-6.1617,Rita Kenny,3
+1354,5,SCS41344,Self Catering Dublin - Rathmines,4.0,Dublin 6,4.0,D06 E2N8,53.31585,-6.26534,Patrick Sweeney,3
+1355,7,WSL35504,The Dean,3.0,Dublin 2,3.0,D02 WC81,53.33503,-6.26359,Dave O'Keeffe,100
+1356,1,HHS35311,Stauntons on the Green,4.0,Dublin 2,4.0,D02 HD86,53.33661,-6.25962,Ray Hingston,52
+1357,1,HHS03437,Kellys Hotel,4.0,Dublin 2,4.0,D02 T328,53.34199,-6.26467,Laura O'Regan,16
+1358,1,HHS03734,Grand Hotel,4.0,Tralee,4.0,V92 NDT8,52.26898,-9.7049,Eileen Egan,48
+1359,1,HHS03837,The Park Hotel and Leisure Centre,4.0,Dungarvan,4.0,X35 CC97,52.09459,-7.62317,Declan Moriarty,84
+1360,1,HHS35185,Benners Hotel Tralee,4.0,Tralee,4.0,V92 H361,52.2689,-9.70251,Alan O'Sullivan,44
+1361,1,HHS04107,Castle Grove Country House,4.0,Letterkenny,4.0,F92 A462,54.98699,-7.64823,Iene Sweeney,12
+1362,7,WSL40109,Ballyhoura Mountain Lodges,3.0,Kilfinane,3.0,V35 DN84,52.31898,-8.4715,Maggie O'Dwyer,6
+1363,7,WSL36422,Claremount House,3.0,Galway city,3.0,H91 DT99,53.25844,-9.10201,Anna Monaghan,5
+1364,13,BBL11410,Brigown,4.0,Ballina,4.0,F26 AE77,54.13055,-9.13719,Marjorie Morrow,2
+1365,7,WSL36061,Drumhowan Country House,3.0,Castleblayney,3.0,A75 E227,54.09784,-6.8248,Marguerite McCabe,4
+1366,10,SCL15240,Mill Road Farm,4.0,Kilmore Quay,4.0,Y35 A596,52.1865,-6.56814,Philomena Stafford,6
+1367,6,CCS00164,Eagle Point Camping,4.0,Bantry,4.0,P75 WP58,51.43112,9.26594,Siobhan & Elizabeth Sullivan,125
+1368,6,CCS00232,Carra Caravan and Camping Park,4.0,Castlebar,4.0,F23 TW02,53.79877,-9.21543,John Nestor,20
+1369,2,GAS07938,Riverside Guesthouse,4.0,Charlestown,4.0,F12 W5D3,53.96393,-8.79591,Anthony Kelly,7
+1370,1,HHS01354,Casey's Hotel,4.0,Glengarriff,4.0,P75 E925,51.74987,-9.5514,David Deasy,14
+1371,1,HHS01607,Taravie Hotel,4.0,Courtown,4.0,Y25 DH68,52.64533,-6.22804,Imelda Willoughby,10
+1372,1,HHS01999,McGettigan's Hotel,4.0,Letterkenny,4.0,F92 E2D9,54.952,-7.73565,Caraline Spence,82
+1373,1,HHS02618,Commodore Hotel,4.0,Cobh,4.0,P24 XT93,51.84975,-8.29633,John Gately,51
+1374,1,HHS03106,Minella Hotel and Leisure Centre,4.0,Clonmel,4.0,E91 FY97,52.35313,-7.68462,Mark Keating,90
+1375,1,HHS03461,Villa Maria Hotel,4.0,Waterville,4.0,V23 AY05,51.82473,-10.17163,Fiona Fitzpatrick,11
+1376,1,HHS03479,Ballyroe Heights Hotel,4.0,Tralee,4.0,V92 HT91,52.29587,-9.75311,Ballyroe Hotel,69
+1377,1,HHS03588,Blarney Woollen Mills Hotel,4.0,Blarney,4.0,T23 P8RP,51.93293,-8.56525,Dominic Heaney,47
+1378,1,HHS03879,Leonardo Hotel Galway,4.0,Galway city,4.0,H91 E8D7,53.27075,-9.05458,Tom O'Dwyer,130
+1379,1,HHS03881,Walter Raleigh Hotel,4.0,Youghal,4.0,P36 RX22,51.94677,-7.84349,Karen Gallogley,39
+1380,1,HHS03929,Glenroyal Hotel,4.0,Maynooth,4.0,W23 C2V1,53.37997,-6.58841,Paul Joy,153
+1381,1,HHS03931,The Residence Hotel,4.0,Galway city,4.0,H91 P628,53.27106,-9.05426,Wayne Neilon,20
+1382,1,HHS03953,Ashley Hotel,4.0,Cork,4.0,T23 X9AK,51.90195,-8.47082,Anita Coughlan,28
+1383,1,HHS04017,Rhu Glenn Hotel,4.0,Slieverue,4.0,X91 E395,52.29729,-7.05417,John Mooney,31
+1384,1,HHS04091,Ardmore Country House Hotel,4.0,Westport,4.0,F28 DD43,53.79608,-9.55204,Pat Hoban,13
+1385,1,HHS04104,Shannon Springs Hotel,4.0,Shannon,4.0,V14 A336,52.7149,-8.86204,John  Gavin,64
+1386,1,HHS04251,Downings Bay Hotel,4.0,Downings,4.0,F92 V2XT,55.19459,-7.83562,Eileen Connor,41
+1387,5,SCS40994,Atlantic Apartotel,4.0,Bundoran,4.0,F94 ER80,54.48002,-8.2749,John O'Connell,35
+1388,13,BBL10374,Annabella Lodge,4.0,Mallow,4.0,P51 FP78,52.13807,-8.6561,Margaret O'Shea,6
+1389,13,BBL10984,Blackstones House,4.0,Glencar,4.0,V93 PXP5,52.01552,-9.87944,Breda Breen,6
+1390,13,BBL11003,White Heather Farm,4.0,Kenmare,4.0,V93 VXD0,51.85862,-9.54326,Sheila Lovett,5
+1391,13,BBL11199,Castleview Farm,4.0,Kildare,4.0,R51 N478,53.16158,-6.98659,Elizabeth Fitzpatrick,3
+1392,13,BBL11236,Cullintra House,4.0,The Rower,4.0,R95 CC03,52.47309,-6.975,Patricia Cantlon,6
+1393,13,BBL11512,Seapoint House,4.0,Westport,4.0,F28 XT02,53.84574,-9.60346,Carol O'Malley,4
+1394,13,BBL11565,Seawinds Bed and Breakfast,4.0,Killybegs,4.0,F94 V103,54.63708,-8.44147,Patricia Faherty,5
+1395,13,BBL11837,Meadowside B&B,4.0,Bunclody,4.0,Y21 D1F8,52.65486,-6.65023,Philomena Kinsella,4
+1396,13,BBL11869,Blackrath Farmhouse,4.0,Dunlavin,4.0,W91 D5XH,53.05021,-6.78409,Patricia Doyle,3
+1397,13,BBL11931,Tynte House,4.0,Dunlavin,4.0,W91 Y628,53.05824,-6.70145,John Lawler,6
+1398,13,BBL11952,Lettermore,4.0,Rathdrum,4.0,A67 YD72,52.91391,-6.24137,Ann Griffin,3
+1399,7,WSL41179,Atlantic Waves Cottage,3.0,Castlegregory,3.0,V92 C5X9,52.24066,-10.09196,Paula Walsh,1
+1400,10,SCL15140,Ballyteigue House,4.0,Bruree,4.0,V35 Y478,52.41626,-8.71519,Margaret Johnson,1
+1401,1,HHS04275,The Central Hotel Tullamore,4.0,Tullamore,4.0,R35 Y7P1,53.27101,-7.4975,Chris Mageean,62
+1402,1,HHS04376,Knightsbrook Hotel and Golf Resort,4.0,Trim,4.0,C15 WYF4,53.54844,-6.7644,Clara Clarke,131
+1403,13,BBL13009,Abbey View B&B,4.0,Nenagh,4.0,E45 DE70,52.86364,-8.16765,Siobhan O'Dwyer,4
+1404,1,HHS02014,The Clarence,4.0,Dublin 2,4.0,D02 HT44,53.34526,-6.26678,Michael O'Connor,58
+1405,1,HHS03811,Conrad Dublin,5.0,Dublin 2,5.0,D02 V562,53.33496,-6.2577,Lynn McLaughlin,192
+1406,1,HHS04053,Fitzwilliam Hotel,5.0,Dublin 2,5.0,D02 HE18,53.3394,-6.26142,Fergal O'Connell,138
+1407,1,HHS04295,The Heritage,4.0,Killenard,4.0,R32 PW10,53.13234,-7.15075,Helen Skehill,99
+1408,1,HHS04034,The Merrion,5.0,Dublin 2,5.0,D02 KF79,53.33854,-6.25285,Peter  MacCann,142
+1409,1,HHS04045,Radisson Blu St. Helen's Hotel,5.0,Co. Dublin,5.0,A94 V6W3,53.30479,-6.20564,Neil Lane,151
+1410,1,HHS04430,The Shelbourne,5.0,Dublin 2,5.0,D02 H529,53.33905,-6.25606,JP Kavanagh,265
+1411,1,HHS03704,The Westbury Hotel,5.0,Dublin 2,5.0,D02 CH66,53.34152,-6.26144,Vincent O'Gorman,205
+1412,1,HHS04224,Barberstown Castle,4.0,Straffan,4.0,W23 CX40,53.15309,-6.59739,Ted  Robinson,58
+1413,1,HHS03994,Brooks Hotel,4.0,Dublin 2,4.0,D02 TV06,53.34155,-6.2636,Anne McKiernan,98
+1414,1,HHS40434,Clayton Hotel Burlington Road,4.0,Dublin 4,4.0,D04 A318,53.33053,-6.249,Francis Lawlor,502
+1415,1,HHS04353,Carlton Hotel Dublin Airport,4.0,Swords,4.0,K67 P5C7,53.41536,-6.2409,Declan Meagher,100
+1416,1,HHS04404,"Carton House, A Fairmont Managed Hotel",5.0,Maynooth,5.0,W23 TD98,53.39084,-6.56691,Selina Murphy,169
+1417,1,HHS03450,Maldron Hotel Dublin Airport,4.0,Swords,4.0,K67 T6P6,53.42774,-6.23353,Denyse Campbell,251
+1418,1,HHS04181,The Spencer Hotel,4.0,Dublin 1,4.0,D01 X4C9,53.34811,-6.2434,Eddie Sweeney,209
+1419,1,HHS04306,Clayton Hotel Liffey Valley,4.0,Dublin 22,4.0,D22 X4W6,53.35562,-6.40142,Lindsey O'Toole,354
+1420,1,HHS04037,Clontarf Castle Hotel,4.0,Dublin 3,4.0,D03 W5N0,53.36482,-6.20699,Sarah Flavin,111
+1421,1,HHS04238,Crowne Plaza Dublin Northwood,4.0,Dublin 9,4.0,D09 X9X2,53.40451,-6.2455,Magda Dabrowska,209
+1422,1,HHS04334,Dunboyne Castle Hotel and Spa,4.0,Dunboyne,4.0,A86 PW63,53.41715,-6.47747,Elisabet Diaz Berzosa,145
+1423,1,HHS02744,Fitzpatrick Castle Dublin Hotel,4.0,Killiney,4.0,A96 N125,53.26961,-6.11297,Mark Scott-Lennon,113
+1424,1,HHS01085,Grand Hotel,4.0,Malahide,4.0,K36 XT65,53.45075,-6.14739,Matt Ryan,203
+1425,1,HHS03961,Herbert Park Hotel,4.0,Dublin 4,4.0,D04 R2T2,53.32838,-6.23203,Egle Tamosauskaite,185
+1426,1,HHS04303,The Croke Park Hotel,4.0,Dublin 3,4.0,D03 E5Y8,53.3608,-6.25386,Declan Reape,232
+1427,1,HHS04310,Clayton Hotel Cardiff Lane,4.0,Dublin 2,4.0,D02 YT21,53.34526,-6.24113,Conor O'Kane,304
+1428,1,HHS04216,The Johnstown Estate,4.0,Enfield,4.0,A83 V070,53.2435,6.4948,Raghu Vallamkonda,128
+1429,1,HHS04024,The Morgan Hotel,4.0,Dublin 2,4.0,D02 AT86,53.34579,-6.26088,Sean  Sinclair,168
+1430,1,HHS04103,"The Morrison Dublin, Curio Collection by Hilton",5.0,Dublin 1,5.0,D01 K5X5,53.34652,-6.26609,Patrick Joyce,145
+1431,1,HHS04003,The Alex,4.0,Dublin 2,4.0,D02 H678,53.3418,-6.2488,Charles O'Callaghan,103
+1432,1,HHS03663,Portmarnock Resort & Jameson Golf Links,4.0,Portmarnock,4.0,D13 V2X7,53.42951,-6.12591,William Kirby,131
+1433,1,HHS04442,Radisson Blu Royal Hotel & Dublin Royal Convention Centre,4.0,Dublin 8,4.0,D08 VRR7,53.34094,-6.26822,Ciaran Brennan,234
+1434,1,HHS04448,Royal Marine Hotel,4.0,Dun Laoghaire,4.0,A96 K063,53.29225,-6.13388,Colin Brown,228
+1435,1,HHS04365,Trim Castle Hotel,4.0,Trim,4.0,C15 FCY8,53.55391,-6.79104,Antun Simunovic,68
+1436,1,HHS04051,Academy Plaza Hotel,4.0,Dublin 1,4.0,D01 X2X0,53.35252,-6.25999,Peter Collins,304
+1437,1,HHS01022,Buswells Hotel,4.0,Dublin 2,4.0,D02 CT80,53.34076,-6.25578,Paul Gallagher,67
+1438,1,HHS04058,Camden Court Hotel,4.0,Dublin 2,4.0,D02 W086,53.3331,-6.26451,Stephen Hanna,253
+1439,1,HHS03956,Cassidys Hotel,4.0,Dublin 1,4.0,D01 V3P6,53.35317,-6.26157,Martin Cassidy,120
+1440,1,HHS03311,Dublin Skylon Hotel,4.0,Dublin 9,4.0,D09 V1Y2,53.37264,-6.25309,Shane McGavock,126
+1441,1,HHS04242,Grand Canal Hotel,4.0,Dublin 4,4.0,D04 X5X7,53.33803,-6.23771,Donna Curry,142
+1442,1,HHS03944,Hilton Garden Inn Dublin City Centre,4.0,Dublin 1,4.0,D01 V9X5,53.34817,-6.24669,Niall Mitchell,324
+1443,1,HHS04261,Leonardo Hotel Dublin Parnell Street,4.0,Dublin 1,4.0,D01 E0H3,53.35141,-6.26285,Darren  Guy,253
+1444,1,HHS02575,Lansdowne Hotel,4.0,Dublin 4,4.0,D04 X5W9,53.33227,-6.24128,Helen Quinn,40
+1445,1,HHS04433,Maldron Hotel Parnell Square,4.0,Dublin 1,4.0,D01 HX02,53.35437,-6.26646,Shane Benson,182
+1446,1,HHS04348,Maldron Hotel Smithfield,4.0,Dublin 7,4.0,D07 RF2Y,53.34937,-6.2786,Christina Malm,92
+1447,1,HHS04428,Maldron Hotel Tallaght,4.0,Dublin 24,4.0,D24 XC9W,53.28395,-6.37627,Adrian Foy,119
+1448,1,HHS01562,Marine Hotel,4.0,Dublin 13,4.0,D13 P3Y8,53.38873,-6.11042,Al Ryan,48
+1449,1,HHS03914,Mespil Hotel,4.0,Dublin 4,4.0,D04 E7N2,53.3333,-6.24657,Janet Moore,259
+1450,1,HHS04031,Sandymount Hotel,4.0,Dublin 4,4.0,D04 VN88,53.3334,-6.22443,Gerard Loughran,175
+1451,1,HHS04138,The Trinity City Hotel,4.0,Dublin 2,4.0,D02 FW96,53.34519,-6.25415,Ali McHugh,262
+1452,1,HHS03922,The Fleet,4.0,Dublin 2,4.0,D02 WP97,53.34587,-6.25979,Patrick Coyle,100
+1453,1,HHS03878,Leonardo Hotel Dublin Christchurch,4.0,Dublin 8,4.0,D08 REK7,53.34283,-6.27052,Colm Daly,182
+1454,1,HHS04255,Clayton Hotel Leopardstown,4.0,Dublin 18,4.0,D18 K2P1,53.27132,-6.20605,Dalata Hotel Group,357
+1455,1,HHS03669,Harcourt Hotel,4.0,Dublin 2,4.0,D02 P902,53.33453,-6.26296,Danielle McGill,68
+1456,1,HHS04286,Hilton Dublin Airport,4.0,Dublin 17,4.0,D17 Y924,53.40366,-6.18003,Phil Mcpeake,179
+1457,1,HHS03982,The NYX Hotel Christchurch Dublin,4.0,Dublin 2,4.0,D08 AV24,53.34411,-6.26818,Aisling Byrne,120
+1458,1,HHS04431,Powerscourt Hotel Resort Spa,5.0,Enniskerry,5.0,A98 DR12,53.18529,-6.18032,Eamonn Casey,198
+1459,1,HHS04486,Crowne Plaza Blanchardstown,4.0,Dublin 15,4.0,D15 T1FD,53.39576,-6.39015,Enda  O'Meara,188
+1460,1,HHS01691,Riu Plaza The Gresham Hotel,4.0,Dublin 1,4.0,D01 C3W7,53.35166,-6.2603,Paul McCracken,401
+1461,1,HHS03880,Dylan Hotel,5.0,Dublin 4,5.0,D04 W521,53.3338,-6.2421,Grainne Ross,72
+1462,1,HHS03801,Bonnington Hotel,4.0,Dublin 9,4.0,D09 C7F8,53.37743,-6.24606,James McGettigan,201
+1463,1,HHS04508,The Gibson Hotel,4.0,Dublin 1,4.0,D01 X2P2,53.34833,-6.22793,Lynn McLaughlin,252
+1464,1,HHS04203,Killashee Hotel,4.0,Naas,4.0,W91 DC98,53.19136,-6.67546,Ger Alley,141
+1465,1,HHS04362,The River Lee Hotel,4.0,Cork,4.0,T12 X2AH,51.89585,-8.48499,Claire Myler,182
+1466,1,HHS04299,Markree Castle,4.0,Collooney,4.0,F91 AE81,54.17406,-8.46172,Howard Corscadden,31
+1467,12,HCS09006,Trabolgan Holiday Village,4.0,Whitegate,4.0,P25 HY10,51.79657,-8.23517,Donal O'Sullivan,907
+1468,1,HHS01616,Great Northern Hotel,4.0,Bundoran,4.0,F94 YX30,54.48512,-8.27624,Brian McEniff,102
+1469,13,BBL23953,Riverside Cottage,4.0,Doolin,4.0,V95 K5C7,53.01318,-9.38345,Ann Meehan,3
+1470,1,HHS03923,Lydons Lodge Hotel,4.0,Cong,4.0,F31 V624,53.54185,-9.28761,Stephen Lydon,11
+1471,3,HOS010066,Generator Hostel Dublin,4.0,Dublin 7,4.0,D07 F2VF,53.34827,-6.27775,Laura Stopforth,576
+1472,1,HHS04131,The Green,4.0,Dublin 2,4.0,D02 WR80,53.3374,-6.26341,Charles O'Callaghan,99
+1473,1,HHS03746,Connemara Coast Hotel,4.0,Furbo,4.0,H91 KX27,53.2487,-9.20125,Brian Bourke,141
+1474,1,HHS03798,Adare Manor Hotel & Golf Resort,5.0,Adare,5.0,V94 W8WR,52.5639,-8.77781,Brendan O'Connor,103
+1475,1,HHS03354,Aghadoe Heights Hotel & Spa,5.0,Killarney,5.0,V93 DH59,52.07731,-9.55628,Carmel Guihen,74
+1476,1,HHS03204,Killarney Plaza Hotel and Spa,4.0,Killarney,4.0,V93 X3VW,52.05767,-9.50882,Brian Lawlor,198
+1477,1,HHS02136,The Hardiman,4.0,Galway city,4.0,H91 NFD2,53.27407,-9.04786,Mark Duggan,105
+1478,1,HHS04321,Radisson Blu Hotel and Spa Cork,4.0,Little Island,4.0,T45 WF53,51.90542,-8.35816,Paul Fitzgerald,126
+1479,1,HHS27166,Anantara The Marker Dublin Hotel,5.0,Dublin 2,5.0,D02 CK38,53.34441,-6.23905,Ludo De Jong,187
+1480,1,HHS03883,Temple Bar Hotel,4.0,Dublin 2,4.0,D02 WD51,53.34584,-6.26039,Ngorhouai Lee,136
+1481,1,HHS04301,The Arches,4.0,Claregalway,4.0,H91 WP38,53.34476,-8.94313,Brendan Dunleavy,21
+1482,10,SCL15837,Orchard Cottage,4.0,Carraroe,4.0,F91 HK43,54.23294,-8.49596,Leo Marren,1
+1483,1,HHS03915,Kilmurry Lodge Hotel,4.0,Castletroy,4.0,V94 WTC9,52.66875,-8.55323,FIONA FITZGERALD,109
+1484,1,HHS03213,Green Isle Conference & Leisure Hotel,4.0,Dublin 22,4.0,D22 F9F4,53.3095,-6.40363,Paula Doyle,272
+1485,13,BBL11572,Ardmore Country House,4.0,Birr,4.0,R42 K681,53.09806,-7.71859,Christina Byrne,3
+1486,1,HHS03800,Stella Maris Hotel,4.0,Kilkee,4.0,V15 EV88,52.68011,-9.64663,ann haugh,19
+1487,13,BBL11411,Quignalegan House,4.0,Ballina,4.0,F26 DW08,54.13302,-9.10899,Breege Padden,3
+1488,1,HHS04079,Treacys Hotel,4.0,Enniscorthy,4.0,Y21 V0F5,52.50306,-6.5652,Anton Treacy,48
+1489,1,HHS01052,Imperial Hotel,4.0,Tralee,4.0,V92 PK76,52.26848,-9.70521,Fionnbar Walsh,27
+1490,1,HHS03756,The Station House Hotel,4.0,Kilmessan,4.0,C15 N40D,53.56401,-6.66709,Suzanne Mullen,19
+1491,10,SCL15788,Killure Lodge & The Barn,4.0,Goresbridge,4.0,R95 KV18,52.65154,-7.01705,Majella Prendergast,2
+1492,1,HHS04141,Woodlands Hotel,4.0,Waterford,4.0,X91 VC2R,52.2392,-7.06441,Pat Lynch,47
+1493,1,HHS03240,Cashel House Hotel,4.0,Cashel,4.0,H91 XE10,53.41965,-9.80792,Brian McEvilly,29
+1494,1,HHS03402,Hillgrove Hotel Leisure and Spa,4.0,Monaghan,4.0,H18 RK15,54.2465,-6.955,Sean O'Driscoll,87
+1495,1,HHS04052,The Plaza Hotel,4.0,Dublin 24,4.0,D24 X2FC,53.28571,-6.36736,Declan Bowe,122
+1496,1,HHS01805,Abbey Hotel,4.0,Donegal Town,4.0,F94 AP8W,54.65373,-8.11082,Laura Mc Gowan,109
+1497,1,HHS04488,Great National Hotel Ballina,4.0,Ballina,4.0,F26 X5P3,54.08673,-9.16388,Stephen Clarke,87
+1498,1,HHS41077,Cashel Palace Hotel,5.0,Cashel,5.0,E25 EF61,52.51735,-7.88924,Adriaan Bartels,42
+1499,1,HHS03723,Hibernian Hotel,4.0,Mallow,4.0,P51 HE63,52.1376,-8.64593,Marcin Koperski,53
+1500,1,HHS02908,Greville Arms Hotel,4.0,Mullingar,4.0,N91 X9RN,53.52578,-7.34092,Christy Maye,38
+1501,7,WSL35121,Tankardstown Cottage Suites,3.0,Rathkenny,3.0,C15 D535,53.74144,-6.60911,Brian Conroy,50
+1502,1,HHS04083,Knock House Hotel,4.0,Knock,4.0,F12 R6Y5,53.79104,-8.91433,Declan Heneghan,68
+1503,10,SCL15643,Ballinacurra House,4.0,Kinsale,4.0,P17 YF76,51.71216,-8.5565,Lisa McGahan,3
+1504,2,GAS07890,Sea Rod Inn,4.0,Ballina,4.0,F26 V9V3,54.06988,-9.9523,Bernadette Barrett,9
+1505,1,HHS03942,Drury Court Hotel,4.0,Dublin 2,4.0,D02 XY61,53.34121,-6.26467,Emma House,42
+1506,1,HHS04360,The Montenotte Hotel,4.0,Cork,4.0,T23 E9DX,51.90464,-8.45218,Frankie Whelehan,107
+1507,1,HHS01738,Ashling Hotel Dublin,4.0,Dublin 8,4.0,D08 P38N,53.34808,-6.29081,Ronan Walsh,226
+1508,1,HHS04292,Clayton Hotel Cork City,4.0,Cork,4.0,T12 RD6E,51.89874,-8.46506,Conor O'Toole,201
+1509,1,HHS03966,Blooms Hotel,4.0,Dublin 2,4.0,D02 FK84,53.34481,-6.26214,Martina Keane,100
+1510,10,SCL32452,Tigh Mhic,4.0,Claremorris,4.0,F12 P5C2,53.73409,-8.83936,Sean Ottewell,1
+1511,1,HHS04210,Carnegie Court Hotel,4.0,Swords,4.0,K67 W4A9,53.46247,-6.21784,David Mc Dermott,44
+1512,1,HHS04453,Louis Fitzgerald Hotel,4.0,Dublin 22,4.0,D22 X5N7,53.31556,-6.38426,Paul Crawford,190
+1513,2,GAS07582,Ben View House,4.0,Clifden,4.0,H71 HH28,53.48877,-10.0208,Eileen Morris,8
+1514,1,HHS03678,Tinakilly Country House and Restaurant,4.0,Rathnew,4.0,A67 EE09,52.99618,-6.06691,Anna Windsor,52
+1515,1,HHS03686,Sligo Southern Hotel,4.0,Sligo,4.0,F91 EW24,54.27146,-8.48278,Kevin McGlynn,94
+1516,1,HHS04309,The g Hotel & Spa,5.0,Galway,5.0,H91 V0HR,53.28203,-9.03213,Bastien Peyraud,101
+1517,1,HHS04319,Mount Wolseley Hotel Spa & Golf Resort,4.0,Tullow,4.0,R93 C9H0,52.79102,-6.73136,Kate Harrison,143
+1518,1,HHS04231,Cavan Crystal Hotel,4.0,Cavan,4.0,H12 P6E5,53.98296,-7.34114,Michael Hanly,85
+1519,1,HHS03729,Bunratty Castle Hotel,4.0,Bunratty,4.0,V95 DW9N,52.69625,-8.81513,Freda Hayes,138
+1520,1,HHS02308,Old Ground Hotel,4.0,Ennis,4.0,V95 WDX2,52.84198,8.9823,John Maher,105
+1521,1,HHS04022,The Address Cork,4.0,Cork,4.0,T23 T292,51.90513,-8.4594,Jan mitchell,70
+1522,1,HHS04366,Kinsale Hotel & Spa,4.0,Kinsale,4.0,P17 F542,51.69858,-8.46553,Ronan Fahy,70
+1523,1,HHS04059,Carrigaline Court Hotel and Leisure Centre,4.0,Carrigaline,4.0,P43 RH21,51.81612,-8.39213,Peter Collins,91
+1524,1,HHS04445,Castlemartyr Resort,5.0,Castlemartyr,5.0,P25 X300,51.91126,-8.06286,Brendan Comerford,108
+1525,1,HHS03712,Cork's Vienna Woods Hotel,4.0,Cork,4.0,T45 V065,51.9079,-8.36197,Michael Magner,68
+1526,1,HHS04253,Quality Hotel Youghal,4.0,Youghal,4.0,P36 NR25,51.925,-7.87263,Allen Mc Enery,25
+1527,1,HHS01422,The Metropole Hotel,4.0,Cork,4.0,T23 EEC3,51.90131,-8.46759,Carmel Lonergan,108
+1528,1,HHS03836,Harvey's Point,4.0,Donegal Town,4.0,F94 E771,54.69615,-8.05272,Niall Coffey,88
+1529,1,HHS03266,Mount Errigal Hotel,4.0,Letterkenny,4.0,F92 FKX6,54.95049,-7.71393,Terry McEniff,139
+1530,1,HHS04502,Ard Ri House Hotel,4.0,Tuam,4.0,H54 V267,53.52699,-8.85161,Jean Browne,51
+1531,1,HHS04169,Harbour Hotel,4.0,Galway,4.0,H91 E9PR,53.27076,-9.04744,John Lally,96
+1532,1,HHS04027,Maldron Hotel Galway,4.0,Oranmore,4.0,H91 K7FA,53.27785,-8.92741,Carmel Walsh,113
+1533,1,HHS04284,Maldron Hotel Sandy Road Galway,4.0,Galway,4.0,H91 ET6N,53.28592,-9.04508,Andrew Hogan,165
+1534,1,HHS04447,The Rose Hotel,4.0,Tralee,4.0,V92 HKA4,52.26363,-9.70068,Mark Sullivan,161
+1535,1,HHS03185,Dromhall Hotel,4.0,Killarney,4.0,V93 PY80,52.05326,-9.50614,Susan Randles,83
+1536,1,HHS01092,Lake Hotel,4.0,Killarney,4.0,V93 RR59,52.03828,-9.49981,Tony Huggard,131
+1537,1,HHS03417,The Keadeen Hotel,4.0,Newbridge,4.0,W12 T925,53.17025,-6.81448,Launa Meredith,69
+1538,1,HHS04392,The Hoban Hotel Kilkenny,4.0,Kilkenny,4.0,R95 XV2D,52.63496,-7.24883,Hugh  Fitzpatrick,80
+1539,1,HHS04460,Pembroke Hotel,4.0,Kilkenny,4.0,R95 E40W,52.64936,-7.25133,Paul Broderick,73
+1540,1,HHS04512,Ballyfin Demesne,5.0,Ballyfin,5.0,R32 PN34,53.05705,-7.43177,Peter White,21
+1541,1,HHS04435,The Killeshin Hotel,4.0,Portlaoise,4.0,R32 TYW7,53.04023,-7.27226,Pat McDonagh,88
+1542,1,HHS04215,Clayton Hotel Limerick,4.0,Limerick,4.0,V94 H6HN,52.66048,-8.63718,Darren Harding,158
+1543,1,HHS04372,Maldron Hotel Limerick,4.0,Limerick,4.0,V94 EDP4,52.64736,-8.61858,Niamh Stapleton,142
+1544,1,HHS04418,Pillo Hotel Ashbourne,4.0,Ashbourne,4.0,A84 KR91,53.52601,-6.41408,Darrell Penney,148
+1545,1,HHS03366,Four Seasons Hotel,4.0,Monaghan,4.0,H18 Y220,54.25869,-6.96072,Frank McKenna,59
+1546,1,HHS04112,Bridge House Hotel Spa and Leisure Club,4.0,Tullamore,4.0,R35 K2T9,53.27491,-7.49288,Orla Grennan,70
+1547,1,HHS04481,Kilronan Castle Estate and Spa,4.0,Boyle,4.0,F52 R867,54.06416,-8.17753,Andrew McGovern,85
+1548,1,HHS04368,Castle Dargan Hotel,4.0,Ballygawley,4.0,F91 F2DN,54.19783,-8.4368,Shane O'Brien,26
+1549,1,HHS04485,Diamond Coast Hotel,4.0,Inniscrone,4.0,F26 E9F9,54.2048,-9.10298,Matthew Mc Donagh,99
+1550,1,HHS04060,Horse and Jockey Hotel,4.0,Thurles,4.0,E41 AP86,52.61561,-7.77573,Tom Egan,67
+1551,1,HHS01140,Dooley's Hotel Waterford,4.0,Waterford,4.0,X91 P86C,52.2629,-7.11581,Tina Darrer,112
+1552,1,HHS03078,Tower Hotel and Leisure Centre,4.0,Waterford,4.0,X91 VXE0,52.26007,-7.10498,Michael O'Neill,146
+1553,1,HHS04241,Mullingar Park Hotel,4.0,Mullingar,4.0,N91 A4EP,53.52289,-7.30346,Matt O'Connor,95
+1554,1,HHS03315,Ferrycarrig Hotel,4.0,Wexford,4.0,Y35 Y9TA,52.35373,-6.50578,Michael Griffin,102
+1555,1,HHS04114,BrookLodge & Macreddin Village,4.0,Macreddin Village,4.0,Y14 A362,52.88138,-6.33242,Evan Doyle,86
+1556,2,GAS07391,Rathsallagh House,4.0,Dunlavin,4.0,W91 XK68,53.02846,-6.72848,Joe O'Flynn,30
+1557,1,HHS03763,Tulfarris Hotel and Golf Resort,4.0,Tulfarris,4.0,W91 EE95,53.12433,-6.55915,Darren Byrne,90
+1558,1,HHS03438,Cabra Castle Hotel,4.0,Kingscourt,4.0,A82 EC64,53.91379,-6.77437,Howard Corscadden,78
+1559,1,HHS03702,Creighton Hotel,4.0,Clones,4.0,H23 HH60,54.18136,-7.23468,Patrick McCarville,19
+1560,1,HHS32397,Longford Arms Hotel,4.0,Longford,4.0,N39 FK26,53.72875,-7.80173,Orlagh Reynolds,56
+1561,13,BBL24825,Gallán Mór,4.0,Bantry,4.0,P75 E172,51.60963,-9.59168,Lorna Bourke,4
+1562,1,HHS03111,Salthill Hotel,4.0,Galway,4.0,H91 DD4V,53.25866,-9.08734,Richard Byrne,161
+1563,1,HHS04443,Absolute Hotel Limerick,4.0,Limerick,4.0,V94 WP52,52.66716,-8.61959,Donnacha Hurley,99
+1564,1,HHS04415,Athlone Springs Hotel,4.0,Athlone,4.0,N37 F9T3,53.42155,-7.99727,Aidan Donohue,68
+1565,1,HHS03193,Brandon Hotel Conference & Leisure Centre,4.0,Tralee,4.0,V92 PVK6,52.26706,-9.70994,Brendan Mc Carthy,187
+1566,1,HHS03843,Castletroy Park Hotel,4.0,Castletroy,4.0,V94 Y0AN,52.66701,-8.57689,Cyril Laffan,107
+1567,1,HHS04273,Claregalway Hotel,4.0,Claregalway,4.0,H91 XR8E,53.34366,-8.94396,Paul Gill,51
+1568,1,HHS04305,Clayton Hotel Sligo,4.0,Sligo,4.0,F91 N8EF,54.28168,-8.46118,Valerie O'Neill,162
+1569,1,HHS04429,Clayton Hotel Galway,4.0,Galway,4.0,H91 D526,53.29168,-8.98879,Rory Fitzpatrick,195
+1570,1,HHS04029,Clifden Station House,4.0,Clifden,4.0,H71 AK52,53.48878,-10.01771,James Sweeney,78
+1571,1,HHS04411,Cork International Hotel,4.0,Cork,4.0,T12 H516,51.85174,-8.48498,Eoghan Murphy,145
+1572,1,HHS04444,The Gateway Hotel Dundalk,4.0,Dundalk,4.0,A91 EF88,53.98052,-6.38878,Brendan Joyce,129
+1573,1,HHS03298,Dingle Skellig Hotel,4.0,Dingle,4.0,V92 D5X2,52.13407,-10.26936,Graham Fitzgerald,152
+1574,1,HHS02151,Dunraven Arms Hotel,4.0,Adare,4.0,V94 KV2P,52.56551,-8.78676,Louis Murphy,90
+1575,1,HHS03035,The Europe Hotel & Resort,5.0,Killarney,5.0,V93 KHN6,52.07023,-9.57182,Killarney Hotels Ltd Killarney Hotels Ltd,187
+1576,1,HHS04089,Faithlegg House Hotel,4.0,Faithlegg,4.0,X91 H008,52.2581,-7.02526,Liam Moran,82
+1577,1,HHS03770,Fitzgeralds Woodlands House Hotel,4.0,Adare,4.0,V94 F1P9,52.56311,-8.76543,Mary Fitzgerald,89
+1578,1,HHS03737,Hodson Bay Hotel,4.0,Athlone,4.0,N37 XR82,53.46801,-7.98845,Tim Hayes,176
+1579,1,HHS03136,Hotel Kilkenny,4.0,Kilkenny,4.0,R95 XD74,52.6431,-7.26108,David Byrne,138
+1580,1,HHS01784,Imperial Hotel with Escape Spa,4.0,Cork,4.0,T12 A2YT,51.89712,-8.47006,Eoin Daly,124
+1581,1,HHS04061,Inchydoney Island Lodge & Spa,4.0,Clonakilty,4.0,P85 X258,51.59737,-8.86229,Ruth McCarthy,67
+1582,1,HHS04137,Kilkenny Ormonde Hotel,4.0,Kilkenny,4.0,R95 Y5CX,52.6496,-7.25322,Colin Ahern,118
+1583,1,HHS04088,Kilkenny River Court Hotel,4.0,Kilkenny,4.0,R95 Y104,52.65154,-7.24926,Therese Kelly,102
+1584,1,HHS03870,The Killarney Park,5.0,Killarney,5.0,V93 CF30,52.05787,-9.50455,Sheila OSullivan,69
+1585,1,HHS03988,Knockranny House Hotel & Spa,4.0,Westport,4.0,F28 X340,53.80215,-9.50792,Adrian & Geraldine Noonan,97
+1586,1,HHS04422,Limerick Strand Hotel,4.0,Limerick,4.0,V94 03F2,52.66629,-8.63233,Imelda Lineen,184
+1587,1,HHS03949,Maldron Hotel Shandon Cork City,4.0,Cork,4.0,T23 A9TF,51.90275,-8.47461,Joe Kennedy,101
+1588,1,HHS04016,Maryborough Hotel & Spa,4.0,Cork,4.0,T12 XR12,51.87379,-8.42028,Justin McCarthy,92
+1589,1,HHS03568,Midleton Park Hotel,4.0,Midleton,4.0,P25 AX67,51.9148,-8.17895,Ken Moore,79
+1590,1,HHS01495,Muckross Park Hotel & Spa,5.0,Killarney,5.0,V93 NH5W,52.02462,-9.48914,Garrett Power,70
+1591,1,HHS04247,Osprey Hotel & Spa,4.0,Naas,4.0,W91 X40K,53.21333,-6.67041,Andrew Hyland,108
+1592,1,HHS03614,Park Hotel Kenmare,5.0,Kenmare,5.0,V93 X3XY,51.87831,-9.58117,Bryan Meehan,43
+1593,1,HHS04206,The Midlands Park Hotel,4.0,Portlaoise,4.0,R32 KV20,53.03492,-7.30304,Colm Neville,117
+1594,1,HHS03489,Radisson Blu Hotel & Spa Limerick,4.0,Limerick,4.0,V94 YA2R,52.68408,-8.71022,Brian Harrington,154
+1595,1,HHS03294,"Radisson Blu Hotel & Spa, Sligo",4.0,Rosses Point,4.0,F91 XW7Y,54.29896,-8.49975,Daniel Cross,132
+1596,1,HHS04396,Farnham Estate Spa & Golf Resort,4.0,Cavan,4.0,H12 H6Y8,54.00195,-7.40034,Eileen Hirrell,158
+1597,1,HHS04234,Radisson Blu Hotel Letterkenny,4.0,Letterkenny,4.0,F92 FK15,54.94701,-7.73353,Paul Byrne,114
+1598,1,HHS04246,Radisson Blu Hotel Athlone,4.0,Athlone,4.0,N37 A8X9,53.42455,-7.94133,Fergus O'Donovan,128
+1599,1,HHS03866,Randles Hotel,4.0,Killarney,4.0,V93 N264,52.05396,-9.50652,Susan Randles,74
+1600,1,HHS03810,Rochestown Park Hotel,4.0,Cork,4.0,T12 AKC8,51.87942,-8.42473,Tom Tobin,149
+1601,1,HHS03842,Sheen Falls Lodge,5.0,Kenmare,5.0,V93 HR27,51.87332,-9.56413,Scott Andrews,72
+1602,1,HHS04474,Sheraton Athlone Hotel,4.0,Athlone,4.0,N37 D953,53.42356,-7.93496,Garrett McGuinness,167
+1603,1,HHS03125,Clayton Hotel Silver Springs,4.0,Cork,4.0,T23 E244,51.904,-8.42411,Tracy Newman,109
+1604,1,HHS04262,The Brehon,4.0,Killarney,4.0,V93 RT22,52.04592,-9.50445,Sharon Dineen,125
+1605,1,HHS02133,Great Southern Killarney,4.0,Killarney,4.0,V93 R866,52.05891,-9.50362,Aoibheann O'Leary,177
+1606,1,HHS03189,Trident Hotel Kinsale ,4.0,Kinsale,4.0,P17 NT38,51.70072,-8.5182,David  Good,75
+1607,1,HHS04018,Tullamore Court Hotel,4.0,Tullamore,4.0,R35 D406,53.26988,-7.49243,Philip O'Brien,103
+1608,1,HHS04381,The Westgrove Hotel,4.0,Clane,4.0,W91 YWE0,53.28987,-6.6814,Bonnie Reidy,96
+1609,1,HHS03863,Glenlo Abbey Hotel & Estate,5.0,Galway,5.0,H91 XD8K,53.3004,-9.09856,Ronan O'Halloran,102
+1610,1,HHS03948,Hayfield Manor Hotel,5.0,Cork,5.0,T12 HT97,51.89098,-8.49016,Evander Brennan,88
+1611,1,HHS40186,The Davenport,4.0,Dublin 2,4.0,D02 DX57,53.34167,-6.25003,Charles O'Callaghan,115
+1612,1,HHS04019,"Radisson Blu Hotel, Dublin Airport",4.0,Swords,4.0,K67 H5H9,53.42652,-6.23241,Elaine Carolan,229
+1613,1,HHS04446,The Savoy Hotel,5.0,Limerick,5.0,V94 EY2P,52.66315,-8.62906,Altaf  Khan,107
+1614,2,GAS07651,Pembroke Townhouse,4.0,Dublin 4,4.0,D04 TF72,53.33253,-6.23802,Mirko Betti,49
+1615,2,GAS06660,Ariel Guesthouse,4.0,Dublin 4,4.0,D04 DD27,53.33416,-6.23108,Jennie  McKeown ,37
+1616,2,GAS40191,Clifden Guesthouse,4.0,Dublin 1,4.0,D01 CX93,53.35592,-6.26038,Nina Eustace,19
+1617,1,HHS03212,Abbeyglen Castle Hotel,4.0,Clifden,4.0,H71 NX28,53.48838,-10.03141,Brian Hughes,45
+1618,6,CCS00263,"Cong Camping, Caravan & Glamping Park",4.0,Cong,4.0,F31 XD56,53.53899,-9.27246,Lisa Collins,40
+1619,1,HHS02050,Esplanade Hotel,4.0,Bray,4.0,A98 A2T3,53.19878,-6.09616,Fergus O'Grady,91
+1620,4,HHL10875,Screebe House,4.0,Camus,4.0,H91 X5WY,53.38391,-9.55674,Vida Burkart,10
+1621,1,HHS04040,Yeats County Inn Hotel,4.0,Curry,4.0,F91 VY45,54.00323,-8.77132,Michael O'Hara,10
+1622,1,HHS01921,Glendalough Hotel,4.0,Glendalough,4.0,A98 X9C1,53.01141,-6.32577,John Casey,44
+1623,1,HHS04354,Mulranny Park Hotel,4.0,Westport,4.0,F28 N2H9,53.90601,-9.78265,Dermot Madigan,41
+1624,1,HHS03776,Castle Hotel,4.0,Dublin 1,4.0,D01 R640,53.35479,-6.2634,Fionn MacCumhaill,139
+1625,1,HHS04400,CityNorth Hotel,4.0,Gormanston,4.0,K32 W562,53.63925,-6.25767,Ciaran O Donovan,128
+1626,1,HHS04464,Hilton Dublin Kilmainham,4.0,Dublin 8,4.0,D08 XAK3,53.34235,-6.30846,Kevin Brennan,130
+1627,1,HHS04344,Lyrath Estate,5.0,Kilkenny,5.0,R95 F685,52.64834,-7.2105,Emma Jayne Eaton,141
+1628,1,HHS40195,The Mont,4.0,Dublin 2,4.0,D02 H525,53.3414,-6.251,Charles O'Callaghan,96
+1629,3,HOS09929,Oliver St John Gogartys,4.0,Dublin 2,4.0,D02 RX38,53.34547,-6.26419,Martina Keane,138
+1630,1,HHS03384,Maldron Hotel Merrion Road,4.0,Dublin 4,4.0,D04 A3K1,53.31231,-6.20221,Bruno Gorisch,140
+1631,1,HHS04036,Schoolhouse Hotel,4.0,Dublin 4,4.0,D04 P5W8,53.33739,-6.23943,Terry  Sweeney,31
+1632,7,WSL40808,Tig Micheál Bán,3.0,Bantry,3.0,P75 XW70,51.70475,-9.36635,Jerome  Wholihane,1
+1633,7,WSL40688,No.12,3.0,Dungarvan,3.0,X35 DY82,52.10102,-7.62445,Catherine  Kavanagh,2
+1634,7,WSL40690,Cuddly Cow Campview Farm,3.0,Ballyshannon,3.0,F94 X4H1,54.49642,-8.21969,Elspeth Vaughan,1
+1635,7,WSL41158,Carafin Lodge,3.0,Butlersbridge,3.0,H12 W5C9,54.04508,-7.40942,Pauric  McGearty,3
+1636,7,WSL40846,Salmon Quays,3.0,Ballina,3.0,F26 F1H2,54.12447,-9.13574,Paul Keane,1
+1637,13,BBL40760,The Wave B&B,4.0,Galway city,4.0,H91 CYF5,53.2644,-9.06964,Caroline  Lavelle,3
+1638,7,WSL41309,River Run House & Cottages,3.0,Nenagh,3.0,E45 KV07,53.05408,-8.20613,Caragh Walsh,6
+1639,7,WSL41243,Fort Apache & Father Ted Caravan Experience,3.0,Lecamey,3.0,F93 AV80,55.26193,-7.07805,Scott Bauman,3
+1640,7,WSL41159,Cedar Lodge,3.0,Killarney,3.0,V93 Y9Y5,52.04753,-9.454,Bernice Cronin,5
+1641,7,WSL40863,Killee Cottage,3.0,MItchelstown,3.0,P67 NR70,52.27161,8.33565,Lorraine Bell,1
+1642,7,WSL40899,Tara Hill Estate,3.0,Gorey,3.0,Y25 RX36,52.69774,-6.20634,Ben Wainwright,4
+1643,7,WSL40921,Moyard - Love Connemara Cottages,3.0,Clifden,3.0,H71 VF62,53.48762,-10.02001,Terence O'Toole,4
+1644,7,WSL40929,Clifden Area - Love Connemara Cottages,3.0,Clifden,3.0,H71 VF62,53.48762,-10.02001,Terence O'Toole,13
+1645,7,WSL40919,Claddaghduff - Love Connemara Cottages,3.0,Clifden,3.0,H71 VF62,53.48762,-10.02001,Terence O'Toole,3
+1646,7,WSL41218,Lynders Mobile Home Park,4.0,Dublin,4.0,K36 V326,53.4912,-6.0993,Stephanie Harris,70
+1647,1,HHS41134,Hampton by Hilton Dublin Four Courts,4.0,Dublin 7,4.0,D07 KX21,53.34713,-6.27182,Ehi Ojeifo,249
+1648,7,WSL40997,Arranmore Glamping,4.0,Arranmore,4.0,F92 X207,54.9824,-8.51683,Noreen Muldowney,6
+1649,7,WSL41063,Castlecoote Lodge,3.0,Roscommon,3.0,F42 W440,53.61435,8.30667,Mary Margaret Leyden,3
+1650,7,WSL41048,Jampa Ling Hostel,3.0,Bawnboy,3.0,H14 E286,54.10677,-7.7029,Desmond Gough,1
+1651,7,WSL40977,Castledarcy Glamping,3.0,Lahinch,3.0,V95 F78W,52.93346,-9.34408,Donncha Clair,10
+1652,7,WSL41055,Forest View Lodge,3.0,Murroe,3.0,V94 V6YE,52.67963,8.34077,Martina Healy,1
+1653,13,BBL41089,Brook Manor Lodge,4.0,Tralee,4.0,V92 YX21,52.28384,-9.7462,Sandra Lordan,6
+1654,7,WSL41113,Marlfield House,3.0,Gorey,3.0,Y25 DK23,52.67378,-6.29307,Margaret Bowe,6
+1655,13,BBL41204,O'Connor's B&B,4.0,Cahersiveen,4.0,V23 T802,51.96306,-10.18072,Joan O'Connor,2
+1656,13,BBL41372,Maranatha Country House,4.0,Blarney,4.0,T23 AE42,51.92815,-8.6024,Olwen Venn,6
+1657,7,WSL41369,The Cathedral View Apartments,3.0,Longford,3.0,N39 H9C1,53.72646,-7.79643,Geraldine Stewart,9
+1658,7,WSL41367,The Cosy Cottage,3.0,Moville,3.0,F93 CDH6,55.18933,-7.0392,Sadie Carey,6
+1659,7,WSL41374,Doonhill Lodge,3.0,Clifden,3.0,H71 DD76,53.41226,-10.12193,Tina Mcdonagh,3
+1660,1,HHS03469,Headfort Arms Hotel,4.0,Kells,4.0,A82 D2C1,53.7268,-6.87412,"Peggie, Vincent and Olivia Duff",45
+1661,1,HHS03130,Rosapenna Hotel and Golf Resort,4.0,Downings,4.0,F92 PN73,55.18863,-7.82736,John Casey,70
+1662,1,HHS03379,Sligo Park Hotel and Leisure Club,4.0,Sligo,4.0,F91 Y762,54.25433,-8.471,Bernadette Coffey,136
+1663,1,HHS03599,Talbot Hotel Stillorgan,4.0,Stillorgan,4.0,A94 V6K5,52.29491,-6.20303,Daragh O'Neill,150
+1664,1,HHS04330,House Dublin,4.0,Dublin 2,4.0,D02 V306,53.33408,-6.25514,Laura Cooke,16
+1665,1,HHS04458,The Address Citywest,4.0,Dublin 22,4.0,D22 W580,53.30128,-6.41955,Brian McGettigan,129
+1666,1,HHS04469,Deebert House Hotel,4.0,Kilmallock,4.0,V35 KV62,52.40081,-8.57065,Margaret Atalla,19
+1667,13,BBL13176,Dungimmon House,4.0,Ballyconnell,4.0,H14 AV62,54.08586,-7.53191,John Deegan,6
+1668,1,HHS04484,Cliff House Hotel,5.0,Ardmore,5.0,P36 DK38,51.94866,-7.7151,Patrick Shields,39
+1669,1,HHS04308,The d Hotel,4.0,Drogheda,4.0,A92 HF5F,53.714,-6.34507,Rory McNulty,111
+1670,1,HHS04093,Silver Tassie Hotel,4.0,Letterkenny,4.0,F92 NFP9,54.98606,-7.67053,Ciaran Blaney,36
+1671,1,HHS41194,Ballymaloe House,4.0,Shanagarry,4.0,P25 YO70,51.86691,-8.07829,Fern Allen,32
+1672,1,HHS03901,Bellbridge House Hotel,4.0,Miltown Malbay,4.0,V95 V4XK,52.83769,-9.42953,Jerry Linnane,58
+1673,1,HHS04323,Monart Destination Spa,5.0,Enniscorthy,5.0,Y21 XY79,52.5082,-6.61129,Liam Griffin,70
+1674,1,HHS03834,Lough Inagh Lodge Hotel,4.0,Recess,4.0,H91 E3Y8,53.5208,-9.742,Maire O' Connor,13
+1675,7,WSL40102,Ashville House,3.0,Killarney,3.0,V93 VK06,52.06352,-9.51247,Declan Walsh,12
+1676,2,GAS07759,Broadmeadow Country House,4.0,Ashbourne,4.0,A84 XK38,53.49056,-6.36019,Sandra Duff,8
+1677,2,GAS07858,McCarthy's Guesthouse,4.0,Westport,4.0,F28 TN22,53.79875,-9.52603,David Tyrell,7
+1678,2,GAS07880,Blindgate House,4.0,Kinsale,4.0,P17 PX61,51.70356,-8.52562,Maeve Coakley,11
+1679,1,HHS01370,Bridge Hotel,4.0,Arklow,4.0,Y14 A303,52.79816,-6.15244,Jim Hoey,15
+1680,7,WSL41121,Griffith Halls of Residence,3.0,Dublin 8,3.0,D08 HY60,53.33093,-6.27835,Paul Smith,170
+1681,7,WSL41139,Alensgrove Cottages,3.0,Leixlip,3.0,W23 DD83,53.35341,-6.50866,Sean Higgins,22
+1682,7,WSL41169,Cabra Cottages,3.0,Kingscourt,3.0,A82 EC64,53.91958,-6.78558,Sharon McKenna,6
+1683,7,WSL41165,The Hidden Cottage and Lodge,3.0,Ardara,3.0,F94 X3C1,54.75073,8.34739,Charlotte England,2
+1684,1,HHS41300,The Club at Goffs,4.0,Kill,4.0,W91 APW9,53.24482,-6.61054,Louise Boland,50
+1685,7,WSL41214,Willowfarmhouse,3.0,Milford,3.0,F92 DCY6,55.08186,-7.71295,Dolores Mc Carron,1
+1686,7,WSL41206,Brandon Adventures,3.0,Castlegregory,3.0,V92 XEV6,52.23324,-10.16675,John Timlin,1
+1687,13,BBL41229,Pepper Canister Townhouse,4.0,Dublin 2,4.0,D02 Y039,53.33698,-6.24318,Natalie Kinsella,4
+1688,7,WSL41230,Killeen Castle Golf Resort & Lodges,3.0,Dunsany,3.0,C15 FH39,53.528,-6.579,Philip Rock,6
+1689,7,WSL35396,Quinlan & Cooke Boutique Townhouse,3.0,Caherciveen,3.0,V23 WA46,51.94586,-10.22702,Kate Cooke,11
+1690,1,HHS36004,The Royal Valentia,4.0,Valentia Island,4.0,V23 XR88,51.92611,-10.28813,Vincent Kidd,29
+1691,7,WSL40558,The Herons Rest Boutique Accommodation,3.0,Galway,3.0,H91 KN67,53.26911,-9.05273,Sorcha Molloy,3
+1692,1,HHS01593,Shandon Hotel & Spa,4.0,Portnablagh,4.0,F92 A895,55.17987,-7.90677,Carolynne Harrison,67
+1693,1,HHS03318,Carraroe Hotel,4.0,Carraroe,4.0,H91 XV34,53.26393,-9.60686,Grainne Nestor,36
+1694,1,HHS03552,Derrynane Hotel,4.0,Caherdaniel,4.0,V93 HC59,51.75764,-10.09008,MARTIN MCCORMACK,68
+1695,1,HHS03824,Tullys Hotel,4.0,Castlerea,4.0,F45 K127,53.76713,-8.48708,Paul Tully,15
+1696,1,HHS03972,Merriman Hotel,4.0,Kinvara,4.0,H91 HD2P,53.13931,-8.93989,Diarmuid  Mc Auliffe,32
+1697,7,WSL35014,Killary Adventure Centre,3.0,Leenane,3.0,H91 PY61,53.59269,-9.76916,Mary Young,20
+1698,4,HHL11288,Roundwood House,4.0,Mountrath,4.0,R32 TK79,53.0273,-7.52514,Hannah  Flynn,6
+1699,13,BBL36753,Desmond House,4.0,Kinsale,4.0,P17 PW22,51.70692,-8.52486,Grainne Barnett,4
+1700,5,SCS09242,Montenotte Holiday Apartments,4.0,Cork,4.0,T23 E9DX,51.90455,-8.45218,Frankie Whelehan,26
+1701,1,HHS04370,Talbot Hotel Clonmel,4.0,Clonmel,4.0,E91 X0N7,52.35657,-7.73878,Michael Boyle,99
+1702,1,HHS04390,Lough Rynn Castle,4.0,Mohill,4.0,N41 WE16,53.89366,-7.84895,Alan Kane,44
+1703,1,HHS04398,An Grianan Hotel,4.0,Burt,4.0,F93 YA0P,55.03893,-7.43373,EmmaRose Callaghan,43
+1704,13,BBL35877,Summer Hill,4.0,Castletownbere,4.0,P75 FN32,51.64659,-9.91964,Cornelius O'Sullivan,5
+1705,1,HHS04462,Annebrook House Hotel,4.0,Mullingar,4.0,N91 YH2F,53.52501,-7.33861,Vincent Dunne,28
+1706,1,HHS04490,Shirley Arms Hotel,4.0,Carrickmacross,4.0,A81 W677,53.97795,-6.71995,Michael Muldoon,25
+1707,2,GAS08016,Hillcrest Guesthouse,4.0,Clonmel,4.0,E91 AF59,52.35676,-7.6908,Declan Gavigan,9
+1708,1,HHS34452,Granvue Hotel,4.0,Omeath,4.0,A91 D82H,54.08893,-6.25764,Mohammed Selim Bepary,10
+1709,10,SCL23017,Bradleys Cottage Creeslough,4.0,Creeslough,4.0,F92 Y9K1,55.1113,-7.91871,Seamus McGinley,1
+1710,1,HHS04515,Cryans Hotel on the Quay,4.0,Carrick-On-Shannon,4.0,N41 PX65,53.94339,-8.09373,Frances Cryan,24
+1711,10,SCL23220,An Caladh Spainneach,4.0,Dingle,4.0,V92 P3C2,52.1394,-10.27642,Padraig O'Longaigh,1
+1712,11,SCL24318,Tawnylust Lodge,4.0,Manorhamilton,4.0,F91 F8Y8,54.31144,-8.09817,Nuala McNulty,1
+1713,10,SCL24446,Ballymalone More,4.0,Ballina,4.0,V94 V8K5,52.80647,-8.40565,Paul Conroy,1
+1714,10,SCL32380,Teac Chondai Thatch cottage,4.0,Annagry,4.0,F94 R2A0,54.99923,-8.28785,Dervilla Curran,1
+1715,11,SCL35117,MDI's Home from Home,4.0,Dublin 20,4.0,D20 DR77,53.35099,-6.3526,Owen Collumb,1
+1716,10,SCL32384,Lakelodge,4.0,Mullingar,4.0,N91 Y293,53.58977,-7.38999,Jacinta O'Brien,3
+1717,11,SCL32453,The Old Rectory Apartments - Loft,4.0,Fenagh,4.0,N41 AK31,54.01588,-7.83642,Julie Callaghan,4
+1718,7,WSL36229,Clifden Eco Beach Camping & Caravanning,3.0,Clifden,3.0,H71 W024,53.52368,-10.13446,Kris Acton,47
+1719,7,WSL34993,Rock Farm Slane,3.0,Slane,3.0,C15 FNP4,53.70486,-6.55717,Carina Conyngham,15
+1720,7,WSL36619,Arch House B&B and Apartments,3.0,Athlone,3.0,N37 H348,53.42267,7.93449,Chris  Moran,18
+1721,7,WSL35909,Diamond Hill Country House,3.0,Slieverue,3.0,X91 Y076,52.27738,-7.08001,Benny Smith,15
+1722,7,WSL35948,Laharandota - the artists' cottage & studio,3.0,Kilcrohane,3.0,P75 WP86,51.5669,-9.78875,Julie FitzGerald,2
+1723,7,WSL36434,Django's Hostel,3.0,Roscrea,3.0,E53 EY04,52.94391,-8.03929,Pa Finucane,1
+1724,1,HHS34677,Connemara Sands Beach Hotel & Spa,4.0,Clifden,4.0,H71 TY79,53.43817,-10.07763,Dean Gibson,21
+1725,7,WSL35399,Eccles Townhouse,3.0,Dublin 1,3.0,D01 T3F2,53.35664,-6.26468,Tom McKeon,7
+1726,7,WSL36270,The Mill,3.0,Dunfanaghy,3.0,F92 RK79,55.17676,-7.97972,Susan Alcorn,7
+1727,7,WSL36223,Tir na hÓige,3.0,Easkey,3.0,F26 PK49,54.28537,-8.96263,Margaret Conlon,26
+1728,7,WSL36453,Creacon Wellness Retreat,3.0,New Ross,3.0,Y34 NH61,52.36124,-6.94237,Gavin O Neill,16
+1729,7,WSL36327,Huntington Castle,3.0,Clonegal,3.0,Y21 K237,52.69044,-6.64912,Alexander Durdin Robertson,3
+1730,7,WSL36212,Wolohan's Silver Strand Caravanning Park,3.0,Wicklow,3.0,A67 PK31,52.95483,6.01653,John Wolohan,75
+1731,7,WSL40722,Billy Byrnes Bar & Restaurant,3.0,Kilkenny,3.0,R95 K091,52.65469,-7.24705,William Byrne,6
+1732,10,SCL40630,Green Meadow Farm Holiday Accommodation,4.0,Redcross,4.0,A67 HX05,52.88838,-6.15953,Bernard Brennan,4
+1733,7,WSL36490,Barrons Café and Bed & Breakfast,3.0,Moville,3.0,F93 X7FN,55.18822,-7.04186,Marie McGinley,3
+1734,7,WSL36302,Moville Boutique Hostel Accommodation,3.0,Moville,3.0,F93 DE27,55.19175,-7.04561,Cressida Canavan,1
+1735,7,WSL40341,Keane's Cottage & Keane's Cottage Carriage House,3.0,Ardmore,3.0,P36 H299,51.95622,-7.824,Rowland Orr,2
+1736,7,WSL36727,The Celtic B&B,3.0,Ballina,3.0,V94 F9F3,52.8149,-8.43628,Pat Rohan,4
+1737,7,WSL36393,The Glenmalure Lodge,3.0,Rathdrum,3.0,A67 WF65,52.95765,-6.35346,Anne Dowling,15
+1738,7,WSL36338,Kerry Way Rest,3.0,Caherdaniel,3.0,V93 AK60,51.77015,-10.09914,Eileen O'Leary,1
+1739,13,BBL36769,Copperfield House,4.0,Cashel,4.0,E25 XD68,52.51453,-7.89132,Josephine Devitt,5
+1740,1,HHS34529,Kildare House Hotel,4.0,Kildare,4.0,R51 AX74,53.15554,-6.90727,Martin Myles,19
+1741,1,HHS34934,Riverside Hotel,4.0,Sligo,4.0,F91 X92V,54.2714,8.4674,John Gavaghan,66
+1742,1,HHS35076,Westenra Arms Hotel,4.0,Monaghan,4.0,H18 XA97,54.24879,-6.9692,Frank McEnaney,22
+1743,1,HHS40126,Hannons Hotel,4.0,Roscommon,4.0,F42 PH33,53.75926,-8.26816,Ursula  Hannon,24
+1744,1,HHS35688,Crover House Hotel,4.0,Mountnugent,4.0,A82 P2D9,53.82587,-7.3647,Neill OReilly,44
+1745,1,HHS35801,McKevitts Village Hotel,4.0,Carlingford,4.0,A91 N7YD,54.04039,-6.18717,Terry Mc Kevitt,12
+1746,1,HHS35926,Cill Aodain Court Hotel,4.0,Kiltimagh,4.0,F12 RH95,53.85042,-8.99806,PJ Staide,17
+1747,1,HHS36256,Ocean Sands Hotel,4.0,Inniscrone,4.0,F26 Y3Y9,54.2127,-9.09425,Mark Devaney,50
+1748,1,HHS40063,Hotel Woodstock,4.0,Ennis,4.0,V95 TR25,52.84095,-9.02826,Sean Lally,67
+1749,1,HHS40177,Travelodge Castletroy,4.0,Castletroy,4.0,V94 Y83C,52.66476,-8.58539,Fearghal O'Sullivan,70
+1750,1,HHS40037,Connemara Lake Hotel,4.0,Oughterard,4.0,H91 TNH5,53.42872,-9.31981,Annette O'Sullivan,15
+1751,10,SCL36351,Gleann Dearg,4.0,Annascaul,4.0,V92 X6F6,52.14427,-9.98523,Liam Fitzgerald,1
+1752,10,SCL36604,Croan Cottages,4.0,Dunnamaggin,4.0,R95 X086,52.4746,-7.2714,Francis Nesbitt,5
+1753,8,SCS36566,Hookless Holiday Homes,4.0,Fethard-On-Sea,4.0,Y34 F773,52.16456,-6.88184,Katie Hodgins,6
+1754,1,HHS40301,Wild Atlantic Lodge,4.0,Ballyvaughan,4.0,H91 HD90,53.11582,-9.14834,Paul Haugh,19
+1755,7,WSL40711,Cuach Cottage,3.0,Clifden,3.0,H71 NX48,53.46297,-10.00181,Liam Young,1
+1756,7,WSL36676,The Lodge at Harvey's Point,3.0,Lough Eske,3.0,F94 C3F8,54.69805,-8.05192,Sheila Russell,13
+1757,7,WSL36685,Glanleam House,3.0,Valentia Island,3.0,V23 AC80,51.92391,-10.31921,Jessica Kreissig,4
+1758,8,SCS08819,Doonbeg Holiday Cottages,4.0,Doonbeg,4.0,V15 KH39,0.0,0.0,Joe Russell,6
+1759,7,WSL40035,Termon House,3.0,Dungloe,3.0,F94 R8NO,54.93513,-8.45149,Lorraine Bell,1
+1760,10,SCL24236,Alder Cottage,4.0,Dromahair,4.0,F91 R9N4,54.27004,-8.2588,Mary Luthers,1
+1761,13,BBL40681,Grey Gables Farmhouse B&B,4.0,Innishannon,4.0,T12 E778,51.77847,-8.61339,Janet Quin,3
+1762,13,BBL37173,Lios na Manach,4.0,Killarney,4.0,V93 ED90,52.04742,-9.49772,Brigid O'Sullivan,3
+1763,1,HHS03095,Dromoland Castle Hotel,5.0,Newmarket-On-Fergus,5.0,V95 ATD3,52.78347,-8.90566,Mark Nolan,97
+1764,7,WSL36857,Aille River Tourist Hostel & Camping,3.0,Doolin,3.0,V95 AN80,53.01655,-9.37835,Robert Shannon,1
+1765,13,BBL36818,Avon Lodge B&B,4.0,Dunmore East,4.0,X9I EH50,52.15572,-6.99924,Caroline Roberts,2
+1766,7,WSL36321,Ballymacarbry Hostel,3.0,Ballymacarbry,3.0,E91 T6X8,52.16225,7.44511,David O'Gorman,1
+1767,7,WSL36834,"Tannery Restaurant, Townhouse and Cookery School",3.0,Dungarvan,3.0,X35 XN99,52.08856,-7.61741,Maire Flynn,14
+1768,7,WSL34780,Clongibbon House,3.0,Mitchelstown,3.0,P67 N726,52.26564,-8.27045,Brenda Tangney,4
+1769,10,SCL34460,Caledonia,4.0,Ballina,4.0,F26 H9T0,54.12023,-9.13744,Gina Murphy,1
+1770,7,WSL35570,Ballyhoura Luxury Hostel,3.0,Kilfinane,3.0,V35 KX59,52.35863,8.47087,Séamus Nunan,7
+1771,1,HHS34579,The Western Hotel,4.0,Claremorris,4.0,F12 C579,53.72122,-8.99835,paul hanley,12
+1772,13,BBL36733,Cois na hAbhann,4.0,Ennis,4.0,V95 V6P1,53.01559,-9.378,Brian Campbell,3
+1773,7,WSL36265,Wilton Castle,3.0,Bree,3.0,Y21 XH50,52.45869,-6.61119,Sean Windsor,4
+1774,7,WSL40310,Ross Castle,3.0,Rosscahill,3.0,H91 K25N,53.38205,-9.23614,Marshall McLaughlin,3
+1775,7,WSL40643,Bellingham Castle,3.0,Dundalk,3.0,A91 RP44,53.89471,-6.39247,Patrick Corscadden,28
+1776,7,WSL36011,Fanad Lighthouse,3.0,Fanad Head,3.0,F92 YCO3,55.27562,-7.63459,Eimear Ni Mhathúna,3
+1777,7,WSL36879,Crew's Restaurant & Accommodation,3.0,Dungarvan,3.0,X35 YP08,52.08863,-7.61716,Roisin Horsom,5
+1778,7,WSL36889,The Black Sheep Hostel,3.0,Killarney,3.0,V93 Y02C,52.05827,-9.5152,Kevin Leahy,1
+1779,7,WSL36928,Claddagh Cottages,3.0,Clashmore,3.0,P36 TP49,52.01584,-7.75841,Siobhan Fitzgerald,2
+1780,7,WSL36908,Blackstairs Ecotrails,3.0,Borris,3.0,R95 N1K7,52.61328,-6.85511,Mary White,4
+1781,7,WSL40475,Killarney Glamping at the Grove,4.0,Killarney,4.0,V93TP3Y,52.05375,-9.48525,Linda O'Sullivan,12
+1782,7,WSL37033,The Schoolhouse at Annaghmore,3.0,Ballinacarrow,3.0,F56 XK60,54.1519,-8.54723,Lorraine Bell,1
+1783,7,WSL36932,Merrion Mews,3.0,Dublin 2,3.0,D02 RY67,53.33801,-6.24971,Lorraine Bell,1
+1784,3,HOS40082,Garden Lane Backpackers,4.0,Dublin 8,4.0,D08 VY00,53.34099,-6.27705,Victoria Nascimento,46
+1785,7,WSL37085,Lakeview House,3.0,Ballinamore,3.0,N41 YP76,54.06308,-7.82189,Brian McKeon,2
+1786,10,SCL37025,Brownes Townhouse,4.0,Dungarvan,4.0,X35 Y066,52.08809,-7.62212,Naoive Coggin,1
+1787,3,HOS40277,Charlotte Rooms @ The Ritz Centre,4.0,Carlow,4.0,R93 T8P4,52.83635,-6.92991,Aidan O'Toole,43
+1788,6,CCS40041,Lough Arrow Touring Park,4.0,Riverstown,4.0,F52 K793,54.06256,-8.30027,Catherine Ashworth,35
+1789,7,WSL37115,The Royal Cork Yacht Club,3.0,Crosshaven,3.0,P43 HD40,51.80436,-8.30379,Mark Ring,220
+1790,7,WSL37142,Caseys of Baltimore Lodge,3.0,Baltimore,3.0,P81 YW66,51.48467,-9.36251,Dominic Casey,3
+1791,13,BBL36914,Copper Coast B&B,4.0,Bunmahon,4.0,X42 EE03,52.13642,-7.3831,Ann O'Meara,4
+1792,7,WSL37151,An Stór Townhouse,3.0,Midleton,3.0,P25 R718,51.91527,-8.17198,Maria Murphy,11
+1793,7,WSL40273,Killarney View House,3.0,Killarney,3.0,V93 W568,52.04736,-9.5058,Mary Guerin,10
+1794,7,WSL40723,Falls Self Catering Accommodation,3.0,Ennistymon,3.0,V95 D2PC,52.94062,-9.29876,Michael McCarthy,9
+1795,1,HHS40106,Waterfront Hotel,4.0,Dungloe,4.0,F94 W974,54.95207,-8.36708,Patrick Boyle,49
+1796,13,BBL40721,Wicklow Way Lodge B&B,4.0,Roundwood,4.0,A98 K702,53.10408,-6.23894,Marilyn Kinlan,4
+1797,7,WSL40026,Kinsale Yacht Club,3.0,Kinsale,3.0,P17 KT68,51.42,8.31,Brian Hunt,193
+1798,2,GAS40806,Boyne House Slane,4.0,Slane,4.0,C15 P657,53.71001,-6.54436,Tadhg Carolan,10
+1799,1,HHS40916,Staycity Aparthotels Dublin Castle,4.0,Dublin 8,4.0,D08 Y2AY,53.3443,-6.2772,Karen  Wright,50
+1800,7,WSL40116,Kilcloon Self Catering Cottages,3.0,Kilcloon,3.0,A85 F674,53.42126,-6.56703,Jacinta Sheerin Kenny,8
+1801,7,WSL40006,Kilrush Marina,3.0,KIilrush,3.0,V15 AD62,52.63499,-9.495,Breeda Nugent,137
+1802,7,WSL40030,Millbrae Townhouse,3.0,Buncrana,3.0,F93 NH24,55.13246,-7.45281,Anita Friel,1
+1803,7,WSL40015,The Nest Boutique Hostel,3.0,Galway,3.0,H91 R868,53.26235,-9.07244,Keith  Kissane,1
+1804,13,BBL40090,Canal View Bed & Breakfast,4.0,Boyle,4.0,F52 K253,53.98354,-8.28694,Bodo  Funke,3
+1805,7,WSL40028,Kilmore Quay Marina,3.0,Kilmore Quay,3.0,Y35 DX85,52.17219,-6.5894,Aidan Bates,60
+1806,7,WSL40069,Aldridge Lodge ,3.0,New Ross,3.0,Y34 W650,52.21618,-6.90945,Joanne Harding,3
+1807,5,SCS40024,Talbot Suites at Stonebridge,4.0,Wexford,4.0,Y35 TR28,52.33663,-6.45751,Margaret Cahill,69
+1808,7,WSL40008,Boyne View House,3.0,Trim,3.0,C15 PRR0,53.52188,-6.85076,Deirdre Hoey,11
+1809,7,WSL40012,The Courtyard Apartments,3.0,Carrick-On-Shannon,3.0,N41 V2T9,53.94647,-8.09232,Pamela Ruddy,42
+1810,7,WSL40039,Batty Langley Lodge - Irish Landmark Trust,3.0,Celbridge,3.0,W23 W2K8,53.3469,-6.51706,Lorraine Bell,1
+1811,7,WSL40049,Salterbridge Gatelodge - The Irish Landmark Trust,3.0,Cappoquin,3.0,P51 DY01,52.1513,-7.86291,Lorraine Bell,1
+1812,7,WSL40036,Loop Head Lightkeepers Cottage,3.0,Kilrush,3.0,V15 T292,52.56061,-9.93216,Lorraine Bell,1
+1813,7,WSL40052,Galley Head Lightkeeper's Cottages,3.0,Clonakilty,3.0,P85 PP83,51.53012,-8.95298,Lorraine Bell,2
+1814,7,WSL40121,Annes Grove,3.0,Castletownroche,3.0,P51 K064,52.19484,-8.46612,Lorraine Bell,1
+1815,7,WSL40033,Railway Crossing Cottage - Irish Landmark Trust,3.0,Donegal,3.0,F94 Y9P1,54.65888,-8.14167,Lorraine Bell,1
+1816,7,WSL40034,St. Johns Point Lightkeeper's Cottages - Irish Landmark Trust,3.0,Dunkineely,3.0,F94 F5H6,54.56935,-8.46036,Lorraine Bell,2
+1817,7,WSL40085,Inchiquin House,3.0,Corofin,3.0,V95 Y722,52.96063,-9.06612,Lorraine Bell,1
+1818,7,WSL40057,Wicklow Head Lighthouse - Irish Landmark Trust,3.0,Wicklow,3.0,T12 RR6V,52.96514,-6.00241,Lorraine Bell,1
+1819,7,WSL40050,Cecil's Cottage,3.0,Buncrana,3.0,F93 CY52,55.15794,-7.48182,Anita Friel,1
+1820,7,WSL40032,White Strand Beach House,3.0,Buncrana,3.0,F93 XT7R,55.1236,-7.45397,Anita Friel,1
+1821,7,WSL40122,Moyvalley Self Catering Cottage,3.0,Moyvalley,3.0,W91 Y803,53.41882,-6.92298,Simon Mooney,15
+1822,1,HHS40670,Rockhill House Estate,4.0,Letterkenny,4.0,F92 R523,54.93309,-7.77432,Kathryn Molloy,27
+1823,7,WSL40092,Aran Islands Camping & Glamping,3.0,Aran Islands,3.0,H91 N8YX,53.12466,-9.66241,Michael Mullen,84
+1824,13,BBL40114,Birchdale House Bed & Breakfast,4.0,Rathdrum,4.0,A67 TX01,52.92653,-6.29203,Tom Moylan,4
+1825,7,WSL40088,"Balreask Bar, Restaurant and Guest Accommodation",3.0,Navan,3.0,C15 T0CR,53.62852,-6.68997,Enda Blaney,17
+1826,7,WSL40083,Mullaghduff Thatched Cottage,3.0,Kincasslagh,3.0,F94 YO37,55.03024,-8.35115,Maxine  Durkin,1
+1827,11,SCL40105,Arvagh Market Square Apartments,4.0,Arvagh,4.0,H12 W1W3,53.96684,-7.44812,Eamonn Gray,5
+1828,7,WSL40084,Breac House,3.0,Dunfanaghy,3.0,F92 YC56,55.19329,-7.98573,Niall Campbell,4
+1829,1,HHS40140,Hyde Hotel,4.0,Galway,4.0,H91 PY7E,53.27482,-9.04632,Wayne Neilon,69
+1830,7,WSL40252,Dunmore House & Gardens,3.0,Carrigans,3.0,F93 XA46,54.95427,-7.42163,Anne McFarland,3
+1831,7,WSL40094,Achill Seal Caves Caravan & Camping,3.0,Achill Island,3.0,F28 P273,54.00979,-10.02358,Enda McHugh,56
+1832,1,HHS41107,Saltees Coast Hotel,4.0,Kilmore Quay,4.0,Y35 DC89,52.17842,-6.58488,Caitriona Hyland,10
+1833,8,SCS40113,Castlemartyr Holiday Lodges & Mews,4.0,Castlemartyr,4.0,P25 X300,51.91126,-8.06286,Carl Hanratty,9
+1834,7,WSL40174,Wild Atlantic Hostel,3.0,Leenane,3.0,H91 DP08,53.62191,-9.75439,Nouman Zeb,1
+1835,7,WSL40166,Boortree Touring & Camping,3.0,Ballyshannon,3.0,F94 W64W,54.56517,-8.21275,Marie Kelly,22
+1836,10,SCL40153,Teach Bhalor,4.0,Falcarragh,4.0,F92 NXY9,55.1363,-8.10402,Mary McGarvey - Boyle,1
+1837,10,SCL40172,Ash Lodge,4.0,Sligo,4.0,F52 XP28,54.08283,-8.26576,David Conlon,1
+1838,7,WSL40163,Boolakennedy Self Catering Boutique Farm Cottages,3.0,Ballylooby,3.0,E21 FE48,52.33435,-8.05682,Paul Lonergan,2
+1839,10,SCL40169,Bluebell Cottage Tipperary,4.0,Borrisoleigh,4.0,E41 ND62,52.77522,8.01947,Gordon Hodgkinson,1
+1840,1,HHS40279,Cliffs of Moher Hotel,4.0,Liscannor,4.0,V95 K59V,52.93896,-9.39041,Ronan Garvey,23
+1841,7,WSL40224,Pearse Lodge,3.0,Sligo,3.0,F91 F6N2,54.26348,-8.46821,Mary and Kieron Kearney,4
+1842,7,WSL40198,Seafort Luxury Hideaway,3.0,Bantry,3.0,P75 FX40,51.69292,-9.44322,Siobhan O'Sullivan,4
+1843,1,HHS40346,Peacockes Hotel,4.0,Recess,4.0,H91 P798,53.45634,-9.53938,Grainne Connaughton,25
+1844,7,WSL40384,Kilmore Quay Camping and Holiday Park,3.0,Kilmore Quay,3.0,Y35 R596,52.1754,-6.5919,Thomas and Alice O'Connor,26
+1845,7,WSL41069,Gabriel House,3.0,Cork,3.0,T23 X963,51.90315,-8.45838,Liam Maher,28
+1846,7,WSL40303,McGettigan's Townhouse,3.0,Dublin 7,3.0,D07 PW67,53.34728,-6.28032,James McGettigan,11
+1847,1,HHS40410,Bellinter House Hotel & Spa,4.0,Navan,4.0,C15 F2XA,53.59778,-6.66167,Denise O'Brien,41
+1848,7,WSL40368,Aran Seaview Chalets,3.0,Aran Islands,3.0,H91 DH27,53.11807,-9.67664,Keith Madigan,40
+1849,7,WSL40315,The Old Irish Farmhouse,3.0,Skreen,3.0,F91 EVK6,54.22263,-8.72726,Trudy Prescott,1
+1850,7,WSL40334,The Lookout,3.0,Ardara,3.0,F94 K152,54.77045,8.47492,Brigitte Strecker,5
+1851,7,WSL40362,The Hendrick,3.0,Dublin 7,3.0,D07 A8N1,53.34784,-6.28128,David Monks,146
+1852,1,HHS40575,Marlin Hotel Dublin,4.0,Dublin 2,4.0,D02 YE24,53.33895,-6.23969,Declan Sweeney,300
+1853,10,SCL40404,Heron's Lodge,4.0,Carrick-On-Shannon,4.0,N41 R9F5,53.839,-7.9651,Jody Rous,1
+1854,11,SCL40411,Bolands Self Catering Holiday Accommodation,4.0,Hacketstown,4.0,R93 KX80,52.86561,-6.5588,Lucille Boland,1
+1855,1,HHS40568,Moxy Dublin City,4.0,Dublin 1,4.0,D01 H2Y2,53.3492,-6.25868,Cristian Semerean,157
+1856,7,WSL40428,Clifden Town - Love Connemara Cottages,3.0,Clifden,3.0,H71 VF62,53.48763,-10.02002,Terence O'Toole,22
+1857,7,WSL40433,Willowbrook Glamping and Hideaways,3.0,Ballaghaderreen,3.0,F45 YE27,53.8671,-8.60236,Wesley Pollington,5
+1858,2,GAS40757,Milltown House,4.0,Dingle,4.0,V92 DP93,52.14051,-10.2885,Stephen McPhilemy,10
+1859,13,BBL40509,The Paddocks,4.0,Old Kildimo,4.0,V94 E177,8.82931,52.61495,Helen Tuohy,3
+1860,7,WSL40542,Haggart House,3.0,Bantry,3.0,P75 HD98,51.705,-9.3653,Kate Wholihane,1
+1861,7,WSL40619,The Beach,3.0,Inishbofin,3.0,H91 XK74,53.0,10.0,Adrian Herlihy,4
+1862,7,WSL41074,Tubbrid Castle,3.0,Barna,3.0,E41 AE93,52.71235,-7.47846,John Campion,1
+1863,7,WSL40501,Church View Manor,3.0,Castleblayney,3.0,A75 XV40,54.05995,6.81582,Kathleen Ward,1
+1864,7,WSL40489,Abhainn Ri Farmhouse & Suite,3.0,Hollywood,3.0,W91 W2P1,53.09834,-6.56319,Niamh Byrne,3
+1865,13,BBL40628,Halpin's Town House,4.0,Wicklow Town,4.0,A67 E244,52.98,-6.04,Ian & Patricia Hynes,4
+1866,7,WSL40486,Darver Castle,3.0,Dundalk,3.0,A91 RDX2,53.9258,6.4698,Julia Carville,56
+1867,7,WSL40507,Stonepark Lodge Caravan Camping and Accommodation,3.0,Ballinderry,3.0,E45 CR97,53.02418,8.22195,Sean O Meara,37
+1868,7,WSL40491,Burren Yoga Retreat,3.0,Kinvara,3.0,H91 KN72,53.08665,-8.95506,David Brocklebank,17
+1869,7,WSL40502,Ballyheigue House,3.0,Tralee,3.0,V92 V291,53.15087,9.38004,Kathleen Ward,1
+1870,13,BBL40552,Avonmore House B&B,4.0,Youghal,4.0,P36 AT18,51.94908,-7.84374,John Bailey,6
+1871,13,BBL40623,Paudie and Anne's Bed and Breakfast,4.0,Killarney,4.0,V93 V250,52.04608,-9.47824,Paudie Horgan,2
+1872,1,HHS40866,Zanzibar Locke,4.0,Dublin 1,4.0,D01 H3V5,53.3465,-6.26415,Romy Farrelly,160
+1873,1,HHS40944,Beckett Locke,4.0,Dublin 1,4.0,D01 E5C7,53.34806,-6.22956,Siobhán Ryan Davern,241
+1874,1,HHS40915,Holiday Inn Dublin Airport,4.0,Dublin,4.0,K67 E5C9,53.41283,-6.21837,Karolina Banska,421
+1875,7,WSL40703,Lazy Days VW Campers,3.0,Three Mile Water,3.0,A67 WD30,52.92699,-6.05662,Susan Best,7
+1876,7,WSL41174,Ash Tree Cottage,3.0,Bangor,3.0,F26 W9F2,54.14568,-9.74683,Gerard Sweeney,1
+1877,7,WSL41130,Anne's Cottage,3.0,Bantry,3.0,P75 CV48,51.64306,-9.39954,Anne Buckley,2
+1878,7,WSL41168,Moneylands Farm,3.0,Arklow,3.0,Y14 F858,52.7844,-6.1638,Lillie Byrne,25
+1879,7,WSL41156,An Síbín,3.0,Kenmare,3.0,V93 T4C2,51.76665,9.76843,Philip Moriarty,4
+1880,1,HHS03093,Clew Bay Hotel,4.0,Westport,4.0,F28 WD66,53.80063,-9.52335,Maria Ruddy,28
+1881,1,HHS03314,Westport Woods Hotel & Spa,4.0,Westport,4.0,F28 FK23,53.79924,-9.54119,Michael Lennon,122
+1882,1,HHS03073,County Arms Birr,4.0,Birr,4.0,R42 Y568,53.09026,-7.90602,Eoin Garry,70
+1883,1,HHS04342,Clayton Hotel Dublin Airport,4.0,Clonshaugh,4.0,K67 X3H5,53.4119,-6.21804,Thomas Doyle,608
+1884,1,HHS03065,Ardilaun Hotel and Leisure Club,4.0,Galway city,4.0,H91 H29F,53.26753,-9.08081,John Ryan,123
+1885,1,HHS01231,"Central Hotel, Conference and Leisure Centre",4.0,Donegal Town,4.0,F94 X79D,54.65349,-8.1108,Breda Haden,113
+1886,1,HHS04154,Mill Park,4.0,Donegal Town,4.0,F94 HD99,54.65912,-8.11821,Tony McDermott,113
+1887,1,HHS01307,The Wyatt Hotel,4.0,Westport,4.0,F28 TD76,53.79926,-9.52531,Noel Kavanagh,89
+1888,1,HHS04101,Westport Coast Hotel,4.0,Westport,4.0,F28 X8H2,53.79958,-9.54988,Siobhan Peyton,95
+1889,1,HHS02428,Sheedy's Hotel & Restaurant,4.0,Lisdoonvarna,4.0,V95 NH22,53.02775,-9.28964,Martina Sheedy,11
+1890,1,HHS01290,Bay View Hotel,4.0,Ballycotton,4.0,P25 KP59,51.82789,-8.00468,Stephen Belton,34
+1891,1,HHS02901,"The Gleneagle Hotel, Killarney",4.0,Killarney,4.0,V93 V6WF,52.04438,-9.5021,Patrick O'Donoghue,279
+1892,2,GAS07190,Lehinch Lodge,4.0,Lahinch,4.0,V95 NX68,52.93416,-9.33896,Victor and Margaret Mulcahy,15
+1893,2,GAS07579,Hanora's Cottage,4.0,Ballymacarbry,4.0,E91 NR52,52.27739,-7.63391,Eoin Wall,10
+1894,1,HHS03154,Park Inn Shannon Airport,4.0,Shannon,4.0,V14 N763,52.69079,-8.91947,Louise O'Hara,114
+1895,1,HHS03346,Roundstone House Hotel,4.0,Roundstone,4.0,H91 X0K5,53.39515,-9.91904,Diarmuid Vaughan,11
+1896,1,HHS03508,Springfield Hotel,4.0,Leixlip,4.0,W23 W280,53.36027,6.25,Garret O'Neill,58
+1897,1,HHS03606,"Bloomfield House Hotel, Leisure Club & Spa",4.0,Mullingar,4.0,N91 HP8E,53.48821,-7.3624,Oliver Gaffey,111
+1898,1,HHS03610,Inishowen Gateway Hotel,4.0,Buncrana,4.0,F93 PPH9,55.1258,-7.457,Pat Doherty,80
+1899,1,HHS03619,Town House Hotel,4.0,Naas,4.0,W91 A9KR,53.21625,-6.67192,Mary Elliffe,12
+1900,1,HHS03682,Kilcoran Lodge Hotel,4.0,Cahir,4.0,E21 H680,52.34458,-8.02913,Munster Strategic Investment Ltd In Receivership,23
+1901,13,BBL11447,Ashfield House,4.0,Ballinrobe,4.0,F31 XH02,53.5584,-9.24997,Christina Dunleavy,4
+1902,13,BBL41391,Muckross Riding Stables B&B,4.0,Killarney,4.0,V93 TNH1,52.02185,-9.47896,Hannah O Donovan,6
+1903,7,WSL40640,Goleen Harbour,3.0,Goleen,3.0,P81 CX98,51.49604,9.70829,Matt Mills,10
+1904,7,WSL41409,The Forum - Mountmellick,3.0,Mountmellick,3.0,R32 KN25,53.11822,-7.32854,Eugene Conroy,1
