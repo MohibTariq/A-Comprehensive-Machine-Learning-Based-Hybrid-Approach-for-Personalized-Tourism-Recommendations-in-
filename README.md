@@ -1,8 +1,8 @@
 # A Comprehensive Machine Learning-Based Hybrid Approach for Personalized Tourism Recommendations in Ireland
 
-**Author:** Mohib Tariq (x23259850)
+**Author:** Mohib Tariq
 **Degree:** MSc Data Analytics — National College of Ireland
-**Supervisor:** Teerath Kumar Menghwar
+
 
 ---
 
