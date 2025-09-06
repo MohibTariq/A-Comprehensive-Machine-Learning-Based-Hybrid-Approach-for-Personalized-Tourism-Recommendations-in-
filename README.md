@@ -10,14 +10,11 @@
 
 1. [Project Overview](#project-overview)
 2. [Key Contributions](#key-contributions)
-3. [Repository layout & exact filenames](#repository-layout--exact-filenames)
-4. [Datasets (location & brief)](#datasets-location--brief)
-5. [Methods & Implementation (high level)](#methods--implementation-high-level)
-6. [Quickstart — reproduce results locally](#quickstart---reproduce-results-locally)
-7. [Evaluation & Results (summary)](#evaluation--results-summary)
-8. [Limitations & Future Work](#limitations--future-work)
-9. [How to cite / Final report](#how-to-cite--final-report)
-10. [Contributing, License & Contact](#contributing-license--contact)
+3. [Datasets (location & brief)](#datasets-location--brief)
+4. [Methods & Implementation (high level)](#methods--implementation-high-level)
+5. [Quickstart — reproduce results locally](#quickstart---reproduce-results-locally)
+6. [Evaluation & Results (summary)](#evaluation--results-summary)
+7. [Limitations & Future Work](#limitations--future-work)
 
 ---
 
@@ -35,60 +32,6 @@ The goal of the project is to produce accurate, explainable and reproducible top
 * Implemented a collaborative filtering pipeline using truncated SVD on a user-item matrix (user behavior simulated where necessary).
 * Designed and evaluated a weighted hybrid combining content, collaborative and cluster features, trained via Ridge regression.
 * Provided full preprocessing, feature engineering, evaluation scripts and plotting utilities for reproducible experiments.
-
----
-
-# Repository layout & exact filenames
-
-Below is the exact structure and filenames used in the repository. Use these paths when running scripts or referencing files.
-
-```
-README.md
-requirements.txt
-
-/data/
-  Dataset_1_Content_based_filtering/
-    Dataset_1_Content_based_filtering.ipynb
-    Dataset_1_Content_based_filtering.py
-    dataset_1_tourist_attractions.csv
-  Dataset_2_Content_based_filtering/
-    Dataset_2_Content_based_filtering.ipynb
-    Dataset_2_Content_based_filtering.py
-    dataset_2_accommodations.csv
-  Dataset_3_Collaborative_filtering/
-    Dataset_3_Collaborative_filtering.ipynb
-    Dataset_3_Collaborative_filtering.py
-    dataset_3_famous_places.csv
-
-/notebooks/
-  01_EDA_Dataset1.ipynb
-  02_ContentBased_Dataset1.ipynb
-  03_CollaborativeFilter.ipynb
-  04_HybridModel.ipynb
-  utils/
-    preprocessing.py
-    features.py
-    evaluation.py
-
-/scripts/
-  run_recommendation.py          # CLI entrypoint: --dataset <path> --mode <content|collab|hybrid>
-  eval_results.py                # Evaluation runner to regenerate metric tables & figures
-  preprocess_all.py              # Run full preprocessing for all datasets and save artifacts
-
-/results/
-  figures/
-  metrics/
-  artifacts/                      # saved models, vectorizers, scalers, clusters
-
-/docs/
-  Mohib_Tariq_Research_Project_Report_Updated (3).pdf
-
-LICENSE
-CONTRIBUTING.md
-
-```
-
-> Note: These filenames were created to reflect the files visible in the repository screenshot / project structure. If your repository uses slightly different names (capitalisation, underscores, or different extensions) the notebooks and scripts still reference relative paths — update them accordingly.
 
 ---
 
@@ -186,21 +129,3 @@ For full tables, plots and the complete analysis, see the PDF in `/docs` and the
 **Suggested future improvements**: dynamic weighting strategies (learned instead of fixed), using graph-based approaches (LightGCN), adding temporal & seasonal features, integrating travel time & external APIs (transport, weather), and deploying a small demo service (Flask/FastAPI + simple UI).
 
 ---
-
-# How to cite / Final report
-
-If you use or cite this work, please reference the MSc thesis included in `/docs`:
-
-> Mohib Tariq (2024). *A Comprehensive Machine Learning-Based Hybrid Approach for Personalized Tourism Recommendations in Ireland.* MSc Research Project, National College of Ireland. (PDF included in `/docs`)
-
----
-
-# Contributing, License & Contact
-
-* **Contributing:** Open an issue or submit a PR. Add unit tests for utility functions and CI (GitHub Actions) if desired.
-* **License:** Add `LICENSE` (e.g., MIT) to the repo.
-* **Contact:** Mohib Tariq — add preferred email / GitHub handle.
-
----
-
-*README generated and placed into the canvas for easy copy/paste.*
